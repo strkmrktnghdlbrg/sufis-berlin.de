@@ -8,7 +8,7 @@ export const SITE = {
   // --- integrations (fill before go-live) ---
   gtmId: '',            // e.g. GTM-XXXXXXX
   adsenseClient: '',    // e.g. ca-pub-XXXXXXXXXXXXXXXX
-  stay22LmaId: '',      // per-project Stay22 lmaID (ask client)
+  stay22LmaId: '687d45fa59536aeb6a353b71',  // per-project Stay22 lmaID (from ClickUp Projects & PBNs)
   gygPartnerId: '1UPZQQB',
 };
 
