@@ -1,0 +1,18 @@
+{
+  "name": "sufis-berlin",
+  "type": "module",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.7.0",
+    "@astrojs/sitemap": "^3.2.1",
+    "@tailwindcss/vite": "^4.1.3",
+    "tailwindcss": "^4.1.3"
+  }
+}

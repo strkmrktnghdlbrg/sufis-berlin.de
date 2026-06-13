@@ -1,0 +1,51 @@
+---
+import Logo from './Logo.astro';
+const nav = [
+  { href: '/berlin/die-besten-nachtclubs/', label: 'Clubs & Bars' },
+  { href: '/genres/', label: 'Genres' },
+  { href: '/bezirke/', label: 'Bezirke' },
+  { href: '/hotels/', label: 'Hotels' },
+  { href: '/magazin/', label: 'Magazin' },
+];
+---
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="logo" href="/"><Logo id="lg-h" /><span>SUFIS<span class="thin"> Berlin</span></span></a>
+    <nav class="nav-links">
+      {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+    </nav>
+    <div class="nav-right">
+      <a class="login" href="/club-eintragen/">Anmelden</a>
+      <a class="btn btn-primary" href="/club-eintragen/">Club eintragen</a>
+    </div>
+    <button class="burger" id="burger" aria-label="Menü öffnen" aria-expanded="false">
+      <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 6h18M3 12h18M3 18h18"/></svg>
+    </button>
+  </div>
+</header>
+
+<div class="drawer-backdrop" id="drawer-backdrop"></div>
+<aside class="drawer" id="drawer" aria-hidden="true">
+  <button class="close" id="drawer-close" aria-label="Menü schließen">
+    <svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M6 6l12 12M18 6 6 18"/></svg>
+  </button>
+  {nav.map((n) => <a href={n.href}>{n.label}</a>)}
+  <a href="/club-eintragen/" style="color:var(--neon);font-weight:600">Club eintragen →</a>
+</aside>
+
+<script>
+  const burger = document.getElementById('burger');
+  const drawer = document.getElementById('drawer');
+  const backdrop = document.getElementById('drawer-backdrop');
+  const close = document.getElementById('drawer-close');
+  const open = (v: boolean) => {
+    drawer?.classList.toggle('open', v);
+    backdrop?.classList.toggle('open', v);
+    burger?.setAttribute('aria-expanded', String(v));
+    drawer?.setAttribute('aria-hidden', String(!v));
+    document.body.style.overflow = v ? 'hidden' : '';
+  };
+  burger?.addEventListener('click', () => open(true));
+  close?.addEventListener('click', () => open(false));
+  backdrop?.addEventListener('click', () => open(false));
+</script>

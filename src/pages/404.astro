@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { GENRES, BEZIRKE } from '../data/site';
+---
+<BaseLayout title="Seite nicht gefunden – SUFIS Berlin" description="Diese Seite gibt es nicht mehr." noindex={true}>
+  <section class="block">
+    <div class="wrap" style="text-align:center;max-width:640px">
+      <span class="eyebrow">404</span>
+      <h2 style="font-size:42px;margin:10px 0 14px">Diese Nacht ist vorbei.</h2>
+      <p class="muted" style="font-size:18px;margin-bottom:28px">Die Seite, die du suchst, existiert nicht mehr. Aber Berlin schläft nie - starte hier neu:</p>
+      <div class="cta-actions" style="justify-content:center">
+        <a class="btn btn-primary btn-lg" href="/">Zur Startseite</a>
+        <a class="btn btn-ghost btn-lg" href="/genres/">Clubs nach Genre</a>
+      </div>
+      <div class="pillwrap" style="justify-content:center;margin-top:36px">
+        {[...GENRES.slice(0,5), ...BEZIRKE.slice(0,4)].map((x) => <a class="pill" href={`/berlin/${x.slug}/`}>{x.name}</a>)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

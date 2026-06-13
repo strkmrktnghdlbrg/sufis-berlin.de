@@ -1,0 +1,515 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>SUFIS Berlin — Clubs, Bars & Nachtleben-Guide für Berlin</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,600&family=Inter:wght@400;500;600;700&family=Inter+Tight:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{
+  /* --- Recolored Monotype palette → "Berlin Neon Nights" (dark) --- */
+  --ink:#f5f2f7;          /* near-white — primary text */
+  --steel:#a39db0;        /* muted lavender-gray — secondary text */
+  --paper:#16121d;        /* card surface */
+  --canvas:#0d0a12;       /* page base — deepest */
+  --mist:#241d2e;         /* dividers */
+  --fog:#2e2639;          /* card borders */
+  --ash:#3c3249;          /* interaction rings */
+  --neon:#ff2d7e;         /* electric magenta — conversion accent */
+  --neon-deep:#e21567;    /* hover */
+  --uv:#8b5cf6;           /* UV violet — secondary accent */
+  --wash:#1a1424;         /* section wash */
+  --wash-2:#161020;
+  --gold:#f5c451;         /* premium marker */
+  --gold-bg:#2a2113;
+
+  --font-display:'Fraunces', Georgia, serif;
+  --font-ui:'Inter Tight', system-ui, sans-serif;
+  --font-body:'Inter', system-ui, sans-serif;
+
+  --maxw:1280px;
+  --r-ui:8px;
+  --r-img:16px;
+  --shadow:rgba(0,0,0,.4) 0 1px 2px 0;
+  --shadow-card:rgba(0,0,0,.5) 0 8px 28px -8px;
+  --glow:0 0 0 0 rgba(255,45,126,0);
+  --glow-on:0 6px 24px -6px rgba(255,45,126,.55);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{font-family:var(--font-body);color:var(--ink);background:var(--canvas);font-size:16px;line-height:1.5;-webkit-font-smoothing:antialiased}
+.wrap{max-width:var(--maxw);margin:0 auto;padding:0 24px}
+a{color:inherit;text-decoration:none}
+img{max-width:100%;display:block}
+.eyebrow{font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon)}
+h1,h2,h3{font-family:var(--font-display);font-weight:500;line-height:1.1;letter-spacing:-.01em}
+.muted{color:var(--steel)}
+
+/* ---------- Announcement bar ---------- */
+.announce{background:linear-gradient(90deg,var(--uv),var(--neon));color:#fff;text-align:center;font-family:var(--font-ui);font-size:14px;padding:9px 16px;font-weight:500}
+.announce b{font-weight:700}
+
+/* ---------- Nav ---------- */
+.nav{position:sticky;top:0;z-index:50;background:rgba(13,10,18,.82);backdrop-filter:blur(12px);border-bottom:1px solid var(--mist)}
+.nav-in{display:flex;align-items:center;gap:32px;height:68px}
+.logo{font-family:var(--font-display);font-weight:600;font-size:22px;letter-spacing:.02em;display:flex;align-items:center;gap:10px}
+.logo .mark{width:30px;height:30px;flex:none}
+.logo .thin{color:var(--steel);font-weight:400;letter-spacing:0}
+.nav-links{display:flex;gap:26px;font-family:var(--font-ui);font-size:15px;font-weight:500;margin-left:8px}
+.nav-links a{color:var(--ink);padding:6px 0;transition:color .15s}
+.nav-links a:hover{color:var(--neon)}
+.nav-right{margin-left:auto;display:flex;align-items:center;gap:18px}
+.nav-right .login{font-family:var(--font-ui);font-size:15px;font-weight:500;color:var(--steel)}
+.nav-right .login:hover{color:var(--ink)}
+.btn{font-family:var(--font-ui);font-weight:600;font-size:15px;border-radius:var(--r-ui);padding:11px 20px;cursor:pointer;border:1px solid transparent;transition:.18s;display:inline-flex;align-items:center;gap:8px;white-space:nowrap}
+.btn-primary{background:var(--neon);color:#fff;box-shadow:var(--glow)}
+.btn-primary:hover{background:var(--neon-deep);box-shadow:var(--glow-on)}
+.btn-ghost{background:transparent;color:var(--ink);border-color:var(--fog)}
+.btn-ghost:hover{border-color:var(--ash);background:var(--paper)}
+.btn-lg{padding:14px 26px;font-size:16px}
+
+/* ---------- Hero ---------- */
+.hero{background:radial-gradient(120% 90% at 80% -10%, rgba(139,92,246,.28) 0%, rgba(139,92,246,0) 55%),radial-gradient(90% 80% at 0% 10%, rgba(255,45,126,.22) 0%, rgba(255,45,126,0) 50%),var(--canvas);padding:74px 0 64px;position:relative;overflow:hidden}
+.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}
+.hero h1{font-size:56px;line-height:1.04;margin-bottom:20px}
+.hero h1 em{font-style:italic;color:var(--neon)}
+.hero p.lead{font-size:19px;color:var(--steel);max-width:30em;margin-bottom:28px}
+/* Search card */
+.searchcard{background:var(--paper);border:1px solid var(--fog);border-radius:14px;padding:14px;box-shadow:var(--shadow-card)}
+.searchrow{display:flex;gap:10px}
+.field{flex:1;display:flex;align-items:center;gap:10px;border:1px solid var(--fog);border-radius:var(--r-ui);padding:12px 14px;background:var(--wash)}
+.field:focus-within{border-color:var(--neon);box-shadow:0 0 0 3px rgba(255,45,126,.18)}
+.field svg{flex:none;color:var(--steel)}
+.field input{border:none;outline:none;font-family:var(--font-body);font-size:15px;width:100%;color:var(--ink);background:transparent}
+.field input::placeholder{color:#6d6678}
+.field .lbl{font-family:var(--font-ui);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:var(--steel);margin-bottom:2px}
+.field .stack{display:flex;flex-direction:column;width:100%}
+.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}
+.chip{font-family:var(--font-ui);font-size:13px;font-weight:500;color:var(--ink);background:var(--wash);border:1px solid var(--fog);border-radius:999px;padding:7px 14px;cursor:pointer;transition:.15s}
+.chip:hover{border-color:var(--neon);color:var(--neon)}
+.chip .x{color:var(--neon);margin-right:6px}
+.hero-trust{display:flex;align-items:center;gap:8px;margin-top:24px;font-size:14px;color:var(--steel)}
+.hero-trust svg{color:var(--neon)}
+/* hero visual */
+.hero-visual{position:relative}
+.hero-visual img{width:100%;height:490px;object-fit:cover;border-radius:var(--r-img);filter:saturate(1.1) contrast(1.05)}
+.hero-visual::after{content:"";position:absolute;inset:0;border-radius:var(--r-img);box-shadow:inset 0 0 90px rgba(255,45,126,.25),inset 0 0 0 1px rgba(255,255,255,.05)}
+.float-card{position:absolute;background:rgba(22,18,29,.92);backdrop-filter:blur(6px);border:1px solid var(--fog);border-radius:12px;padding:14px 16px;box-shadow:var(--shadow-card);font-family:var(--font-ui);z-index:2}
+.float-1{top:24px;left:-26px;display:flex;align-items:center;gap:12px}
+.float-1 .av{width:42px;height:42px;border-radius:10px;background:linear-gradient(135deg,var(--uv),var(--neon));display:flex;align-items:center;justify-content:center;font-weight:700;color:#fff;font-size:13px}
+.float-1 .nm{font-size:14px;font-weight:600}
+.float-1 .sub{font-size:12px;color:var(--steel)}
+.float-2{bottom:28px;right:-22px;text-align:center}
+.float-2 .big{font-family:var(--font-display);font-size:30px;font-weight:600;color:var(--neon)}
+.float-2 .sub{font-size:12px;color:var(--steel)}
+.stars{color:var(--gold);letter-spacing:1px;font-size:13px}
+
+/* ---------- Trust strip ---------- */
+.trust-strip{border-top:1px solid var(--mist);border-bottom:1px solid var(--mist);background:var(--wash-2)}
+.trust-in{display:grid;grid-template-columns:repeat(4,1fr);text-align:center}
+.trust-in>div{padding:30px 16px}
+.trust-in>div+div{border-left:1px solid var(--mist)}
+.trust-in .num{font-family:var(--font-display);font-size:34px;font-weight:600;color:var(--ink)}
+.trust-in .lab{font-family:var(--font-ui);font-size:14px;color:var(--steel);margin-top:4px}
+
+/* ---------- Section scaffold ---------- */
+section.block{padding:88px 0}
+.head{max-width:42em;margin-bottom:40px}
+.head h2{font-size:38px;margin:10px 0 12px}
+.head p{font-size:17px;color:var(--steel)}
+.head.center{margin-left:auto;margin-right:auto;text-align:center}
+
+/* ---------- Genre grid ---------- */
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.vcard{border:1px solid var(--fog);border-radius:var(--r-ui);padding:22px;background:var(--paper);transition:.18s;display:block}
+.vcard:hover{border-color:var(--neon);transform:translateY(-2px);box-shadow:var(--shadow-card)}
+.vcard .ic{width:46px;height:46px;border-radius:11px;background:var(--wash);border:1px solid var(--fog);display:flex;align-items:center;justify-content:center;color:var(--neon);margin-bottom:16px}
+.vcard h3{font-family:var(--font-ui);font-weight:600;font-size:17px;letter-spacing:-.01em}
+.vcard p{font-size:14px;color:var(--steel);margin-top:6px}
+.vcard .cnt{font-family:var(--font-ui);font-size:13px;color:var(--neon);font-weight:600;margin-top:12px}
+
+/* ---------- Districts ---------- */
+.cities{background:var(--wash-2)}
+.city-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+.city{display:flex;justify-content:space-between;align-items:center;border:1px solid var(--fog);background:var(--paper);border-radius:var(--r-ui);padding:16px 18px;font-family:var(--font-ui);transition:.15s}
+.city:hover{border-color:var(--neon);background:var(--wash)}
+.city .nm{font-weight:600;font-size:16px}
+.city .ct{font-size:13px;color:var(--steel)}
+.city .ar{color:var(--steel)}
+.morelink{font-family:var(--font-ui);font-weight:600;color:var(--neon);font-size:15px;display:inline-flex;gap:6px;align-items:center;margin-top:28px}
+
+/* ---------- Venue cards ---------- */
+.pcard{border:1px solid var(--fog);border-radius:12px;overflow:hidden;background:var(--paper);transition:.18s;display:flex;flex-direction:column}
+.pcard:hover{box-shadow:var(--shadow-card);transform:translateY(-2px);border-color:var(--ash)}
+.pcard .ph{position:relative;height:188px}
+.pcard .ph img{width:100%;height:100%;object-fit:cover}
+.pcard .ph::after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(13,10,18,0) 40%,rgba(13,10,18,.55) 100%)}
+.badge-prem{position:absolute;top:12px;left:12px;z-index:2;background:var(--gold-bg);color:var(--gold);font-family:var(--font-ui);font-size:11px;font-weight:700;letter-spacing:.05em;text-transform:uppercase;padding:5px 10px;border-radius:6px;display:flex;align-items:center;gap:5px;border:1px solid rgba(245,196,81,.25)}
+.badge-genre{position:absolute;top:12px;right:12px;z-index:2;background:rgba(13,10,18,.7);backdrop-filter:blur(4px);color:#fff;font-family:var(--font-ui);font-size:11px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;padding:5px 10px;border-radius:6px}
+.pcard .body{padding:18px;display:flex;flex-direction:column;gap:8px;flex:1}
+.pcard .nm{font-family:var(--font-display);font-size:21px;font-weight:600}
+.pcard .role{font-family:var(--font-ui);font-size:14px;color:var(--steel)}
+.pcard .rate{display:flex;align-items:center;gap:8px;font-size:14px}
+.pcard .rate b{font-family:var(--font-ui)}
+.tagrow{display:flex;flex-wrap:wrap;gap:6px;margin-top:2px}
+.tag{font-family:var(--font-ui);font-size:12px;color:var(--ink);background:var(--wash);border:1px solid var(--fog);border-radius:6px;padding:4px 9px}
+.tag.hot{color:var(--neon);border-color:rgba(255,45,126,.3);background:rgba(255,45,126,.08)}
+.pcard .meta{display:flex;align-items:center;gap:6px;font-size:13px;color:var(--steel);margin-top:2px}
+.pcard .foot{margin-top:auto;padding-top:14px;border-top:1px solid var(--mist);display:flex;align-items:center;justify-content:space-between}
+.pcard .foot .av{font-family:var(--font-ui);font-size:13px}
+
+/* ---------- Steps ---------- */
+.steps{background:linear-gradient(180deg,var(--wash) 0%,var(--canvas) 100%)}
+.step{padding:8px 0}
+.step .n{font-family:var(--font-display);font-size:15px;font-weight:600;color:var(--neon);border:1px solid var(--ash);width:40px;height:40px;border-radius:50%;display:flex;align-items:center;justify-content:center;margin-bottom:18px}
+.step h3{font-family:var(--font-ui);font-weight:600;font-size:19px;color:#fff;margin-bottom:8px;letter-spacing:-.01em}
+.step p{color:var(--steel);font-size:15px}
+
+/* ---------- Pills ---------- */
+.pillwrap{display:flex;flex-wrap:wrap;gap:10px}
+.pill{font-family:var(--font-ui);font-weight:500;font-size:15px;border:1px solid var(--fog);border-radius:999px;padding:11px 20px;background:var(--paper);transition:.15s}
+.pill:hover{border-color:var(--neon);color:var(--neon);background:var(--wash)}
+
+/* ---------- Venue owner CTA band ---------- */
+.cta-band{background:linear-gradient(120deg,var(--uv),var(--neon));color:#fff;border-radius:var(--r-img);padding:56px;display:grid;grid-template-columns:1.3fr .7fr;gap:40px;align-items:center;position:relative;overflow:hidden}
+.cta-band::after{content:"";position:absolute;inset:0;background:radial-gradient(60% 120% at 100% 0%,rgba(255,255,255,.18),transparent 60%)}
+.cta-band>*{position:relative;z-index:1}
+.cta-band h2{color:#fff;font-size:34px}
+.cta-band p{color:rgba(255,255,255,.88);font-size:17px;margin-top:12px;max-width:34em}
+.cta-band .btn-primary{background:#fff;color:var(--neon-deep)}
+.cta-band .btn-primary:hover{background:#f4eef9;box-shadow:none}
+.cta-band ul{list-style:none;display:flex;flex-direction:column;gap:12px;font-family:var(--font-ui);font-size:15px}
+.cta-band li{display:flex;gap:10px;align-items:flex-start}
+.cta-band li svg{flex:none;margin-top:2px}
+.cta-actions{margin-top:26px;display:flex;gap:12px;flex-wrap:wrap}
+.cta-band .price{font-family:var(--font-ui);font-size:14px;color:rgba(255,255,255,.85);margin-top:14px}
+
+/* ---------- Magazine ---------- */
+.acard{border:1px solid var(--fog);border-radius:12px;overflow:hidden;background:var(--paper);transition:.18s}
+.acard:hover{box-shadow:var(--shadow-card);transform:translateY(-2px);border-color:var(--ash)}
+.acard img{height:178px;width:100%;object-fit:cover}
+.acard .body{padding:18px}
+.acard .cat{font-family:var(--font-ui);font-size:12px;font-weight:600;letter-spacing:.05em;text-transform:uppercase;color:var(--neon)}
+.acard h3{font-family:var(--font-ui);font-weight:600;font-size:18px;letter-spacing:-.01em;margin:8px 0;line-height:1.3}
+.acard .mt{font-size:13px;color:var(--steel)}
+
+/* ---------- Footer ---------- */
+footer{background:var(--wash-2);color:var(--steel);border-top:1px solid var(--mist)}
+.foot-top{display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr 1fr;gap:32px;padding:64px 0 48px}
+.foot-brand .logo{color:#fff}
+.foot-brand p{color:var(--steel);font-size:14px;margin-top:14px;max-width:26em}
+.foot-col h4{font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;color:#fff;margin-bottom:16px}
+.foot-col a{display:block;color:var(--steel);font-size:14px;padding:5px 0;transition:.15s}
+.foot-col a:hover{color:var(--neon)}
+.foot-bottom{border-top:1px solid var(--mist);padding:22px 0;display:flex;justify-content:space-between;align-items:center;color:#7e768a;font-size:13px;font-family:var(--font-ui)}
+.foot-bottom .lg{display:flex;gap:20px}
+.disclaimer{background:var(--canvas);color:#6d6678;font-size:12.5px;text-align:center;padding:14px 16px;font-family:var(--font-ui)}
+
+@media(max-width:980px){
+  .hero-grid{grid-template-columns:1fr}.hero-visual{display:none}
+  .grid-4,.city-grid,.trust-in{grid-template-columns:repeat(2,1fr)}
+  .grid-3{grid-template-columns:1fr}
+  .cta-band{grid-template-columns:1fr;padding:36px}
+  .foot-top{grid-template-columns:1fr 1fr}
+  .nav-links{display:none}
+  .hero h1{font-size:38px}
+  .trust-in>div+div{border-left:none}
+}
+</style>
+</head>
+<body>
+
+<!-- Announcement -->
+<div class="announce">Über <b>180 Berliner Clubs & Bars</b> – kuratiert, mit Türpolitik, Dresscode & Sound. <b>Heute Nacht</b> draußen?</div>
+
+<!-- Nav -->
+<header class="nav">
+  <div class="wrap nav-in">
+    <a class="logo" href="#">
+      <svg class="mark" viewBox="0 0 32 32" fill="none"><rect x="1" y="1" width="30" height="30" rx="8" stroke="url(#g)" stroke-width="2"/><path d="M11 21c0-4 3-5 5-5s5 1 5 4-2.8 4-5 4M16 16c0-3.6 1.4-5.4 5-6M11 11c1.5 1 3 1.4 5 1.4" stroke="url(#g)" stroke-width="2" stroke-linecap="round"/><defs><linearGradient id="g" x1="0" y1="0" x2="32" y2="32"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2d7e"/></linearGradient></defs></svg>
+      <span>SUFIS<span class="thin"> Berlin</span></span>
+    </a>
+    <nav class="nav-links">
+      <a href="#">Clubs &amp; Bars</a>
+      <a href="#">Genres</a>
+      <a href="#">Bezirke</a>
+      <a href="#">Hotels</a>
+      <a href="#">Magazin</a>
+    </nav>
+    <div class="nav-right">
+      <a class="login" href="#">Anmelden</a>
+      <a class="btn btn-primary" href="#">Club eintragen</a>
+    </div>
+  </div>
+</header>
+
+<!-- Hero -->
+<section class="hero">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow">Der Nachtleben-Guide für Berlin</span>
+      <h1>Finde den Club,<br><em>der zu deiner Nacht passt.</em></h1>
+      <p class="lead">Vergleiche Berlins Clubs und Bars nach Sound, Bezirk, Türpolitik und Dresscode – von Techno-Tempel bis Jazzkeller. Kuratiert, ehrlich, immer aktuell.</p>
+
+      <div class="searchcard">
+        <div class="searchrow">
+          <div class="field">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+            <div class="stack"><span class="lbl">Sound / Club</span><input placeholder="z. B. Techno, Jazz, Berghain"></div>
+          </div>
+          <div class="field">
+            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>
+            <div class="stack"><span class="lbl">Bezirk</span><input placeholder="z. B. Friedrichshain, Mitte"></div>
+          </div>
+          <button class="btn btn-primary btn-lg">Suchen</button>
+        </div>
+        <div class="chips">
+          <span class="chip"><span class="x">＋</span>Techno</span>
+          <span class="chip"><span class="x">＋</span>After-Hour</span>
+          <span class="chip"><span class="x">＋</span>Jazz &amp; Blues</span>
+          <span class="chip"><span class="x">＋</span>Hip-Hop</span>
+          <span class="chip"><span class="x">＋</span>Live-Musik</span>
+          <span class="chip"><span class="x">＋</span>24/7 geöffnet</span>
+        </div>
+      </div>
+
+      <div class="hero-trust">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2 4 5v6c0 5 3.4 8.5 8 11 4.6-2.5 8-6 8-11V5l-8-3Z"/><path d="m9 12 2 2 4-4"/></svg>
+        Redaktionell geprüft · keine bezahlten Rankings · lokal aus Berlin
+      </div>
+    </div>
+
+    <div class="hero-visual">
+      <img src="https://images.unsplash.com/photo-1571266028243-e4733b0f0bb0?auto=format&fit=crop&w=900&q=80" alt="Berliner Club bei Nacht mit Lichtshow">
+      <div class="float-card float-1">
+        <div class="av">TR</div>
+        <div><div class="nm">Tresor</div><div class="sub">Techno · Mitte · heute offen</div></div>
+      </div>
+      <div class="float-card float-2">
+        <div class="big">4,7</div>
+        <div class="stars">★★★★★</div>
+        <div class="sub">aus 1.240 Bewertungen</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Trust strip -->
+<div class="trust-strip">
+  <div class="wrap trust-in">
+    <div><div class="num">180+</div><div class="lab">Clubs &amp; Bars im Verzeichnis</div></div>
+    <div><div class="num">12</div><div class="lab">Bezirke &amp; Kieze</div></div>
+    <div><div class="num">14</div><div class="lab">Sound- &amp; Szene-Genres</div></div>
+    <div><div class="num">100 %</div><div class="lab">kostenlos &amp; unabhängig</div></div>
+  </div>
+</div>
+
+<!-- Genres -->
+<section class="block">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Nach Sound</span>
+      <h2>Clubs nach Genre &amp; Szene</h2>
+      <p>Vom Berghain-Techno über House-Floors und Hip-Hop-Nächte bis zum Jazzkeller – finde den Sound, der zu dir passt.</p>
+    </div>
+    <div class="grid-3">
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h3l2 7 4-14 2 7h3M19 12h2"/></svg></div><h3>Techno &amp; Elektro</h3><p>Bunker, Hard-Floors und Tunnel-Sound – Berlins lauteste Nächte.</p><div class="cnt">52 Clubs →</div></a>
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="6" cy="18" r="3"/><circle cx="18" cy="16" r="3"/><path d="M9 18V5l12-2v11"/></svg></div><h3>Jazz &amp; Blues</h3><p>Live-Sets, kleine Bühnen und Cocktails in intimer Kellerlounge.</p><div class="cnt">23 Locations →</div></a>
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M9 18V6l10-2v12"/><circle cx="6" cy="18" r="2.5"/><circle cx="16" cy="16" r="2.5"/></svg></div><h3>Hip-Hop &amp; Rap</h3><p>Trap, Old-School und Afrobeats – wo der Bass am tiefsten sitzt.</p><div class="cnt">18 Clubs →</div></a>
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 18V8a8 8 0 0 1 16 0v10"/><rect x="2" y="14" width="5" height="6" rx="2"/><rect x="17" y="14" width="5" height="6" rx="2"/></svg></div><h3>Live-Musik &amp; Bands</h3><p>Konzertkneipen und Bühnen für Indie, Rock und Singer-Songwriter.</p><div class="cnt">31 Venues →</div></a>
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2v6m0 0 3-2m-3 2L9 6M5 22h14l-2-9H7l-2 9Z"/></svg></div><h3>Exklusiv &amp; Lounge</h3><p>Türsteher, Gästeliste und Champagner – die feine Adresse der Nacht.</p><div class="cnt">15 Clubs →</div></a>
+      <a class="vcard" href="#"><div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg></div><h3>After-Hour &amp; 24/7</h3><p>Wenn andere schließen, geht es hier erst los – durchtanzen bis Montag.</p><div class="cnt">12 Clubs →</div></a>
+    </div>
+    <a class="morelink" href="#">Alle 14 Genres ansehen →</a>
+  </div>
+</section>
+
+<!-- Districts -->
+<section class="block cities">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Nach Bezirk</span>
+      <h2>Nachtleben in deinem Kiez</h2>
+      <p>Friedrichshain für Techno, Neukölln für Bars, Charlottenburg für Jazz – jeder Bezirk hat seinen eigenen Rhythmus.</p>
+    </div>
+    <div class="city-grid">
+      <a class="city" href="#"><span><span class="nm">Friedrichshain</span><br><span class="ct">38 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Kreuzberg</span><br><span class="ct">34 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Mitte</span><br><span class="ct">29 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Neukölln</span><br><span class="ct">27 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Charlottenburg</span><br><span class="ct">16 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Wedding</span><br><span class="ct">14 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Schöneberg</span><br><span class="ct">13 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+      <a class="city" href="#"><span><span class="nm">Prenzlauer Berg</span><br><span class="ct">11 Clubs &amp; Bars</span></span><span class="ar">→</span></a>
+    </div>
+    <a class="morelink" href="#">Alle Bezirke von A–Z →</a>
+  </div>
+</section>
+
+<!-- Featured venues -->
+<section class="block">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Heute Nacht angesagt</span>
+      <h2>Empfohlene Clubs in Berlin</h2>
+      <p>Verifizierte Locations mit aktuellem Programm, Türpolitik und Dresscode – damit du nicht umsonst anstehst.</p>
+    </div>
+    <div class="grid-3">
+      <!-- card 1 -->
+      <article class="pcard">
+        <div class="ph"><img src="https://images.unsplash.com/photo-1545128485-c400e7702796?auto=format&fit=crop&w=600&q=80" alt="Techno-Club Floor">
+          <span class="badge-prem"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.5 7 .6-5.3 4.7 1.6 6.9L12 17l-6.3 3.7 1.6-6.9L2 9.1l7-.6Z"/></svg>Verifiziert</span>
+          <span class="badge-genre">Techno</span>
+        </div>
+        <div class="body">
+          <div><div class="nm">Tresor</div><div class="role">Techno-Institution im alten Heizkraftwerk</div></div>
+          <div class="rate"><span class="stars">★★★★★</span><b>4,7</b><span class="muted">(1.240)</span></div>
+          <div class="tagrow"><span class="tag hot">Strenge Tür</span><span class="tag">All Black</span><span class="tag">Bis Mittag</span></div>
+          <div class="meta"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/></svg>Mitte · Köpenicker Str.</div>
+          <div class="foot"><span class="av" style="color:var(--neon);font-weight:600">● Heute geöffnet</span><a class="btn btn-ghost" style="padding:8px 14px;font-size:14px" href="#">Profil ansehen</a></div>
+        </div>
+      </article>
+      <!-- card 2 -->
+      <article class="pcard">
+        <div class="ph"><img src="https://images.unsplash.com/photo-1574391884720-bbc3740c59d1?auto=format&fit=crop&w=600&q=80" alt="Jazz-Bar mit Live-Bühne">
+          <span class="badge-genre">Jazz &amp; Blues</span>
+        </div>
+        <div class="body">
+          <div><div class="nm">A-Trane</div><div class="role">Legendärer Jazzclub mit Live-Sets</div></div>
+          <div class="rate"><span class="stars">★★★★★</span><b>4,8</b><span class="muted">(640)</span></div>
+          <div class="tagrow"><span class="tag">Entspannte Tür</span><span class="tag">Live-Konzerte</span><span class="tag">Cocktails</span></div>
+          <div class="meta"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/></svg>Charlottenburg · Bleibtreustr.</div>
+          <div class="foot"><span class="av" style="color:var(--neon);font-weight:600">● Konzert heute 21 Uhr</span><a class="btn btn-ghost" style="padding:8px 14px;font-size:14px" href="#">Profil ansehen</a></div>
+        </div>
+      </article>
+      <!-- card 3 -->
+      <article class="pcard">
+        <div class="ph"><img src="https://images.unsplash.com/photo-1566737236500-c8ac43014a67?auto=format&fit=crop&w=600&q=80" alt="Hip-Hop Club Tanzfläche">
+          <span class="badge-prem"><svg width="11" height="11" viewBox="0 0 24 24" fill="currentColor"><path d="m12 2 3 6.5 7 .6-5.3 4.7 1.6 6.9L12 17l-6.3 3.7 1.6-6.9L2 9.1l7-.6Z"/></svg>Verifiziert</span>
+          <span class="badge-genre">Hip-Hop</span>
+        </div>
+        <div class="body">
+          <div><div class="nm">YAAM</div><div class="role">Beach-Club mit Dancehall, Rap &amp; Afrobeats</div></div>
+          <div class="rate"><span class="stars">★★★★★</span><b>4,5</b><span class="muted">(890)</span></div>
+          <div class="tagrow"><span class="tag">Lockere Tür</span><span class="tag hot">Open Air</span><span class="tag">Spreeufer</span></div>
+          <div class="meta"><svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/></svg>Friedrichshain · An der Spree</div>
+          <div class="foot"><span class="av" style="color:var(--steel)">Fr &amp; Sa ab 23 Uhr</span><a class="btn btn-ghost" style="padding:8px 14px;font-size:14px" href="#">Profil ansehen</a></div>
+        </div>
+      </article>
+    </div>
+    <a class="morelink" href="#">Alle empfohlenen Clubs →</a>
+  </div>
+</section>
+
+<!-- Steps -->
+<section class="block steps">
+  <div class="wrap">
+    <div class="head center">
+      <span class="eyebrow">In drei Schritten</span>
+      <h2>So planst du deine Nacht</h2>
+      <p>Kein Türsteher-Roulette mehr – wisse vorher, wo du reinkommst und was läuft.</p>
+    </div>
+    <div class="grid-3">
+      <div class="step"><div class="n">1</div><h3>Suchen &amp; filtern</h3><p>Gib Sound und Bezirk ein. Filtere nach Türpolitik, Dresscode, Eintritt, Öffnungszeit und Alter.</p></div>
+      <div class="step"><div class="n">2</div><h3>Clubs vergleichen</h3><p>Lies ehrliche Profile, Türpolitik-Tipps und echte Bewertungen. So findest du den Floor, der zu dir passt.</p></div>
+      <div class="step"><div class="n">3</div><h3>Losziehen</h3><p>Programm checken, Route öffnen, Crew einsammeln – und ohne böse Überraschung an der Tür durchstarten.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- Themen pills -->
+<section class="block">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Wonach suchst du?</span>
+      <h2>Themen &amp; Anlässe</h2>
+      <p>Springe direkt zu den passenden Locations und Guides für deinen Abend.</p>
+    </div>
+    <div class="pillwrap">
+      <a class="pill" href="#">Berghain &amp; Türpolitik</a>
+      <a class="pill" href="#">Dresscodes</a>
+      <a class="pill" href="#">After-Hour</a>
+      <a class="pill" href="#">24/7 geöffnet</a>
+      <a class="pill" href="#">Live-Musik</a>
+      <a class="pill" href="#">Silvesterpartys</a>
+      <a class="pill" href="#">Neue Clubs</a>
+      <a class="pill" href="#">Berühmte Clubs</a>
+      <a class="pill" href="#">Historische Diskotheken</a>
+      <a class="pill" href="#">Exklusive Clubs</a>
+      <a class="pill" href="#">Studententarife</a>
+      <a class="pill" href="#">Open Air &amp; Spree</a>
+      <a class="pill" href="#">Bars &amp; Spätis</a>
+      <a class="pill" href="#">Geburtstag feiern</a>
+      <a class="pill" href="#">Junggesellenabschied</a>
+    </div>
+  </div>
+</section>
+
+<!-- Venue owner CTA -->
+<section class="block" style="padding-top:24px">
+  <div class="wrap">
+    <div class="cta-band">
+      <div>
+        <span class="eyebrow" style="color:rgba(255,255,255,.85)">Für Clubs, Bars &amp; Veranstalter</span>
+        <h2>Bring deinen Laden auf die Karte.</h2>
+        <p>Trage deinen Club oder deine Bar kostenlos ein – oder hol dir mit einem Premium-Profil Top-Platzierung, Event-Slots und direkten Kontakt zu Gästen.</p>
+        <div class="cta-actions">
+          <a class="btn btn-primary btn-lg" href="#">Premium-Profil starten</a>
+          <a class="btn btn-ghost btn-lg" style="color:#fff;border-color:rgba(255,255,255,.5)" href="#">Kostenlos eintragen</a>
+        </div>
+        <div class="price">Basis-Eintrag dauerhaft 0 € · Premium ab 29 €/Monat · jederzeit kündbar</div>
+      </div>
+      <ul>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Top-Platzierung in Bezirk &amp; Genre</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Eigene Events &amp; Line-ups posten</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Verifiziertes Profil mit Fotos &amp; Anfahrt</li>
+        <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Bewertungen sammeln &amp; beantworten</li>
+      </ul>
+    </div>
+  </div>
+</section>
+
+<!-- Magazine -->
+<section class="block cities">
+  <div class="wrap">
+    <div class="head">
+      <span class="eyebrow">Magazin &amp; Guides</span>
+      <h2>Survival-Wissen fürs Berliner Nachtleben</h2>
+      <p>Türpolitik, Dresscodes, Insider-Tipps – ehrlich erklärt von Leuten, die selbst feiern gehen.</p>
+    </div>
+    <div class="grid-3">
+      <a class="acard" href="#"><img src="https://images.unsplash.com/photo-1493676304819-0d7a8d026dcf?auto=format&fit=crop&w=600&q=80" alt=""><div class="body"><span class="cat">Türpolitik</span><h3>Berghain: So kommst du rein – die ehrliche Anleitung</h3><p class="mt">9 Min. Lesezeit · aktualisiert 2026</p></div></a>
+      <a class="acard" href="#"><img src="https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?auto=format&fit=crop&w=600&q=80" alt=""><div class="body"><span class="cat">Dresscode</span><h3>Dresscodes der Berliner Clubs: Was du wo anziehst</h3><p class="mt">7 Min. Lesezeit · aktualisiert 2026</p></div></a>
+      <a class="acard" href="#"><img src="https://images.unsplash.com/photo-1470229722913-7c0e2dbbafd3?auto=format&fit=crop&w=600&q=80" alt=""><div class="body"><span class="cat">Geschichte</span><h3>Ehemalige Diskotheken in West-Berlin: eine Spurensuche</h3><p class="mt">12 Min. Lesezeit · aktualisiert 2026</p></div></a>
+    </div>
+    <a class="morelink" href="#">Zum Magazin →</a>
+  </div>
+</section>
+
+<!-- Footer -->
+<footer>
+  <div class="wrap foot-top">
+    <div class="foot-brand">
+      <a class="logo" href="#">
+        <svg class="mark" viewBox="0 0 32 32" fill="none"><rect x="1" y="1" width="30" height="30" rx="8" stroke="url(#g2)" stroke-width="2"/><path d="M11 21c0-4 3-5 5-5s5 1 5 4-2.8 4-5 4M16 16c0-3.6 1.4-5.4 5-6M11 11c1.5 1 3 1.4 5 1.4" stroke="url(#g2)" stroke-width="2" stroke-linecap="round"/><defs><linearGradient id="g2" x1="0" y1="0" x2="32" y2="32"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#ff2d7e"/></linearGradient></defs></svg>
+        <span style="color:#fff">SUFIS<span class="thin"> Berlin</span></span>
+      </a>
+      <p>Das unabhängige Verzeichnis für Berlins Clubs, Bars und Nachtleben. Wir verkaufen keine Rankings – wir helfen dir, die richtige Nacht zu finden.</p>
+    </div>
+    <div class="foot-col"><h4>Entdecken</h4><a href="#">Alle Clubs</a><a href="#">Nach Genre</a><a href="#">Nach Bezirk</a><a href="#">Heute geöffnet</a><a href="#">Hotels in Berlin</a></div>
+    <div class="foot-col"><h4>Genres</h4><a href="#">Techno-Clubs</a><a href="#">Jazz &amp; Blues</a><a href="#">Hip-Hop-Clubs</a><a href="#">Live-Musik</a><a href="#">Exklusive Clubs</a></div>
+    <div class="foot-col"><h4>Für Clubs</h4><a href="#">Club eintragen</a><a href="#">Premium-Profil</a><a href="#">Profil beanspruchen</a><a href="#">Preise</a><a href="#">Anmelden</a></div>
+    <div class="foot-col"><h4>Über uns</h4><a href="#">So funktioniert's</a><a href="#">Magazin</a><a href="#">Kontakt</a><a href="#">Datenschutz</a><a href="#">Impressum</a></div>
+  </div>
+  <div class="wrap foot-bottom">
+    <span>© 2026 sufis-berlin.de · Alle Angaben ohne Gewähr</span>
+    <span class="lg"><a href="#">Datenschutz</a><a href="#">Impressum</a><a href="#">AGB</a></span>
+  </div>
+  <div class="disclaimer">Hinweis: Öffnungszeiten, Türpolitik und Programm können sich kurzfristig ändern. Bitte prüfe vor dem Besuch die offiziellen Kanäle des jeweiligen Clubs. Feiere verantwortungsvoll.</div>
+</footer>
+
+</body>
+</html>

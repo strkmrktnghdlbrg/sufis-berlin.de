@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.sufis-berlin.de/sitemap-index.xml

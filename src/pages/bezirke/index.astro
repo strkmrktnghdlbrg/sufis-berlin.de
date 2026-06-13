@@ -1,0 +1,22 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { BEZIRKE } from '../../data/site';
+---
+<BaseLayout title="Berliner Nachtleben nach Bezirk – SUFIS Berlin" description="Clubs und Bars in Friedrichshain, Kreuzberg, Mitte, Neukölln und allen anderen Berliner Bezirken.">
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Nach Bezirk</span>
+        <h2>Nachtleben in deinem Kiez</h2>
+        <p>Jeder Bezirk hat seinen eigenen Rhythmus. Wähle deinen Kiez und entdecke seine Clubs und Bars.</p>
+      </div>
+      <div class="city-grid">
+        {BEZIRKE.map((b) => (
+          <a class="city" href={`/berlin/${b.slug}/`}>
+            <span><span class="nm">{b.name}</span></span><span class="ar">→</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

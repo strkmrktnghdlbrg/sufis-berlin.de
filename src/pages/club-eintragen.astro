@@ -1,0 +1,20 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+<BaseLayout title="Club oder Bar eintragen – SUFIS Berlin" description="Trage deinen Berliner Club oder deine Bar kostenlos ein oder hol dir ein Premium-Profil mit Top-Platzierung.">
+  <section class="block">
+    <div class="wrap" style="max-width:760px">
+      <div class="head"><span class="eyebrow">Für Clubs, Bars & Veranstalter</span><h2>Bring deinen Laden auf die Karte.</h2><p>Basis-Eintrag dauerhaft kostenlos. Premium-Profil ab 29 €/Monat mit Top-Platzierung, Event-Slots und direktem Gästekontakt.</p></div>
+      <form class="searchcard" action="https://api.web3forms.com/submit" method="POST" style="display:flex;flex-direction:column;gap:12px;padding:24px">
+        <input type="hidden" name="access_key" value="b65f4e95-6ac7-4003-a46a-fe4e08b120e2" />
+        <input type="hidden" name="subject" value="Neuer Club-Eintrag – sufis-berlin.de" />
+        <div class="field"><div class="stack"><span class="lbl">Club / Bar</span><input name="club" required placeholder="Name deiner Location" /></div></div>
+        <div class="field"><div class="stack"><span class="lbl">Bezirk</span><input name="bezirk" placeholder="z. B. Friedrichshain" /></div></div>
+        <div class="field"><div class="stack"><span class="lbl">Website / Instagram</span><input name="web" placeholder="https://" /></div></div>
+        <div class="field"><div class="stack"><span class="lbl">E-Mail</span><input type="email" name="email" required placeholder="kontakt@deinclub.de" /></div></div>
+        <button class="btn btn-primary btn-lg" type="submit">Kostenlos eintragen</button>
+        <p class="muted" style="font-size:13px">Wir melden uns innerhalb von 2 Werktagen. Keine versteckten Kosten.</p>
+      </form>
+    </div>
+  </section>
+</BaseLayout>

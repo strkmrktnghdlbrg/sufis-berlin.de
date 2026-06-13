@@ -1,0 +1,180 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE, GENRES, BEZIRKE, THEMES } from '../data/site';
+import { getCollection } from 'astro:content';
+
+const genreIcons: Record<string, string> = {
+  wave: 'M3 12h3l2 7 4-14 2 7h3M19 12h2',
+  sax: '', mic: '', guitar: '', glass: 'M12 2v6m0 0 3-2m-3 2L9 6M5 22h14l-2-9H7l-2 9Z',
+  clock: '', sun: '', spark: '', heart: '',
+};
+
+// district article counts are editorial placeholders until per-venue data exists
+const districtCounts: Record<string, number> = {
+  'nachtclubs-in-friedrichshain': 38, 'nachtclubs-in-kreuzberg': 34, 'nachtclubs-in-mitte': 29,
+  'nachtclubs-in-neukoelln': 27, 'nachtclubs-in-charlottenburg': 16, 'nachtclubs-in-wedding': 14,
+  'nachtclubs-in-schoeneberg': 13, 'nachtclubs-in-prenzlauer-berg': 11, 'nachtclubs-in-tempelhof': 9,
+};
+
+const featuredGenres = GENRES.slice(0, 6);
+const featuredBezirke = BEZIRKE.slice(0, 8);
+
+// pull latest magazine/guide articles for the bottom strip
+let mag = await getCollection('berlin');
+mag = mag.filter((e) => ['guide', 'special'].includes(e.data.kind)).slice(0, 3);
+---
+<BaseLayout title={`${SITE.name} — ${SITE.tagline}`} description={SITE.description}>
+  <Fragment slot="head">
+    <script type="application/ld+json" set:html={JSON.stringify({
+      '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url,
+      potentialAction: { '@type': 'SearchAction', target: `${SITE.url}/suche/?q={query}`, 'query-input': 'required name=query' },
+    })} />
+  </Fragment>
+
+  <div class="announce">Über <b>180 Berliner Clubs & Bars</b> – kuratiert, mit Türpolitik, Dresscode & Sound. <b>Heute Nacht</b> draußen?</div>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">Der Nachtleben-Guide für Berlin</span>
+        <h1>Finde den Club,<br><em>der zu deiner Nacht passt.</em></h1>
+        <p class="lead">Vergleiche Berlins Clubs und Bars nach Sound, Bezirk, Türpolitik und Dresscode – von Techno-Tempel bis Jazzkeller. Kuratiert, ehrlich, immer aktuell.</p>
+        <form class="searchcard" action="/suche/" method="get">
+          <div class="searchrow">
+            <div class="field">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+              <div class="stack"><span class="lbl">Sound / Club</span><input name="q" placeholder="z. B. Techno, Jazz, Berghain" /></div>
+            </div>
+            <div class="field">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 21s-7-5.7-7-11a7 7 0 0 1 14 0c0 5.3-7 11-7 11Z"/><circle cx="12" cy="10" r="2.5"/></svg>
+              <div class="stack"><span class="lbl">Bezirk</span><input name="bezirk" placeholder="z. B. Friedrichshain, Mitte" /></div>
+            </div>
+            <button class="btn btn-primary btn-lg" type="submit">Suchen</button>
+          </div>
+          <div class="chips">
+            {THEMES.slice(0, 6).map((t) => <a class="chip" href={`/berlin/${t.slug}/`}><span class="x">＋</span>{t.name}</a>)}
+          </div>
+        </form>
+        <div class="hero-trust">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2 4 5v6c0 5 3.4 8.5 8 11 4.6-2.5 8-6 8-11V5l-8-3Z"/><path d="m9 12 2 2 4-4"/></svg>
+          Redaktionell geprüft · keine bezahlten Rankings · lokal aus Berlin
+        </div>
+      </div>
+      <div class="hero-visual">
+        <img src="/images/die-besten-nachtclubs.jpg" alt="Berliner Club bei Nacht mit Lichtshow" width="900" height="490" />
+        <div class="float-card float-1"><div class="av">TR</div><div><div class="nm">Tresor</div><div class="sub">Techno · Mitte</div></div></div>
+        <div class="float-card float-2"><div class="big">4,7</div><div class="stars">★★★★★</div><div class="sub">aus 1.240 Bewertungen</div></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="trust-strip">
+    <div class="wrap trust-in">
+      <div><div class="num">180+</div><div class="lab">Clubs & Bars im Verzeichnis</div></div>
+      <div><div class="num">9</div><div class="lab">Bezirke & Kieze</div></div>
+      <div><div class="num">13</div><div class="lab">Sound- & Szene-Genres</div></div>
+      <div><div class="num">100 %</div><div class="lab">kostenlos & unabhängig</div></div>
+    </div>
+  </div>
+
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Nach Sound</span>
+        <h2>Clubs nach Genre & Szene</h2>
+        <p>Vom Berghain-Techno über House-Floors und Hip-Hop-Nächte bis zum Jazzkeller – finde den Sound, der zu dir passt.</p>
+      </div>
+      <div class="grid-3">
+        {featuredGenres.map((g) => (
+          <a class="vcard" href={`/berlin/${g.slug}/`}>
+            <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d={genreIcons[g.icon] || 'M3 12h3l2 7 4-14 2 7h3'} /></svg></div>
+            <h3>{g.name}</h3><p>{g.desc}</p>
+          </a>
+        ))}
+      </div>
+      <a class="morelink" href="/genres/">Alle Genres ansehen →</a>
+    </div>
+  </section>
+
+  <section class="block cities">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Nach Bezirk</span>
+        <h2>Nachtleben in deinem Kiez</h2>
+        <p>Friedrichshain für Techno, Neukölln für Bars, Charlottenburg für Jazz – jeder Bezirk hat seinen eigenen Rhythmus.</p>
+      </div>
+      <div class="city-grid">
+        {featuredBezirke.map((b) => (
+          <a class="city" href={`/berlin/${b.slug}/`}>
+            <span><span class="nm">{b.name}</span><br><span class="ct">{districtCounts[b.slug] ?? 10} Clubs & Bars</span></span><span class="ar">→</span>
+          </a>
+        ))}
+      </div>
+      <a class="morelink" href="/bezirke/">Alle Bezirke von A–Z →</a>
+    </div>
+  </section>
+
+  <section class="block steps">
+    <div class="wrap">
+      <div class="head center">
+        <span class="eyebrow">In drei Schritten</span>
+        <h2>So planst du deine Nacht</h2>
+        <p>Kein Türsteher-Roulette mehr – wisse vorher, wo du reinkommst und was läuft.</p>
+      </div>
+      <div class="grid-3">
+        <div class="step"><div class="n">1</div><h3>Suchen & filtern</h3><p>Gib Sound und Bezirk ein. Filtere nach Türpolitik, Dresscode, Eintritt, Öffnungszeit und Alter.</p></div>
+        <div class="step"><div class="n">2</div><h3>Clubs vergleichen</h3><p>Lies ehrliche Profile, Türpolitik-Tipps und echte Bewertungen. So findest du den Floor, der zu dir passt.</p></div>
+        <div class="step"><div class="n">3</div><h3>Losziehen</h3><p>Programm checken, Route öffnen, Crew einsammeln – und ohne böse Überraschung an der Tür durchstarten.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block">
+    <div class="wrap">
+      <div class="head"><span class="eyebrow">Wonach suchst du?</span><h2>Themen & Anlässe</h2><p>Springe direkt zu den passenden Locations und Guides für deinen Abend.</p></div>
+      <div class="pillwrap">
+        {THEMES.map((t) => <a class="pill" href={`/berlin/${t.slug}/`}>{t.name}</a>)}
+      </div>
+    </div>
+  </section>
+
+  <section class="block" style="padding-top:24px">
+    <div class="wrap">
+      <div class="cta-band">
+        <div>
+          <span class="eyebrow" style="color:rgba(255,255,255,.85)">Für Clubs, Bars & Veranstalter</span>
+          <h2>Bring deinen Laden auf die Karte.</h2>
+          <p>Trage deinen Club oder deine Bar kostenlos ein – oder hol dir mit einem Premium-Profil Top-Platzierung, Event-Slots und direkten Kontakt zu Gästen.</p>
+          <div class="cta-actions">
+            <a class="btn btn-primary btn-lg" href="/club-eintragen/">Premium-Profil starten</a>
+            <a class="btn btn-ghost btn-lg" style="color:#fff;border-color:rgba(255,255,255,.5)" href="/club-eintragen/">Kostenlos eintragen</a>
+          </div>
+          <div class="price">Basis-Eintrag dauerhaft 0 € · Premium ab 29 €/Monat · jederzeit kündbar</div>
+        </div>
+        <ul>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Top-Platzierung in Bezirk & Genre</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Eigene Events & Line-ups posten</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Verifiziertes Profil mit Fotos & Anfahrt</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Bewertungen sammeln & beantworten</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  {mag.length > 0 && (
+    <section class="block cities">
+      <div class="wrap">
+        <div class="head"><span class="eyebrow">Magazin & Guides</span><h2>Survival-Wissen fürs Berliner Nachtleben</h2><p>Türpolitik, Dresscodes, Insider-Tipps – ehrlich erklärt von Leuten, die selbst feiern gehen.</p></div>
+        <div class="grid-3">
+          {mag.map((a) => (
+            <a class="acard" href={`/berlin/${a.id}/`}>
+              {a.data.cover?.src && <img src={a.data.cover.src} alt={a.data.cover.alt || a.data.title} loading="lazy" />}
+              <div class="body"><span class="cat">Magazin</span><h3>{a.data.title}</h3><p class="mt">SUFIS Berlin Redaktion</p></div>
+            </a>
+          ))}
+        </div>
+        <a class="morelink" href="/magazin/">Zum Magazin →</a>
+      </div>
+    </section>
+  )}
+</BaseLayout>

@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+let entries = await getCollection('berlin');
+entries = entries
+  .filter((e) => ['guide', 'special'].includes(e.data.kind))
+  .sort((a, b) => (b.data.publishDate || '').localeCompare(a.data.publishDate || ''));
+---
+<BaseLayout title="Magazin & Guides – SUFIS Berlin" description="Türpolitik, Dresscodes, Insider-Tipps und Geschichten aus dem Berliner Nachtleben.">
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Magazin & Guides</span>
+        <h2>Survival-Wissen fürs Berliner Nachtleben</h2>
+        <p>Türpolitik, Dresscodes, Insider-Tipps – ehrlich erklärt von Leuten, die selbst feiern gehen.</p>
+      </div>
+      <div class="grid-3">
+        {entries.map((a) => (
+          <a class="acard" href={`/berlin/${a.id}/`}>
+            {a.data.cover?.src && <img src={a.data.cover.src} alt={a.data.cover.alt || a.data.title} loading="lazy" />}
+            <div class="body"><span class="cat">Magazin</span><h3>{a.data.title}</h3><p class="mt">{a.data.excerpt}</p></div>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

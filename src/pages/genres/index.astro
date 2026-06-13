@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { GENRES, COLLECTIONS_HUBS } from '../../data/site';
+---
+<BaseLayout title="Berliner Clubs nach Genre & Sound – SUFIS Berlin" description="Techno, House, Jazz, Hip-Hop, Live-Musik und mehr: Finde Berliner Clubs nach deinem Sound.">
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Nach Sound</span>
+        <h2>Clubs nach Genre & Szene</h2>
+        <p>Jeder Floor klingt anders. Wähle deinen Sound und finde die passenden Clubs und Bars in Berlin.</p>
+      </div>
+      <div class="grid-3">
+        {GENRES.map((g) => (
+          <a class="vcard" href={`/berlin/${g.slug}/`}>
+            <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h3l2 7 4-14 2 7h3" /></svg></div>
+            <h3>{g.name}</h3><p>{g.desc}</p>
+          </a>
+        ))}
+      </div>
+      <div class="head" style="margin-top:64px"><span class="eyebrow">Kuratiert</span><h2>Editorial-Listen</h2></div>
+      <div class="pillwrap">
+        {COLLECTIONS_HUBS.map((c) => <a class="pill" href={`/berlin/${c.slug}/`}>{c.name}</a>)}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,33 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('berlin');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+
+const kindLabel: Record<string, string> = { genre: 'Genres', bezirk: 'Bezirke', special: 'Nachtleben', guide: 'Magazin' };
+const kindHref: Record<string, string> = { genre: '/genres/', bezirk: '/bezirke/', special: '/berlin/die-besten-nachtclubs/', guide: '/magazin/' };
+const breadcrumbs = [
+  { href: '/', label: 'Start' },
+  { href: kindHref[d.kind] ?? '/magazin/', label: kindLabel[d.kind] ?? 'Magazin' },
+  { label: d.title },
+];
+---
+<ArticleLayout
+  title={d.title}
+  metaTitle={d.metaTitle || `${d.title} – SUFIS Berlin`}
+  description={d.metaDescription}
+  cover={d.cover}
+  publishDate={d.publishDate}
+  updated={d.updated}
+  breadcrumbs={breadcrumbs}
+  verifiedNote={d.verifiedNote}
+>
+  <Content />
+</ArticleLayout>

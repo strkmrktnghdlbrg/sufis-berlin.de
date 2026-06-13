@@ -1,0 +1,33 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+import { SITE } from '../../data/site';
+
+const hotels = (await getCollection('hotels')).sort((a, b) => a.data.title.localeCompare(b.data.title));
+---
+<BaseLayout title="Hotels in Berlin – nach Bezirk & Stil – SUFIS Berlin" description="Boutique-, Design- und Charme-Hotels in allen Berliner Bezirken – ideal kombiniert mit deiner Clubnacht.">
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">Übernachten in Berlin</span>
+        <h2>Hotels nach Bezirk & Stil</h2>
+        <p>Vom Boutique-Hotel in Mitte bis zum Design-Hotel in Friedrichshain – finde die passende Unterkunft für deine Berlin-Nacht.</p>
+      </div>
+      <div class="grid-3">
+        {hotels.map((h) => (
+          <a class="vcard" href={`/hotels/${h.id}/`}>
+            <h3>{h.data.title}</h3>
+            <p>{h.data.excerpt || h.data.metaDescription}</p>
+            <div class="cnt">Hotels ansehen →</div>
+          </a>
+        ))}
+      </div>
+      {SITE.stay22LmaId && (
+        <div style="margin-top:40px;border:1px solid var(--fog);border-radius:var(--r-img);overflow:hidden">
+          <iframe title="Hotels in Berlin" style="width:100%;height:500px;border:0" loading="lazy"
+            src={`https://www.stay22.com/embed/gm?aid=${SITE.stay22LmaId}&lat=52.52&lng=13.405&maincolor=ff2d7e&markername=Berlin`}></iframe>
+        </div>
+      )}
+    </div>
+  </section>
+</BaseLayout>

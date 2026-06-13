@@ -1,0 +1,29 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../layouts/ArticleLayout.astro';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('hotels');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const breadcrumbs = [
+  { href: '/', label: 'Start' },
+  { href: '/hotels/', label: 'Hotels' },
+  { label: d.title },
+];
+---
+<ArticleLayout
+  title={d.title}
+  metaTitle={d.metaTitle || `${d.title} – SUFIS Berlin`}
+  description={d.metaDescription}
+  cover={d.cover}
+  publishDate={d.publishDate}
+  updated={d.updated}
+  breadcrumbs={breadcrumbs}
+>
+  <Content />
+</ArticleLayout>
