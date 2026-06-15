@@ -4,7 +4,7 @@ import sitemap from '@astrojs/sitemap';
 import tailwindcss from '@tailwindcss/vite';
 
 export default defineConfig({
-  site: 'https://www.sufis-berlin.de',
+  site: 'https://sufis-berlin.de',
   trailingSlash: 'always',
   build: { format: 'directory' },
   integrations: [sitemap()],

@@ -1,6 +1,6 @@
 # sufis-berlin.de — Astro static deploy
-# URLs are preserved 1:1 from the old WordPress site, so only canonicalisation
-# + legacy WordPress cleanup is needed.
+# Indexed URLs are preserved 1:1 from the old WordPress site.
+# Canonical host is NON-www (matches the previously indexed/canonical version).
 
 Options -Indexes
 DirectoryIndex index.html
@@ -8,16 +8,26 @@ DirectoryIndex index.html
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
-  # Force HTTPS + www (canonical host)
+  # Force HTTPS + non-www (canonical host = https://sufis-berlin.de)
   RewriteCond %{HTTPS} off [OR]
-  RewriteCond %{HTTP_HOST} !^www\. [NC]
-  RewriteRule ^ https://www.sufis-berlin.de%{REQUEST_URI} [L,R=301]
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://sufis-berlin.de%{REQUEST_URI} [L,R=301]
+
+  # Legacy /thema/ category archives (indexed but no traffic) -> closest hub
+  RewriteRule ^thema/(berlin|nachtleben|clubs|party)/?$ /berlin/die-besten-nachtclubs/ [L,R=301]
+  RewriteRule ^thema/(grossstadt|sehenswuerdigkeiten)/?$ /berlin/berlins-sehenswuerdigkeiten/ [L,R=301]
+  RewriteRule ^thema/catering/?$ /catering/genussvolle-konzepte/ [L,R=301]
+  RewriteRule ^thema/reisen/?$ /reisen/internationale-reiseinspiration-aus-japan/ [L,R=301]
+  RewriteRule ^thema/unternehmen/?$ /unternehmen/autoverkauf-in-berlin-schnell-sicher-und-effektiv/ [L,R=301]
+  RewriteRule ^thema/projekte/?$ /projekte/the-making-of-black/ [L,R=301]
+  # any other /thema/* (pagination, unknown terms) -> homepage
+  RewriteRule ^thema(/.*)?$ / [L,R=301]
 
   # Kill legacy WordPress endpoints (feeds, xmlrpc, wp-admin, author archives)
-  RewriteRule ^(.*/)?feed/?$ https://www.sufis-berlin.de/$1 [L,R=301]
+  RewriteRule ^(.*/)?feed/?$ https://sufis-berlin.de/$1 [L,R=301]
   RewriteRule ^xmlrpc\.php$ - [G]
   RewriteRule ^wp-(login|admin|json|content|includes)(/|$) - [G]
-  RewriteRule ^author/ https://www.sufis-berlin.de/ [L,R=301]
+  RewriteRule ^author/ https://sufis-berlin.de/ [L,R=301]
 </IfModule>
 
 # Trailing-slash directories are produced by Astro (build format: directory)

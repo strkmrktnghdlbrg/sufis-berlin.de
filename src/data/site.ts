@@ -1,7 +1,7 @@
 export const SITE = {
   name: 'SUFIS Berlin',
   domain: 'sufis-berlin.de',
-  url: 'https://www.sufis-berlin.de',
+  url: 'https://sufis-berlin.de',
   tagline: 'Clubs, Bars & Nachtleben-Guide für Berlin',
   description:
     'Das unabhängige Verzeichnis für Berlins Clubs, Bars und Nachtleben. Vergleiche nach Sound, Bezirk, Türpolitik und Dresscode.',
