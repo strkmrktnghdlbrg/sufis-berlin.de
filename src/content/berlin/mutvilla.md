@@ -61,7 +61,7 @@ Eine weitere wichtige Initiative ist die Dorfpride. Diese Veranstaltung findet j
 
 ### Media Room
 
-Der Media Room an der HU ist ein besonderer Ort. Hier können LGBTQ+ Studierende Medienprojekte umsetzen. Der Raum bietet moderne Technik und Unterstützung durch Fachpersonal.
+Der Media Room an der HU ist ein besonderer Ort. Hier können [LGBTQ+](/berlin/lgbt-freundliche-nachtclubs/) Studierende Medienprojekte umsetzen. Der Raum bietet moderne Technik und Unterstützung durch Fachpersonal.
 
 ### Care Center
 

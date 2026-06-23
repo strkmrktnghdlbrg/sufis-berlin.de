@@ -34,7 +34,7 @@ Die Geschichte Berlins ist sehr interessant und erzählt von den vielen verschie
 
 ## Sehenswürdigkeiten in Berlin
 
-Berlin hat viele Sehenswürdigkeiten zu bieten. Eine der interessantesten ist sicherlich das Brandenburger Tor, das Wahrzeichen Berlins und eines der bekanntesten Symbole Deutschlands. Das Brandenburger Tor ist nicht nur ein Muss für alle Berlin-Besucher, es ist auch ein wunderbarer Ort zum Verweilen und Genießen. Auf der Terrasse des Restaurants „Der Blaue Reiter" kann man die Aussicht auf die Stadt genießen und dabei einen köstlichen Cocktail trinken. Das Brandenburger Tor ist aber nicht die einzige Sehenswürdigkeit in Berlin. Auch das Berliner Stadtschloss, das Pergamonmuseum und das Holocaust-Mahnmal sind sehr empfehlenswert.
+Berlin hat viele Sehenswürdigkeiten zu bieten. Eine der interessantesten ist sicherlich das Brandenburger Tor, das Wahrzeichen Berlins und eines der bekanntesten Symbole Deutschlands. Das Brandenburger Tor ist nicht nur ein Muss für alle Berlin-Besucher, es ist auch ein wunderbarer Ort zum Verweilen und Genießen. Auf der Terrasse des Restaurants „Der Blaue Reiter" kann man die Aussicht auf die Stadt genießen und dabei einen köstlichen [Cocktail](/berlin/cocktailbars-in-berliner/) trinken. Das Brandenburger Tor ist aber nicht die einzige Sehenswürdigkeit in Berlin. Auch das Berliner Stadtschloss, das Pergamonmuseum und das Holocaust-Mahnmal sind sehr empfehlenswert.
 
 **1. Das Brandenburger Tor:** Eines der bekanntesten Wahrzeichen Berlins ist das Brandenburger Tor. Es steht am Ende der Unter den Linden und ist ein beliebtes Fotomotiv.
 

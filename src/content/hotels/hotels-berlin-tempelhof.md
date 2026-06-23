@@ -107,11 +107,11 @@ Mobilitätseinschränkungen sollten kein Hindernis für eine tolle Reise sein. D
 
 ### Zentrale Lage im Herzen Berlins
 
-Die Hotels in Tempelhof punkten mit einer wirklich praktischen Lage. Man ist hier nicht nur gut untergebracht, sondern auch schnell überall. Viele Unterkünfte befinden sich im Zentrum von Berlin, was bedeutet, dass wichtige Sehenswürdigkeiten wie der Alexanderplatz oder der Gendarmenmarkt quasi vor der Haustür liegen. Das ist super, wenn man nicht viel Zeit mit Anfahrten verlieren will. Man ist also mitten im Geschehen, aber trotzdem oft in ruhigeren Ecken, was einen guten Mix aus Erreichbarkeit und Erholung bietet.
+Die Hotels in Tempelhof punkten mit einer wirklich praktischen Lage. Man ist hier nicht nur gut untergebracht, sondern auch schnell überall. Viele Unterkünfte befinden sich im Zentrum von Berlin, was bedeutet, dass wichtige [Sehenswürdigkeiten](/berlin/berlins-sehenswuerdigkeiten/) wie der Alexanderplatz oder der Gendarmenmarkt quasi vor der Haustür liegen. Das ist super, wenn man nicht viel Zeit mit Anfahrten verlieren will. Man ist also mitten im Geschehen, aber trotzdem oft in ruhigeren Ecken, was einen guten Mix aus Erreichbarkeit und Erholung bietet.
 
 ### Nähe zu Sehenswürdigkeiten und ÖPNV
 
-Die Anbindung an den öffentlichen Nahverkehr ist in Tempelhof meistens top. Zahlreiche U-Bahn- und S-Bahn-Stationen sind oft nur einen Katzensprung entfernt. Das macht es total einfach, auch die weiter entfernten Ecken der Stadt zu erkunden, ohne sich um Parkplätze oder Stau kümmern zu müssen. Man kann also ganz entspannt mit der Bahn zum Brandenburger Tor fahren oder die Museumsinsel besuchen. Selbst das Nachtleben, mit Orten wie dem [Havanna](/berlin/nachtclubs-in-tempelhof/) oder verschiedenen Clubs, ist gut erreichbar.
+Die Anbindung an den öffentlichen Nahverkehr ist in Tempelhof meistens top. Zahlreiche U-Bahn- und S-Bahn-Stationen sind oft nur einen Katzensprung entfernt. Das macht es total einfach, auch die weiter entfernten Ecken der Stadt zu erkunden, ohne sich um Parkplätze oder Stau kümmern zu müssen. Man kann also ganz entspannt mit der Bahn zum Brandenburger Tor fahren oder die Museumsinsel besuchen. Selbst das Nachtleben, mit Orten wie dem [Havanna](/berlin/nachtclubs-in-tempelhof/) oder verschiedenen [Clubs](/berlin/die-besten-nachtclubs/), ist gut erreichbar.
 
 ### Gute Erreichbarkeit des Flughafens
 

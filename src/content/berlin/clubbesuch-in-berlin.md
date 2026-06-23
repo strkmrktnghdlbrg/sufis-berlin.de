@@ -28,7 +28,7 @@ Berlin ist weltweit bekannt für sein pulsierendes Nachtleben und seine vielfäl
 
 ### Berghain
 
-Das Berghain ist weltweit bekannt und wurde 2009 von DJs im DJ Mag zum „besten Club der Welt" gekürt. **Jedes Wochenende stehen zahlreiche Feierwütige aus aller Welt vor den Toren des Berghain** und hoffen auf Einlass. Neben den legendären Partys kann man hier auch Konzerte und Ausstellungen besuchen, für die man regulär Tickets kaufen kann.
+Das Berghain ist weltweit bekannt und wurde 2009 von DJs im DJ Mag zum „besten Club der Welt" gekürt. **Jedes Wochenende stehen zahlreiche Feierwütige aus aller Welt vor den Toren des [Berghain](/berlin/berghain/)** und hoffen auf Einlass. Neben den legendären Partys kann man hier auch Konzerte und Ausstellungen besuchen, für die man regulär Tickets kaufen kann.
 
 ### Sisyphos
 
@@ -36,19 +36,19 @@ Das Sisyphos ist bekannt für seine langen Partys, die oft das ganze Wochenende 
 
 ### Prince Charles
 
-Der Prince Charles am Moritzplatz ist ein vielseitiger Club in einem ehemaligen Schwimmbecken. Neben elektronischer Musik finden hier regelmäßig Events aus Hip-Hop und R&B sowie Live-Acts statt. Die ungewöhnliche Location sorgt für eine besondere Atmosphäre abseits der klassischen Techno-Tempel.
+Der Prince Charles am Moritzplatz ist ein vielseitiger Club in einem ehemaligen Schwimmbecken. Neben [elektronischer Musik](/berlin/elektronische-musik-in-berlin/) finden hier regelmäßig Events aus [Hip-Hop](/berlin/hip-hop-nachtclubs/) und R&B sowie Live-Acts statt. Die ungewöhnliche Location sorgt für eine besondere Atmosphäre abseits der klassischen Techno-Tempel.
 
 ## Dresscode und Einlass
 
-Ein Abend in einem der angesagten [Berliner Clubs](/) kann schnell enttäuschend enden, wenn man an der Tür abgewiesen wird. Doch das muss nicht sein! Hier sind einige Tipps, um sicherzustellen, dass ihr problemlos in die Clubs kommt und einen unvergesslichen Abend erlebt.
+Ein Abend in einem der angesagten Berliner Clubs kann schnell enttäuschend enden, wenn man an der Tür abgewiesen wird. Doch das muss nicht sein! Hier sind einige Tipps, um sicherzustellen, dass ihr problemlos in die Clubs kommt und einen unvergesslichen Abend erlebt.
 
 ## Musikrichtungen und DJs
 
-Berlin ist weltweit bekannt für seine **Techno- und House-Szene**. Clubs wie das Berghain bieten erstklassiges Booking und haben renommierte Resident-DJs wie Marcel Dettmann und Ben Klock. In der Panorama Bar des Berghain legen House- und Deep-House-DJs auf, was für eine abwechslungsreiche musikalische Erfahrung sorgt.
+Berlin ist weltweit bekannt für seine **[Techno](/berlin/techno-nachtclubs/)- und House-Szene**. Clubs wie das Berghain bieten erstklassiges Booking und haben renommierte Resident-DJs wie Marcel Dettmann und Ben Klock. In der Panorama Bar des Berghain legen House- und Deep-House-DJs auf, was für eine abwechslungsreiche musikalische Erfahrung sorgt.
 
 Neben Techno und House hat Berlin auch eine lebendige Hip-Hop- und R&B-Szene. Clubs wie der Prince Charles bieten regelmäßig Events mit bekannten DJs und Live-Acts aus diesen Genres. Die Vielfalt der Musikrichtungen macht Berlin zu einem idealen Ort für Nachtschwärmer.
 
-Viele Berliner Clubs bieten nicht nur DJ-Sets, sondern auch Live-Acts und Konzerte. Diese Veranstaltungen sorgen für [Abwechslung und gute Stimmung](/berlin/berlin-und-seine-schaetze/) und ziehen ein breites Publikum an. Von elektronischer Musik bis hin zu Indie und Rock ist für jeden Geschmack etwas dabei.
+Viele Berliner Clubs bieten nicht nur DJ-Sets, sondern auch Live-Acts und Konzerte. Diese Veranstaltungen sorgen für Abwechslung und gute Stimmung und ziehen ein breites Publikum an. Von elektronischer Musik bis hin zu Indie und Rock ist für jeden Geschmack etwas dabei.
 
 > Berlin und seine Schätze: Entdecke Berlins pulsierendes Nachtleben, vielfältige Shopping-Möglichkeiten und reiches kulturelles Erbe durch Clubs, Bars, Museen und einzigartige Einkaufsviertel.
 
@@ -86,7 +86,7 @@ Nach einer langen Partynacht ist es wichtig, sicher nach Hause zu kommen. Hier s
 
 ### Open-Air-Veranstaltungen
 
-[Berlin](/berlin/berlin/) bietet eine Vielzahl von **Open-Air-Veranstaltungen**, die besonders im Sommer sehr beliebt sind. Diese Events finden oft in Parks, auf Brachen oder an anderen ungewöhnlichen Orten statt und bieten eine entspannte Atmosphäre. Hier kann man unter freiem Himmel tanzen und die einzigartige Stimmung genießen.
+Berlin bietet eine Vielzahl von **[Open-Air](/berlin/open-air-nachtclubs/)-Veranstaltungen**, die besonders im Sommer sehr beliebt sind. Diese Events finden oft in Parks, auf Brachen oder an anderen ungewöhnlichen Orten statt und bieten eine entspannte Atmosphäre. Hier kann man unter freiem Himmel tanzen und die einzigartige Stimmung genießen.
 
 ### Kulturelle Events
 
@@ -102,7 +102,7 @@ Ein besonderes Highlight in Berlin sind die geheimen Partys, die oft nur durch M
 
 ### Erste Schritte im Nachtleben
 
-Der Einstieg ins Berliner Nachtleben kann überwältigend sein. **Eine gute Vorbereitung ist der Schlüssel**. Recherchiere im Voraus über die Clubs, die Musikrichtungen und die DJs, die dort auflegen. Achte auch auf den Dresscode, der oft von den Veranstaltern vorgegeben wird.
+Der Einstieg ins Berliner Nachtleben kann überwältigend sein. **Eine gute Vorbereitung ist der Schlüssel**. Recherchiere im Voraus über die Clubs, die Musikrichtungen und die DJs, die dort auflegen. Achte auch auf den [Dresscode](/berlin/dresscodes/), der oft von den Veranstaltern vorgegeben wird.
 
 ### Wichtige Do's and Don'ts
 
@@ -113,7 +113,7 @@ Der Einstieg ins Berliner Nachtleben kann überwältigend sein. **Eine gute Vorb
 
 ### Netzwerken und Kontakte knüpfen
 
-Nutze die Gelegenheit, um neue Leute kennenzulernen. Viele Clubs haben [Communities und Einladungen](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/) über soziale Medien. Trage dich auf der Facebook-Seite des Clubs ein und erhalte Bestätigungen für Events. Frühes Erscheinen kann ebenfalls von Vorteil sein, da es oft Angebote in den ersten Stunden gibt.
+Nutze die Gelegenheit, um neue Leute kennenzulernen. Viele Clubs haben Communities und Einladungen über soziale Medien. Trage dich auf der Facebook-Seite des Clubs ein und erhalte Bestätigungen für Events. Frühes Erscheinen kann ebenfalls von Vorteil sein, da es oft Angebote in den ersten Stunden gibt.
 
 > Der Concierge hat ein paar Tipps zusammengestellt: Viel Vergnügen beim Testen und Entdecken des Berliner Nachtlebens!
 

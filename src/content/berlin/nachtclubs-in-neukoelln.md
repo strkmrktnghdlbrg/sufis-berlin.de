@@ -14,7 +14,7 @@ verified: true
 verifiedNote: "Status 2026 geprüft: SchwuZ (Rollbergstraße), Loophole und Griessmühle inzwischen geschlossen, im Text markiert; Klunkerkranich weiterhin geöffnet."
 ---
 
-Neukölln, ein hipper Bezirk Berlins, ist bekannt für seine Cafés, Kneipen und Co-Working-Spaces. Obwohl das Nachtleben hier nicht so präsent ist wie in anderen Stadtteilen wie Kreuzberg oder Friedrichshain, gibt es dennoch einige besondere Orte, an denen man die Nacht durchtanzen kann.
+Neukölln, ein hipper Bezirk Berlins, ist bekannt für seine Cafés, Kneipen und Co-Working-Spaces. Obwohl das Nachtleben hier nicht so präsent ist wie in anderen Stadtteilen wie [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) oder [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/), gibt es dennoch einige besondere Orte, an denen man die Nacht durchtanzen kann.
 
 ### Wichtige Erkenntnisse
 
@@ -48,7 +48,7 @@ Der Klunkerkranich ist mehr als nur ein Club - er ist eine Mischung aus Garten, 
 
 ### Musik und DJs
 
-Musikalisch bietet der Klunkerkranich eine breite Palette, von House und Techno bis hin zu Funk und Soul. An den meisten Tagen, besonders am Wochenende, legen DJs auf und sorgen für eine ausgelassene Stimmung. Live-Musik und DJ-Sets machen den Abend zu einem besonderen Erlebnis.
+Musikalisch bietet der Klunkerkranich eine breite Palette, von House und [Techno](/berlin/techno-nachtclubs/) bis hin zu Funk und Soul. An den meisten Tagen, besonders am Wochenende, legen DJs auf und sorgen für eine ausgelassene Stimmung. Live-Musik und DJ-Sets machen den Abend zu einem besonderen Erlebnis.
 
 ### Tipps für den Besuch
 
@@ -88,9 +88,9 @@ Das Publikum im Heimathafen Neukölln ist so vielfältig wie die Veranstaltungen
 
 Christa Kupfer ist eine "gemütliche Bar" in Neukölln, die mit ihrem charmanten Interieur besticht. Die dunklen Wände und Holzmöbel schaffen eine einladende Atmosphäre, die perfekt zum Verweilen einlädt. Besonders im hinteren Teil, wo nur Kerzenlicht für Beleuchtung sorgt, kann man sich wunderbar entspannen.
 
-Das Musikprogramm in Christa Kupfer ist vielfältig und bietet für jeden Geschmack etwas. Von Indie über elektronische Musik bis hin zu Jazz - hier kommt jeder auf seine Kosten. Die DJs und Live-Acts sind sorgfältig ausgewählt und sorgen stets für eine lebendige Stimmung.
+Das Musikprogramm in Christa Kupfer ist vielfältig und bietet für jeden Geschmack etwas. Von Indie über [elektronische Musik](/berlin/elektronische-musik-in-berlin/) bis hin zu [Jazz](/berlin/jazz-und-blues-nachtclubs/) - hier kommt jeder auf seine Kosten. Die DJs und Live-Acts sind sorgfältig ausgewählt und sorgen stets für eine lebendige Stimmung.
 
-Die Getränkekarte in Christa Kupfer ist ebenso beeindruckend wie die Atmosphäre. Neben klassischen Cocktails gibt es auch eine Auswahl an speziellen Drinks, die man unbedingt probieren sollte. Besonders hervorzuheben sind die kreativen Eigenkreationen der Barkeeper, die immer wieder für Überraschungen sorgen.
+Die Getränkekarte in Christa Kupfer ist ebenso beeindruckend wie die Atmosphäre. Neben klassischen [Cocktails](/berlin/cocktailbars-in-berliner/) gibt es auch eine Auswahl an speziellen Drinks, die man unbedingt probieren sollte. Besonders hervorzuheben sind die kreativen Eigenkreationen der Barkeeper, die immer wieder für Überraschungen sorgen.
 
 ## Valentin Stüberl: Der charmante Szenetreff
 

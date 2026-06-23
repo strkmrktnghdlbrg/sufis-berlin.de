@@ -24,7 +24,7 @@ Berlin ist eine Stadt, die man einfach erlebt haben muss. Aber manchmal möchte 
 
 ## Entdecken Sie Hotels in Berlin Pankow
 
-Pankow, das ist ein Bezirk, der oft unterschätzt wird, wenn man an Berlin denkt. Viele stellen sich ja sofort die quirligen Ecken von Mitte oder Kreuzberg vor, aber Pankow hat seinen ganz eigenen Charme. Hier findet man eine entspanntere Seite der Stadt, die aber trotzdem viel zu bieten hat. Wenn Sie also nach einer Unterkunft suchen, die Ihnen Ruhe bietet, aber Sie trotzdem schnell ins Zentrum bringt, dann sind Sie hier genau richtig.
+Pankow, das ist ein Bezirk, der oft unterschätzt wird, wenn man an Berlin denkt. Viele stellen sich ja sofort die quirligen Ecken von [Mitte](/berlin/nachtclubs-in-mitte/) oder [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) vor, aber Pankow hat seinen ganz eigenen Charme. Hier findet man eine entspanntere Seite der Stadt, die aber trotzdem viel zu bieten hat. Wenn Sie also nach einer Unterkunft suchen, die Ihnen Ruhe bietet, aber Sie trotzdem schnell ins Zentrum bringt, dann sind Sie hier genau richtig.
 
 ### Ruhe und Erholung im Grünen
 
@@ -36,7 +36,7 @@ Pankow ist auch bei Familien beliebt, und das merkt man an den Unterkünften. Es
 
 ### Gute Anbindung an das Stadtzentrum
 
-Das Wichtigste für viele Berlin-Besucher ist ja die Anbindung. Und da kann Pankow wirklich punkten. Obwohl es ruhiger ist, ist man mit der S-Bahn oder der Tram ruckzuck im Herzen von Berlin. Man muss also keine halbe Ewigkeit unterwegs sein, um zu den bekannten Sehenswürdigkeiten zu kommen. Das ist super praktisch. Sie können also morgens in Ruhe frühstücken, vielleicht noch einen kleinen Spaziergang machen, und sind dann trotzdem pünktlich am Brandenburger Tor oder auf der Museumsinsel. Es ist diese Mischung aus Ruhe und guter Erreichbarkeit, die Pankow so attraktiv macht.
+Das Wichtigste für viele Berlin-Besucher ist ja die Anbindung. Und da kann Pankow wirklich punkten. Obwohl es ruhiger ist, ist man mit der S-Bahn oder der Tram ruckzuck im Herzen von Berlin. Man muss also keine halbe Ewigkeit unterwegs sein, um zu den bekannten [Sehenswürdigkeiten](/berlin/berlins-sehenswuerdigkeiten/) zu kommen. Das ist super praktisch. Sie können also morgens in Ruhe frühstücken, vielleicht noch einen kleinen Spaziergang machen, und sind dann trotzdem pünktlich am Brandenburger Tor oder auf der Museumsinsel. Es ist diese Mischung aus Ruhe und guter Erreichbarkeit, die Pankow so attraktiv macht.
 
 ## Weißensee: Ein Viertel mit Charme
 

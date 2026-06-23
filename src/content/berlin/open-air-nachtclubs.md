@@ -28,7 +28,7 @@ Berlin ist international für seine einzigartige Clubszene bekannt. Dabei lässt
 
 Im Klunkerkranich kannst du über den Dächern Berlins die Nacht zum Tag machen. Der gefühlt langsamste Aufzug der Stadt bringt dich auf das Parkdeck 6 der Neukölln-Arkaden, wo sich eine ganz neue Welt auftut. Die kleinen Holzgärten schaffen ein einmaliges Ambiente, in denen du gemütlich sitzen, chillen und tanzen kannst. **Der Sonnenuntergang über den Dächern Berlins** ist ein absolutes Highlight und sorgt für eine magische Stimmung.
 
-Ganz gleich, ob zu Konzerten, dem Durchtanzen ganzer Nächte oder einfach nur zum chilligen Kaffeetrinken, der Klunkerkranich bietet die optimale Location für einen gelungenen Abend. Die wunderschöne Panoramaaussicht erlaubt einen weitläufigen Blick über die Szenebezirke Neukölln und Kreuzberg bis hin zum Roten Rathaus und dem Fernsehturm. Das kulinarische Angebot reicht von kleinen Snacks bis hin zu herzhaften Gerichten, die alle Geschmäcker zufriedenstellen.
+Ganz gleich, ob zu Konzerten, dem Durchtanzen ganzer Nächte oder einfach nur zum chilligen Kaffeetrinken, der Klunkerkranich bietet die optimale Location für einen gelungenen Abend. Die wunderschöne Panoramaaussicht erlaubt einen weitläufigen Blick über die Szenebezirke [Neukölln](/berlin/nachtclubs-in-neukoelln/) und [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) bis hin zum Roten Rathaus und dem Fernsehturm. Das kulinarische Angebot reicht von kleinen Snacks bis hin zu herzhaften Gerichten, die alle Geschmäcker zufriedenstellen.
 
 **Anreise:** Der Klunkerkranich befindet sich auf dem Parkdeck 6 der Neukölln-Arkaden in der Karl-Marx-Straße 66, 12043 Berlin.
 
@@ -40,7 +40,7 @@ Ganz gleich, ob zu Konzerten, dem Durchtanzen ganzer Nächte oder einfach nur zu
 
 ### Sisyphos: Der legendäre Open-Air-Club
 
-Das Sisyphos ist ein wahres Wunderland für Feierwütige. Der Club, der sich in einer ehemaligen Hundekuchenfabrik befindet, bietet eine perfekte Mischung aus Strandparty, Techno-Club und chilliger Outdoor-Area. **Bunte Lampenschirme, liebevoll gestaltete Holzfiguren und umgebaute Autos** schaffen eine einzigartige Atmosphäre, die zum Tanzen und Entspannen einlädt.
+Das Sisyphos ist ein wahres Wunderland für Feierwütige. Der Club, der sich in einer ehemaligen Hundekuchenfabrik befindet, bietet eine perfekte Mischung aus Strandparty, [Techno-Club](/berlin/techno-nachtclubs/) und chilliger Outdoor-Area. **Bunte Lampenschirme, liebevoll gestaltete Holzfiguren und umgebaute Autos** schaffen eine einzigartige Atmosphäre, die zum Tanzen und Entspannen einlädt.
 
 Im Sisyphos kommen sowohl Techno- als auch House-Liebhaber auf ihre Kosten. In der Hammerhalle kann man zu harten Techno-Beats abfeiern, während draußen lebensbejahender House gespielt wird. Der Club ist bekannt für seine abwechslungsreichen Line-Ups und zieht DJs aus der ganzen Welt an.
 
@@ -56,7 +56,7 @@ Else liegt direkt an der Spree und bietet eine einzigartige Lage für Open-Air-P
 
 #### Musikalisches Programm
 
-Der Club ist bekannt für sein abwechslungsreiches musikalisches Programm. Von Techno über House bis hin zu experimentellen Klängen – hier ist für jeden Geschmack etwas dabei. Besonders an den Wochenenden wird die Tanzfläche durchgehend mit elektronischer Musik bespielt.
+Der Club ist bekannt für sein abwechslungsreiches musikalisches Programm. Von Techno über House bis hin zu experimentellen Klängen – hier ist für jeden Geschmack etwas dabei. Besonders an den Wochenenden wird die Tanzfläche durchgehend mit [elektronischer Musik](/berlin/elektronische-musik-in-berlin/) bespielt.
 
 #### Publikum und Atmosphäre
 
@@ -90,7 +90,7 @@ Die Ipse veranstaltet regelmäßig besondere Events, die weit über die Grenzen 
 
 - **Saisonale Open-Air-Partys**: Von Frühling bis Herbst finden hier zahlreiche Open-Air-Events statt.
 - **Themenpartys**: Kreative Mottos und Dekorationen machen diese Partys zu etwas ganz Besonderem.
-- **After-Hour-Sessions**: Für alle, die nach der regulären Party noch weiterfeiern möchten.
+- **[After-Hour](/berlin/after-hour-nachtclubs-in-berlin/)-Sessions**: Für alle, die nach der regulären Party noch weiterfeiern möchten.
 
 > Ein Besuch in der Ipse ist ein Muss für alle, die das Berliner Nachtleben in vollen Zügen genießen möchten. Die Kombination aus erstklassiger Musik, einzigartiger Lage und besonderen Events macht diesen Club zu einem der beliebtesten Open-Air-Spots der Stadt.
 
@@ -98,7 +98,7 @@ Die Ipse veranstaltet regelmäßig besondere Events, die weit über die Grenzen 
 
 #### Atmosphäre und Publikum
 
-Das About Blank ist bekannt für seine düsteren Techno-Vibes und seine legendären Gay-Partys wie Buttons oder Staub. Der weitläufige Außenbereich ist mit allerlei kuriosen Dingen vollgestellt und bietet viele wunderbare Ecken zum Verweilen. **Die Atmosphäre ist alternativ und einladend**, was den Club zu einem beliebten Treffpunkt für ein diverses Publikum macht.
+Das About Blank ist bekannt für seine düsteren Techno-Vibes und seine legendären Gay-Partys wie Buttons oder Staub. Der weitläufige Außenbereich ist mit allerlei kuriosen Dingen vollgestellt und bietet viele wunderbare Ecken zum Verweilen. **Die Atmosphäre ist [alternativ](/berlin/alternative-nachtclubs/) und einladend**, was den Club zu einem beliebten Treffpunkt für ein diverses Publikum macht.
 
 #### Musik und Veranstaltungen
 

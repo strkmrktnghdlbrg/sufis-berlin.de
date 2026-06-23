@@ -85,7 +85,7 @@ Abseits des Trubels laden unzählige kleine Cafés zum Verweilen ein. Stell dir 
 
 ### Das pulsierende Nachtleben an der Weserstraße
 
-Wenn die Sonne untergeht, erwacht Neukölln erst richtig zum Leben, besonders rund um die Weserstraße. Hier reiht sich eine Bar an die nächste, von schicken Cocktailbars bis zu urigen Kneipen, in denen man auch mal mit den Einheimischen ins Gespräch kommt. Die Atmosphäre ist oft locker und unkompliziert. Es gibt auch einige kleinere Clubs, die bis in die frühen Morgenstunden Musik spielen. Wer das echte Berliner Nachtleben erleben möchte, ist hier genau richtig. Es ist ein Ort, an dem man leicht neue Leute kennenlernt und die Nacht zum Tag machen kann. Die Vielfalt der [Bars und Clubs](/berlin/berlin-und-seine-schaetze/) ist beeindruckend und bietet für jeden Geschmack etwas.
+Wenn die Sonne untergeht, erwacht Neukölln erst richtig zum Leben, besonders rund um die Weserstraße. Hier reiht sich eine Bar an die nächste, von schicken [Cocktailbars](/berlin/cocktailbars-in-berliner/) bis zu urigen Kneipen, in denen man auch mal mit den Einheimischen ins Gespräch kommt. Die Atmosphäre ist oft locker und unkompliziert. Es gibt auch einige kleinere [Clubs in Neukölln](/berlin/nachtclubs-in-neukoelln/), die bis in die frühen Morgenstunden Musik spielen. Wer das echte Berliner Nachtleben erleben möchte, ist hier genau richtig. Es ist ein Ort, an dem man leicht neue Leute kennenlernt und die Nacht zum Tag machen kann. Die Vielfalt der [Bars und Clubs](/berlin/berlin-und-seine-schaetze/) ist beeindruckend und bietet für jeden Geschmack etwas.
 
 ## Praktische Anbindung Ihrer Neuköllner Unterkunft
 

@@ -88,7 +88,7 @@ Zehlendorf ist nicht nur ein Ort zum Übernachten, sondern ein Tor zu einer Welt
 - **Botanischer Garten:** Eine grüne Lunge mitten in der Stadt, die mit einer beeindruckenden Vielfalt an Pflanzen aus aller Welt begeistert. Ein Muss für Naturliebhaber.
 - **Schloss Glienicke und Park Babelsberg:** Diese UNESCO-Welterbestätten bieten nicht nur wunderschöne Architektur, sondern auch herrliche Spazierwege entlang der Havel.
 
-Diese Orte sind nur ein kleiner Vorgeschmack auf das, was Zehlendorf zu bieten hat. Es ist diese Mischung aus Ruhe und Erreichbarkeit, die den Charme ausmacht. Man kann den Tag mit einem Spaziergang am See beginnen und am Abend schon das Berliner Nachtleben erkunden, zum Beispiel in den Clubs von [Kreuzberg](/berlin/exklusive-nachtclubs-in-berlin/).
+Diese Orte sind nur ein kleiner Vorgeschmack auf das, was Zehlendorf zu bieten hat. Es ist diese Mischung aus Ruhe und Erreichbarkeit, die den Charme ausmacht. Man kann den Tag mit einem Spaziergang am See beginnen und am Abend schon das Berliner Nachtleben erkunden, zum Beispiel in den Clubs von [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) oder bei den [besten Nachtclubs](/berlin/die-besten-nachtclubs/) der Stadt.
 
 ### Die Einzigartige Atmosphäre Zehlendorfs
 

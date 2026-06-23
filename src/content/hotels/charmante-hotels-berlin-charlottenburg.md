@@ -24,7 +24,7 @@ Berlin Charlottenburg ist ein Viertel, das viel zu bieten hat, gerade wenn es um
 
 ## Elegante Unterkünfte am Puls von Charlottenburg
 
-Charlottenburg, das ist doch dieser schicke Bezirk im Westen Berlins, oder? Genau da, wo der Ku'damm zum Flanieren einlädt und der Savignyplatz zum Verweilen. Wenn man hier nach einem besonderen Ort zum Übernachten sucht, landet man schnell bei Hotels, die mehr sind als nur ein Bett. Es geht um das Gefühl, um den Stil, um ein bisschen Luxus, der sich aber nicht aufdrängt.
+[Charlottenburg](/berlin/nachtclubs-in-charlottenburg/), das ist doch dieser schicke Bezirk im Westen Berlins, oder? Genau da, wo der Ku'damm zum Flanieren einlädt und der Savignyplatz zum Verweilen. Wenn man hier nach einem besonderen Ort zum Übernachten sucht, landet man schnell bei Hotels, die mehr sind als nur ein Bett. Es geht um das Gefühl, um den Stil, um ein bisschen Luxus, der sich aber nicht aufdrängt.
 
 ### Sir Savigny: Opulent, Urban, Aristokratisch
 
@@ -66,7 +66,7 @@ Das Hotel Am Steinplatz beherbergt ein Restaurant, das Gourmetsherzen höherschl
 
 ### Brunch im Benedict des Max Brown Ku'damm
 
-Für alle, die den Morgen oder späten Vormittag gerne genussvoll beginnen, ist das Benedict im Max Brown Ku'damm die richtige Adresse. Dieses Lokal ist bekannt für seine vielfältige Brunch-Karte, die keine Wünsche offenlässt. Von Eierspeisen in allen Variationen über süße Leckereien bis hin zu herzhaften Optionen - hier findet jeder seinen Favoriten. Besonders beliebt sind die kreativen Eiergerichte und die frischen Säfte. Es ist der ideale Ort, um mit Freunden oder Familie den Tag zu starten und die entspannte Atmosphäre zu genießen. Die Lage nahe dem Ku'damm macht es zudem leicht erreichbar, egal ob du gerade durch die Geschäfte bummelst oder die Sehenswürdigkeiten Berlins erkundest. Ein Besuch in diesem charmanten Viertel lohnt sich immer, besonders wenn man die kulinarischen Angebote wie die [Museen in Berlin](/berlin/berlin-und-seine-schaetze/) mit einbezieht.
+Für alle, die den Morgen oder späten Vormittag gerne genussvoll beginnen, ist das Benedict im Max Brown Ku'damm die richtige Adresse. Dieses Lokal ist bekannt für seine vielfältige Brunch-Karte, die keine Wünsche offenlässt. Von Eierspeisen in allen Variationen über süße Leckereien bis hin zu herzhaften Optionen - hier findet jeder seinen Favoriten. Besonders beliebt sind die kreativen Eiergerichte und die frischen Säfte. Es ist der ideale Ort, um mit Freunden oder Familie den Tag zu starten und die entspannte Atmosphäre zu genießen. Die Lage nahe dem Ku'damm macht es zudem leicht erreichbar, egal ob du gerade durch die Geschäfte bummelst oder die [Sehenswürdigkeiten](/berlin/berlins-sehenswuerdigkeiten/) Berlins erkundest. Ein Besuch in diesem charmanten Viertel lohnt sich immer, besonders wenn man die kulinarischen Angebote wie die [Museen in Berlin](/berlin/berlin-und-seine-schaetze/) mit einbezieht.
 
 > Die kulinarische Szene Charlottenburgs spiegelt die Vielfalt des Stadtteils wider. Von angesagten Burger-Spots bis hin zu Sterne-Restaurants ist für jeden Geschmack etwas dabei. Die Hotels spielen dabei oft eine zentrale Rolle, indem sie eigene Gastronomie-Highlights bieten, die Einheimische und Besucher gleichermaßen anziehen.
 

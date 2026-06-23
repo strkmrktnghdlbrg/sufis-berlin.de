@@ -32,7 +32,7 @@ Berghain und Panorama Bar sind untrennbar mit der Berliner Technoszene verbunden
 
 ### Musikalisches Angebot
 
-Das musikalische Angebot im Berghain und der Panorama Bar ist vielfältig und erstklassig. Während auf dem Main Floor hauptsächlich Techno gespielt wird, bietet die Panorama Bar eine Mischung aus House und funky Tunes. Freitags ist oft nur die Panorama Bar geöffnet, was zu einer etwas entspannteren Atmosphäre führt.
+Das musikalische Angebot im Berghain und der Panorama Bar ist vielfältig und erstklassig. Während auf dem Main Floor hauptsächlich Techno gespielt wird, bietet die Panorama Bar eine Mischung aus [House](/berlin/elektronische-musik-in-berlin/) und funky Tunes. Freitags ist oft nur die Panorama Bar geöffnet, was zu einer etwas entspannteren Atmosphäre führt.
 
 ### Tipps für den Einlass
 
@@ -48,7 +48,7 @@ Der Einlass ins Berghain ist berüchtigt schwer. Hier sind einige Tipps, um die 
 
 ### Einzigartiges Ambiente
 
-Das Sisyphos ist besonders im Sommer ein Highlight, da der große Garten perfekt für Open-Air-Partys geeignet ist. Hier kann man nach einer langen Nacht den Sonnenaufgang genießen. Der Club bietet Platz für etwa 1500 Personen und verfügt über mehrere Floors.
+Das Sisyphos ist besonders im Sommer ein Highlight, da der große Garten perfekt für [Open-Air](/berlin/open-air-nachtclubs/)-Partys geeignet ist. Hier kann man nach einer langen Nacht den Sonnenaufgang genießen. Der Club bietet Platz für etwa 1500 Personen und verfügt über mehrere Floors.
 
 ### Veranstaltungen und Line-Ups
 
@@ -56,11 +56,11 @@ Im Sisyphos erwartet die Besucher eine Mischung aus bekannten DJs und lokalen Ta
 
 ### Anreise und Lage
 
-Der Club befindet sich im Osten Berlins, nicht weit vom Bahnhof Ostkreuz entfernt. Man kann entweder vom Ostkreuz aus laufen oder die Tram nehmen. Die **lange Schlange** und die strenge Türpolitik sind berüchtigt, ähnlich wie beim Berghain.
+Der Club befindet sich im Osten Berlins, nicht weit vom Bahnhof Ostkreuz entfernt. Man kann entweder vom Ostkreuz aus laufen oder die Tram nehmen. Die **lange Schlange** und die strenge [Türpolitik](/berlin/clubbesuch-in-berlin/) sind berüchtigt, ähnlich wie beim Berghain.
 
 ## Tresor
 
-Der Tresor ist eine historische Institution in der Berliner Technoszene. Seit seiner Eröffnung 1991 hat er sich weltweit einen Namen gemacht. Ursprünglich befand sich der Club in der Leipziger Straße, musste jedoch 2005 schließen. Glücklicherweise wurde 2007 eine neue Location gefunden, die sich zwischen Berlin-Mitte und Kreuzberg befindet. Die einstige Tür des Tresors steht heute im Humboldt Forum als Symbol für die reiche Geschichte des Clubs.
+Der Tresor ist eine historische Institution in der Berliner Technoszene. Seit seiner Eröffnung 1991 hat er sich weltweit einen Namen gemacht. Ursprünglich befand sich der Club in der Leipziger Straße, musste jedoch 2005 schließen. Glücklicherweise wurde 2007 eine neue Location gefunden, die sich zwischen Berlin-Mitte und [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) befindet. Die einstige Tür des Tresors steht heute im Humboldt Forum als Symbol für die reiche Geschichte des Clubs.
 
 Der Tresor ist bekannt für sein verwinkeltes Erdgeschoss, in dem man sich leicht verlaufen kann. Der Club befindet sich unter der Erde und erinnert an einen Kriegsbunker. Diese einzigartige Atmosphäre zieht viele Besucher an. Neben dem Tresor gibt es im selben Gebäude auch den kleineren Schwesterclub Ohm, der sich durch seine weiß gefliesten Wände und den Fokus auf das Tanzen auszeichnet.
 
@@ -111,7 +111,7 @@ Die Türpolitik der Wilden Renate ist bekanntlich streng. Es hängt stark davon 
 
 ## Fazit
 
-Wie du siehst, pulsiert Berlins Techno-Clubszene Tag und Nacht! In dieser Stadt der unbegrenzten Möglichkeiten kannst du in jedem Bezirk bis in die Morgenstunden tanzen. Friedrichshain und Kreuzberg mögen zwar als die Hotspots der Clubszene gelten, doch auch in anderen Ecken Berlins warten unvergessliche Nächte auf dich. Berlin steht direkt nach Detroit wie keine andere Stadt dieser Welt für Techno und House. Kein Wunder, dass viele Reisende in Berlin „Club-Urlaub" machen oder neben Kulturprogramm zusätzlich gerne mal auf Techno-Musik tanzen und verrückt feiern wollen. Berlins Clubszene und ihr pulsierendes Nachtleben ist weltweit legendär. Vor allem die Techno-Clubs der Stadt sind ein Hauptanziehungspunkt für Menschen aus der ganzen Welt, die das unvergleichliche Berliner Ambiente erleben wollen.
+Wie du siehst, pulsiert Berlins Techno-Clubszene Tag und Nacht! In dieser Stadt der unbegrenzten Möglichkeiten kannst du in jedem Bezirk bis in die Morgenstunden tanzen. [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) und Kreuzberg mögen zwar als die Hotspots der Clubszene gelten, doch auch in anderen Ecken Berlins warten unvergessliche Nächte auf dich. Berlin steht direkt nach Detroit wie keine andere Stadt dieser Welt für Techno und House. Kein Wunder, dass viele Reisende in Berlin „Club-Urlaub" machen oder neben Kulturprogramm zusätzlich gerne mal auf Techno-Musik tanzen und verrückt feiern wollen. Berlins Clubszene und ihr pulsierendes Nachtleben ist weltweit legendär. Vor allem die Techno-Clubs der Stadt sind ein Hauptanziehungspunkt für Menschen aus der ganzen Welt, die das unvergleichliche Berliner Ambiente erleben wollen.
 
 ## Häufig gestellte Fragen
 

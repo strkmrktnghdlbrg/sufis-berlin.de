@@ -17,7 +17,7 @@ Berlin Friedrichshain – ein Viertel, das niemals schläft. Wenn du auf der Suc
 ### Schlüsselerkenntnisse
 
 - Friedrichshain ist Berlins Hotspot für Musik, Nachtleben und alternative Kultur, besonders rund um die Simon-Dach-Straße und das RAW-Gelände.
-- Weltbekannte Clubs wie das Berghain prägen die pulsierende Techno-Szene des Viertels.
+- Weltbekannte Clubs wie das Berghain prägen die pulsierende [Techno](/berlin/techno-nachtclubs/)-Szene des Viertels.
 - Design-Hotels in Friedrichshain bieten stilvollen Komfort und sind die ideale Basis, um den urbanen Lifestyle zu erkunden.
 - Der Bezirk besticht durch eine lebendige Kunstszene, Street Art und eine ständig wachsende Kreativszene.
 - Neben dem Nachtleben bietet Friedrichshain auch kulinarische Vielfalt, historische Orte wie die East Side Gallery und entspannende Grünflächen.
@@ -26,7 +26,7 @@ Berlin Friedrichshain – ein Viertel, das niemals schläft. Wenn du auf der Suc
 
 ### Simon-Dach-Straße: Ein Hotspot für Nachtschwärmer
 
-Wenn man in Berlin von Ausgehen spricht, kommt man an Friedrichshain kaum vorbei. Besonders die Simon-Dach-Straße und ihre Nebenstraßen sind das, was man wohl als das Herzstück des Berliner Nachtlebens bezeichnen könnte. Hier reiht sich eine Bar an die nächste, von kleinen, gemütlichen Kneipen bis hin zu größeren Locations, wo man bis in die frühen Morgenstunden feiern kann. Es ist ein bunter Mix aus Leuten, die hierherkommen, um einfach mal abzuschalten und eine gute Zeit zu haben. Die Atmosphäre ist meistens locker und entspannt, egal ob unter der Woche oder am Wochenende. Man findet hier alles Mögliche, von Craft Beer bis zu exotischen Cocktails. Es ist wirklich ein Ort, wo jeder auf seine Kosten kommt, der das Berliner Nachtleben erleben will.
+Wenn man in Berlin von Ausgehen spricht, kommt man an [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) kaum vorbei. Besonders die Simon-Dach-Straße und ihre Nebenstraßen sind das, was man wohl als das Herzstück des Berliner Nachtlebens bezeichnen könnte. Hier reiht sich eine Bar an die nächste, von kleinen, gemütlichen Kneipen bis hin zu größeren Locations, wo man bis in die frühen Morgenstunden feiern kann. Es ist ein bunter Mix aus Leuten, die hierherkommen, um einfach mal abzuschalten und eine gute Zeit zu haben. Die Atmosphäre ist meistens locker und entspannt, egal ob unter der Woche oder am Wochenende. Man findet hier alles Mögliche, von Craft Beer bis zu exotischen [Cocktails](/berlin/cocktailbars-in-berliner/). Es ist wirklich ein Ort, wo jeder auf seine Kosten kommt, der das Berliner Nachtleben erleben will.
 
 ### RAW-Gelände: Kultur und Konzerte im Herzen von Friedrichshain
 
@@ -34,7 +34,7 @@ Das RAW-Gelände ist ein ganz besonderer Ort in Friedrichshain. Früher mal ein 
 
 ### Berghain und Techno-Szene: Weltbekannt und pulsierend
 
-Friedrichshain ist auch die Heimat des Berghains, einer Diskothek, die weltweit für ihre Techno-Musik und ihre strenge Türpolitik bekannt ist. Aber es geht hier nicht nur um das Berghain. Die gesamte Gegend um das Gelände herum ist ein Magnet für Techno-Fans aus aller Welt. Es gibt eine ganze Reihe von Clubs und kleineren Veranstaltungsorten, die sich der elektronischen Musik verschrieben haben. Die Szene ist hier sehr lebendig und hat einen großen Einfluss auf das Image des Stadtteils. Wer auf Techno steht, kommt an Friedrichshain einfach nicht vorbei. Es ist ein wichtiger Teil der Berliner Clubkultur, der weit über die Stadtgrenzen hinaus bekannt ist.
+Friedrichshain ist auch die Heimat des [Berghains](/berlin/berghain/), einer Diskothek, die weltweit für ihre Techno-Musik und ihre strenge [Türpolitik](/berlin/clubbesuch-in-berlin/) bekannt ist. Aber es geht hier nicht nur um das Berghain. Die gesamte Gegend um das Gelände herum ist ein Magnet für Techno-Fans aus aller Welt. Es gibt eine ganze Reihe von Clubs und kleineren Veranstaltungsorten, die sich der [elektronischen Musik](/berlin/elektronische-musik-in-berlin/) verschrieben haben. Die Szene ist hier sehr lebendig und hat einen großen Einfluss auf das Image des Stadtteils. Wer auf Techno steht, kommt an Friedrichshain einfach nicht vorbei. Es ist ein wichtiger Teil der Berliner Clubkultur, der weit über die Stadtgrenzen hinaus bekannt ist.
 
 ## Design-Hotels in Berlin Friedrichshain: Stilvoll Übernachten
 
@@ -52,7 +52,7 @@ Wenn Sie Wert auf Ästhetik legen, aber nicht auf Komfort verzichten wollen, sin
 
 ### Die perfekte Basis für Ihre Erkundungstouren
 
-Die Lage der Design-Hotels in Friedrichshain ist oft unschlagbar. Sie sind meist gut an den öffentlichen Nahverkehr angebunden, sodass Sie schnell und einfach zu den Hotspots des Viertels gelangen. Ob Sie die legendäre Berliner Clubszene erkunden wollen, wie zum Beispiel die Clubs rund um [Berlin's nightlife](/berlin/after-hour-nachtclubs-in-berlin/), oder die alternative Kunstszene entdecken möchten – von Ihrem Hotel aus sind Sie mittendrin. Auch für kulinarische Entdeckungen oder einen Spaziergang entlang der Spree ist es ein idealer Ausgangspunkt.
+Die Lage der Design-Hotels in Friedrichshain ist oft unschlagbar. Sie sind meist gut an den öffentlichen Nahverkehr angebunden, sodass Sie schnell und einfach zu den Hotspots des Viertels gelangen. Ob Sie die legendäre Berliner Clubszene erkunden wollen, wie zum Beispiel die Clubs rund um Berlin's nightlife, oder die alternative Kunstszene entdecken möchten – von Ihrem Hotel aus sind Sie mittendrin. Auch für kulinarische Entdeckungen oder einen Spaziergang entlang der Spree ist es ein idealer Ausgangspunkt.
 
 > Die Nähe zu wichtigen Verkehrsknotenpunkten und gleichzeitig die Einbettung in das lebendige Treiben des Bezirks machen diese Hotels zu mehr als nur einer Übernachtungsmöglichkeit. Sie sind Teil des Friedrichshain-Erlebnisses.
 
@@ -84,7 +84,7 @@ Der Bereich um den Boxhagener Platz ist ein Hotspot für alle, die es unkomplizi
 
 ### Internationale Delikatessen für zu Hause
 
-Wenn du nach einem langen Tag voller Entdeckungen Lust hast, dir etwas Besonderes zu gönnen oder ein Stück Berlin mit nach Hause zu nehmen, wirst du in Friedrichshain fündig. Viele kleine Läden und Märkte bieten eine Auswahl an internationalen Delikatessen an. Denk an handgemachte Pasta, exotische Gewürze oder besondere Käsesorten. Es ist eine tolle Möglichkeit, die kulinarische Vielfalt des Viertels auch abseits der Restaurants zu erleben. Wer sich für die Berliner Clubkultur interessiert, wird hier ebenfalls fündig, denn die Stadt hat einiges zu bieten, was das Nachtleben angeht [Berlin boasts a vibrant nightlife](/berlin/exklusive-nachtclubs-in-berlin/).
+Wenn du nach einem langen Tag voller Entdeckungen Lust hast, dir etwas Besonderes zu gönnen oder ein Stück Berlin mit nach Hause zu nehmen, wirst du in Friedrichshain fündig. Viele kleine Läden und Märkte bieten eine Auswahl an internationalen Delikatessen an. Denk an handgemachte Pasta, exotische Gewürze oder besondere Käsesorten. Es ist eine tolle Möglichkeit, die kulinarische Vielfalt des Viertels auch abseits der Restaurants zu erleben. Wer sich für die Berliner Clubkultur interessiert, wird hier ebenfalls fündig, denn die Stadt hat einiges zu bieten, was das Nachtleben angeht Berlin boasts a vibrant nightlife.
 
 > Friedrichshain hat sich zu einem echten kulinarischen Hotspot entwickelt. Die Mischung aus internationaler Küche, Streetfood-Kultur und veganen Alternativen macht den Bezirk zu einem Muss für jeden Food-Liebhaber. Hier kann man stundenlang durch die Straßen schlendern und immer wieder neue, spannende Geschmackserlebnisse entdecken.
 

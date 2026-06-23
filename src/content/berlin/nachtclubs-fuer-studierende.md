@@ -60,11 +60,11 @@ Neben den Getränkeangeboten gibt es oft auch Rabatte und Aktionen für Studiere
 
 ### Techno und House
 
-Berlin ist weltweit bekannt für seine dynamische Techno- und House-Szene. Clubs wie das Berghain und der Tresor bieten unvergessliche Nächte mit internationalen DJs und einer einzigartigen Atmosphäre. Die pulsierenden Beats und die energiegeladenen Tanzflächen ziehen Nachtschwärmer aus aller Welt an.
+Berlin ist weltweit bekannt für seine dynamische [Techno](/berlin/techno-nachtclubs/)- und House-Szene. Clubs wie das [Berghain](/berlin/berghain/) und der Tresor bieten unvergessliche Nächte mit internationalen DJs und einer einzigartigen Atmosphäre. Die pulsierenden Beats und die energiegeladenen Tanzflächen ziehen Nachtschwärmer aus aller Welt an.
 
 ### Urban Dance
 
-Für Fans von Hip-Hop, R&B und anderen urbanen Musikrichtungen gibt es in Berlin zahlreiche Clubs, die diese Genres spielen. Hier kann man zu den neuesten Hits und Klassikern tanzen und die Nacht durchfeiern. Die Vielfalt der Musikstile sorgt dafür, dass für jeden Geschmack etwas dabei ist.
+Für Fans von [Hip-Hop](/berlin/hip-hop-nachtclubs/), R&B und anderen urbanen Musikrichtungen gibt es in Berlin zahlreiche Clubs, die diese Genres spielen. Hier kann man zu den neuesten Hits und Klassikern tanzen und die Nacht durchfeiern. Die Vielfalt der Musikstile sorgt dafür, dass für jeden Geschmack etwas dabei ist.
 
 ### Mainstream und Charts
 
@@ -90,7 +90,7 @@ Achte darauf, genug Wasser zu trinken und regelmäßig Pausen einzulegen, um dic
 
 ### Kleiderordnung
 
-In den Berliner Nachtclubs gibt es oft keine strengen Dresscodes, aber **ein gepflegtes Erscheinungsbild wird erwartet**. Einige Clubs bevorzugen schicke Kleidung, während andere einen lässigeren Stil erlauben. Es ist ratsam, sich im Voraus über die spezifischen Anforderungen des Clubs zu informieren.
+In den Berliner Nachtclubs gibt es oft keine strengen [Dresscodes](/berlin/dresscodes/), aber **ein gepflegtes Erscheinungsbild wird erwartet**. Einige Clubs bevorzugen schicke Kleidung, während andere einen lässigeren Stil erlauben. Es ist ratsam, sich im Voraus über die spezifischen Anforderungen des Clubs zu informieren.
 
 ### Verhaltensregeln
 
@@ -102,7 +102,7 @@ Ein respektvolles Verhalten gegenüber anderen Gästen und dem Personal ist uner
 
 ### Türpolitik
 
-Die Türpolitik kann von Club zu Club variieren. Einige Clubs haben strenge Einlasskriterien und lassen nur eine bestimmte Anzahl von Gästen hinein. Es ist hilfreich, frühzeitig zu erscheinen oder sich auf Gästelisten setzen zu lassen, um Wartezeiten zu vermeiden. **Ein freundliches Auftreten und angemessene Kleidung erhöhen die Chancen, eingelassen zu werden.**
+Die [Türpolitik](/berlin/clubbesuch-in-berlin/) kann von Club zu Club variieren. Einige Clubs haben strenge Einlasskriterien und lassen nur eine bestimmte Anzahl von Gästen hinein. Es ist hilfreich, frühzeitig zu erscheinen oder sich auf Gästelisten setzen zu lassen, um Wartezeiten zu vermeiden. **Ein freundliches Auftreten und angemessene Kleidung erhöhen die Chancen, eingelassen zu werden.**
 
 > Ein erfolgreicher Clubbesuch in Berlin erfordert nicht nur die richtige Kleidung, sondern auch ein respektvolles und freundliches Verhalten.
 

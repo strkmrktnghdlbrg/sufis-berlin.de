@@ -32,11 +32,11 @@ Die Kulturbrauerei ist ein einzigartiger Ort im Prenzlauer Berg. Auf einem Gelä
 
 ### Anomalie Art Club (inzwischen geschlossen)
 
-Der Anomalie Art Club war ein einzigartiger Ort an der Storkower Straße, der für seine **kreativen und immersiven Partys** bekannt war. Hier trafen Kunst und elektronische Musik aufeinander, was zu unvergesslichen Nächten führte. Die Location bot eine Vielzahl von Räumen, in denen verschiedene Musikrichtungen gespielt wurden, wobei der Fokus auf Techno und Elektro lag. Der Club hat 2025 geschlossen, die Räume werden seitdem unter neuem Konzept weitergeführt.
+Der Anomalie Art Club war ein einzigartiger Ort an der Storkower Straße, der für seine **kreativen und immersiven Partys** bekannt war. Hier trafen Kunst und elektronische Musik aufeinander, was zu unvergesslichen Nächten führte. Die Location bot eine Vielzahl von Räumen, in denen verschiedene Musikrichtungen gespielt wurden, wobei der Fokus auf [Techno](/berlin/techno-nachtclubs/) und Elektro lag. Der Club hat 2025 geschlossen, die Räume werden seitdem unter neuem Konzept weitergeführt.
 
 ### Mensch Meier (inzwischen geschlossen)
 
-Das Mensch Meier war ein weiterer Hotspot für Liebhaber elektronischer Musik. Besonders im Sommer, wenn der Hof geöffnet war, kam hier echtes Festivalfeeling auf. Je nach Clubnacht konnte man zu hartem Techno, Break Beat und Drum'n'Bass oder verspieltem House tanzen. Das Mensch Meier war auch für seine Schneckno-Nächte bekannt, bei denen langsamer Afterhour-Sound gespielt wurde. Nach mehreren Jahren als kollektiv betriebener Club hat das Mensch Meier seinen Betrieb eingestellt.
+Das Mensch Meier war ein weiterer Hotspot für Liebhaber [elektronischer Musik](/berlin/elektronische-musik-in-berlin/). Besonders im Sommer, wenn der Hof geöffnet war, kam hier echtes Festivalfeeling auf. Je nach Clubnacht konnte man zu hartem Techno, Break Beat und Drum'n'Bass oder verspieltem House tanzen. Das Mensch Meier war auch für seine Schneckno-Nächte bekannt, bei denen langsamer Afterhour-Sound gespielt wurde. Nach mehreren Jahren als kollektiv betriebener Club hat das Mensch Meier seinen Betrieb eingestellt.
 
 ### Sisyphos
 
@@ -70,7 +70,7 @@ Die Musikszene in Prenzlauer Berg ist lebendig und vielfältig. Viele lokale Ban
 
 ## Bars und Kneipen: Die gemütliche Seite des Nachtlebens
 
-Prenzlauer Berg bietet eine Vielzahl an Bars, die für jeden Geschmack etwas bereithalten. Von hippen Cocktailbars bis hin zu gemütlichen Weinbars ist alles dabei. **Ein Highlight ist die Bryk Bar**, die für ihre kreativen Drinks und intime Atmosphäre bekannt ist. Dunkle Wände, Vintage-Möbel und Musik in angenehmer Lautstärke laden zum Verweilen ein. Ein weiteres Muss ist die Bar "Mauersegler", die mit einer großen Auswahl an Bieren und einer coolen Atmosphäre punktet.
+Prenzlauer Berg bietet eine Vielzahl an Bars, die für jeden Geschmack etwas bereithalten. Von hippen [Cocktailbars](/berlin/cocktailbars-in-berliner/) bis hin zu gemütlichen Weinbars ist alles dabei. **Ein Highlight ist die Bryk Bar**, die für ihre kreativen Drinks und intime Atmosphäre bekannt ist. Dunkle Wände, Vintage-Möbel und Musik in angenehmer Lautstärke laden zum Verweilen ein. Ein weiteres Muss ist die Bar "Mauersegler", die mit einer großen Auswahl an Bieren und einer coolen Atmosphäre punktet.
 
 Wie in fast jedem Berliner Bezirk gibt es auch in Prenzlauer Berg traditionelle Eckkneipen. Hier findet man günstiges Bier vom Fass und gutes, bürgerliches Essen. Die Kneipe "Zille", benannt nach dem bekannten Berliner Karikaturisten Heinrich Zille, ist besonders empfehlenswert. Sie besticht durch ihre authentische Berliner Atmosphäre und das rustikale Ambiente.
 
@@ -84,7 +84,7 @@ Die Clubszene in Prenzlauer Berg hat sich seit den 1990er Jahren stark veränder
 
 ### Legendäre Clubs von damals
 
-Einige Clubs aus dieser Zeit sind heute legendär und werden immer noch in nostalgischen Erinnerungen erwähnt. Der Bassy Cowboy Club zum Beispiel war bekannt für seine Musik bis 1969, darunter Hot Jazz, Dirty Blues und Rock'n'Roll. Diese Clubs boten eine einzigartige Atmosphäre und zogen ein vielfältiges Publikum an.
+Einige Clubs aus dieser Zeit sind heute legendär und werden immer noch in nostalgischen Erinnerungen erwähnt. Der Bassy Cowboy Club zum Beispiel war bekannt für seine Musik bis 1969, darunter Hot [Jazz](/berlin/jazz-und-blues-nachtclubs/), Dirty Blues und Rock'n'Roll. Diese Clubs boten eine einzigartige Atmosphäre und zogen ein vielfältiges Publikum an.
 
 ### Einfluss der Gentrifizierung
 
@@ -104,7 +104,7 @@ Einheimische kennen oft die besten Orte, die nicht in jedem Reiseführer stehen.
 
 ### After-Hour Locations
 
-Wenn die regulären Clubs schließen, gibt es immer noch Orte, an denen du weiterfeiern kannst. After-Hour Locations sind perfekt, um die Nacht zum Tag zu machen. Informiere dich im Voraus, welche Clubs und Bars in der Nähe After-Hour-Partys anbieten, um das Beste aus deiner Nacht herauszuholen.
+Wenn die regulären Clubs schließen, gibt es immer noch Orte, an denen du weiterfeiern kannst. After-Hour Locations sind perfekt, um die Nacht zum Tag zu machen. Informiere dich im Voraus, welche Clubs und Bars in der Nähe [After-Hour](/berlin/after-hour-nachtclubs-in-berlin/)-Partys anbieten, um das Beste aus deiner Nacht herauszuholen.
 
 ## Fazit
 

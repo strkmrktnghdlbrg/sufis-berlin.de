@@ -26,7 +26,7 @@ Berlin ist weltweit bekannt für seine pulsierende und vielfältige Clubszene. D
 
 ## Berghain
 
-Das Berghain ist zweifellos der berühmteste Club Berlins und einer der bekanntesten in der Techno-Welt. **Jeder sollte mindestens einmal die Stahltreppe hinaufgestiegen sein** und sich in der Dunkelheit zwischen den drückenden Bassboxen verloren haben. Der Club befindet sich am Wriezener Bahnhof in Berlin-Friedrichshain und ist bekannt für seine strenge Türpolitik, die oft zu langen Warteschlangen führt.
+Das [Berghain](/berlin/berghain/) ist zweifellos der berühmteste Club Berlins und einer der bekanntesten in der Techno-Welt. **Jeder sollte mindestens einmal die Stahltreppe hinaufgestiegen sein** und sich in der Dunkelheit zwischen den drückenden Bassboxen verloren haben. Der Club befindet sich am Wriezener Bahnhof in Berlin-[Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) und ist bekannt für seine strenge [Türpolitik](/berlin/clubbesuch-in-berlin/), die oft zu langen Warteschlangen führt.
 
 * **Adresse:** Am Wriezener Bahnhof, 10243 Berlin
 * **Öffnungszeiten:**
@@ -52,7 +52,7 @@ Das Watergate, gelegen an der Oberbaumbrücke, zählte über zwei Jahrzehnte neb
 
 Ende 2024 schloss das Watergate nach 22 Jahren endgültig seine Türen. Steigende Kosten, hohe Mieten und der allgemeine Druck auf die Berliner Clubszene führten zum Aus. Der Club bleibt dennoch ein Stück Berliner Nachtleben-Geschichte.
 
-Watergate | Falckensteinstraße 49, 10997 Berlin-Kreuzberg (Standort geschlossen)
+Watergate | Falckensteinstraße 49, 10997 Berlin-[Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) (Standort geschlossen)
 
 > Wenn man in den Morgenstunden im Waterfloor stand und auf die Spree blickte, wusste man, warum man hier feierte.
 
@@ -81,8 +81,8 @@ Kater Blau, ehemals bekannt als Katerholzig, ist ein Club, der sich erfolgreich 
 
 Der Club der Visionäre (CdV) ist ein Kultort in Berlin. Mit seiner auf dem Flutgraben schwimmenden Terrasse, dem DJ-Pult aus Brettern und den bunt beleuchteten Bäumen, die ihre Äste über die Tanzfläche hängen lassen, verkörpert kaum ein anderer Club so sehr den Berliner Bretterbuden-Party-Lifestyle. **Die zugegebenermaßen nicht ganz so stabil wirkende Hüttenkonstruktion sollte aber nicht darüber hinwegtäuschen, was im Sommer jeden Tag im Club der Visionäre geliefert wird: nämlich musikalische Qualität.**
 
-* Beliebter Open-Air-Club
-* Elektronische Musik
+* Beliebter [Open-Air](/berlin/open-air-nachtclubs/)-Club
+* [Elektronische Musik](/berlin/elektronische-musik-in-berlin/)
 * Entspannte Atmosphäre
 
 > Ein Besuch im Club der Visionäre fühlt sich fast an wie ein Kurzurlaub am Mittelmeer.

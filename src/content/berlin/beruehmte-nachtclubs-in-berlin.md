@@ -28,11 +28,11 @@ Die Clubszene der Stadt ist für viele Touristen oft einer der Hauptgründe für
 
 ### Geschichte und Bedeutung
 
-Die Straße Am Wriezener Bahnhof in Berlin, nicht weit entfernt vom RAW-Gelände, ist in der Techno-Welt international bekannt. Das hier ansässige Berghain in Friedrichshain mit seiner berühmten Panorama-Bar eilt sein Ruf weit voraus. **Der Mythos des Techno-Tempels in Berlin** ist weit über die Grenzen der Stadt bekannt, vor allem diverse Geschichten darüber, was dort so alles auf und neben der Tanzfläche passiert.
+Die Straße Am Wriezener Bahnhof in Berlin, nicht weit entfernt vom RAW-Gelände, ist in der Techno-Welt international bekannt. Das hier ansässige Berghain in [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) mit seiner berühmten Panorama-Bar eilt sein Ruf weit voraus. **Der Mythos des Techno-Tempels in Berlin** ist weit über die Grenzen der Stadt bekannt, vor allem diverse Geschichten darüber, was dort so alles auf und neben der Tanzfläche passiert.
 
 ### Die berüchtigte Türpolitik
 
-Es wäre wirklich ein bisschen langweilig gewesen, wenn das Berghain auf Platz 1 gewesen wäre. Auf Platz 2 ist der mächtigste Technotempel der Welt. Wirklich jeder sollte hier mindestens einmal die Stahltreppe noch oben gelaufen sein und sich in der Dunkelheit zwischen den drückenden Bassboxen verloren haben. Trotz EasyJet-Hype erhalten die Betreiber durch harte Türpolitik und gutem Booking die Relevanz in der Stadt. Ins Berghain kommt nicht jeder rein, aber niemand vorbei.
+Es wäre wirklich ein bisschen langweilig gewesen, wenn das Berghain auf Platz 1 gewesen wäre. Auf Platz 2 ist der mächtigste Technotempel der Welt. Wirklich jeder sollte hier mindestens einmal die Stahltreppe noch oben gelaufen sein und sich in der Dunkelheit zwischen den drückenden Bassboxen verloren haben. Trotz EasyJet-Hype erhalten die Betreiber durch harte [Türpolitik](/berlin/clubbesuch-in-berlin/) und gutem Booking die Relevanz in der Stadt. Ins Berghain kommt nicht jeder rein, aber niemand vorbei.
 
 ### Das musikalische Angebot
 
@@ -46,7 +46,7 @@ Der Tresor, ein legendärer Techno-Tempel der 90er Jahre, war der erste seiner A
 
 ### Der Umzug in die Köpenicker Straße
 
-Seit 2007 befindet sich der Tresor in einem ehemaligen Heizkraftwerk in Berlin-Mitte. Die neue Location bietet mehr Platz und eine beeindruckende industrielle Kulisse. Der Club ist bekannt für sein star-lastiges Line-Up und seine weniger elitäre Türpolitik im Vergleich zum Berghain. Wer im Berghain mal wieder nicht reingekommen ist, sollte den Tresor als Plan B auf der Liste haben.
+Seit 2007 befindet sich der Tresor in einem ehemaligen Heizkraftwerk in Berlin-[Mitte](/berlin/nachtclubs-in-mitte/). Die neue Location bietet mehr Platz und eine beeindruckende industrielle Kulisse. Der Club ist bekannt für sein star-lastiges Line-Up und seine weniger elitäre Türpolitik im Vergleich zum Berghain. Wer im Berghain mal wieder nicht reingekommen ist, sollte den Tresor als Plan B auf der Liste haben.
 
 ### Einfluss auf die Techno-Szene
 
@@ -58,7 +58,7 @@ Der Tresor hat maßgeblich zur Entwicklung der Berliner Techno-Szene beigetragen
 
 ### Die Lage am Wasser
 
-Das Watergate lag direkt an der Spree in Berlin-Kreuzberg und bot einen spektakulären Blick auf den Fluss. **Die bodentiefen Glasfenster ermöglichten es den Gästen, die vorbeiziehenden Boote und die Lichter der Stadt zu bewundern**, während sie zu elektronischer Musik tanzten.
+Das Watergate lag direkt an der Spree in Berlin-[Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) und bot einen spektakulären Blick auf den Fluss. **Die bodentiefen Glasfenster ermöglichten es den Gästen, die vorbeiziehenden Boote und die Lichter der Stadt zu bewundern**, während sie zu [elektronischer Musik](/berlin/elektronische-musik-in-berlin/) tanzten.
 
 ### Das musikalische Profil
 
@@ -90,7 +90,7 @@ Der KitKatClub, gegründet in den 1990er Jahren, ist ein fester Bestandteil der 
 
 ### Das besondere Konzept
 
-Der KitKatClub ist bekannt für seine freizügige und lasziv-erotische Atmosphäre. Hier gibt es Liebesschaukeln, Gynäkologenstühle, Striptease-Stangen und Ledersofas. Die wechselnden Themenpartys bieten eine Mischung aus Techno, House und Trance. Der Club ist ein Ort, an dem jeder seine Fantasien ausleben kann, und das spiegelt sich auch im sehr freizügigen Dresscode wider.
+Der KitKatClub ist bekannt für seine freizügige und lasziv-erotische Atmosphäre. Hier gibt es Liebesschaukeln, Gynäkologenstühle, Striptease-Stangen und Ledersofas. Die wechselnden Themenpartys bieten eine Mischung aus Techno, House und Trance. Der Club ist ein Ort, an dem jeder seine Fantasien ausleben kann, und das spiegelt sich auch im sehr freizügigen [Dresscode](/berlin/dresscodes/) wider.
 
 ### Dresscode und Partys
 

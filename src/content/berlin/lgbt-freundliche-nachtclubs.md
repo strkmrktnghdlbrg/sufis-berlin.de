@@ -19,24 +19,24 @@ Berlin ist bekannt für seine lebendige und diverse LGBT+-Szene, die sich in ver
 ## Wichtige Erkenntnisse
 
 - Schöneberg bleibt das pulsierende Herz der Berliner LGBT+-Kultur mit zahlreichen Bars, Nachtclubs und großen Veranstaltungen wie dem Berlin Gay Pride.
-- Kreuzberg bietet eine urbane Vielfalt mit trendigen Cocktail-Lokalen, queeren Techno-Clubs und geheimen Hotspots.
+- Kreuzberg bietet eine urbane Vielfalt mit trendigen Cocktail-Lokalen, queeren [Techno-Clubs](/berlin/techno-nachtclubs/) und geheimen Hotspots.
 - Friedrichshain ist bekannt für seine alternative Szene mit Indie-Clubs, kulturellen Treffpunkten und besonderen Events.
 - Neukölln entwickelt sich zu einem aufstrebenden Viertel mit neuen queeren Bars und einer kreativen Club-Szene.
 - Berlin ist die queerste Metropole Europas und bietet eine grenzenlose Vielfalt an Nachtleben-Optionen für die LGBT+-Community, von eleganten Lounges bis hin zu heißen Fetisch-Bars.
 
 ## Schöneberg: Das Herz der LGBT-Kultur
 
-Schöneberg bleibt das [pulsierende Herz der Berliner LGBT-Kultur](/berlin/berlin-und-seine-schaetze/). Hier finden Sie viele schwule Bars, Nachtclubs, Geschäfte, Cafés und Hotels. **Alle großen LGBT-Veranstaltungen** wie das LGBT Park Festival und der Berlin Gay Pride finden hier statt. Wenn du im Dezember kommst, findest du sogar einen LGBT-Weihnachtsmarkt!
+[Schöneberg](/berlin/nachtclubs-in-schoeneberg/) bleibt das pulsierende Herz der Berliner LGBT-Kultur. Hier finden Sie viele schwule Bars, Nachtclubs, Geschäfte, Cafés und Hotels. **Alle großen LGBT-Veranstaltungen** wie das LGBT Park Festival und der Berlin Gay Pride finden hier statt. Wenn du im Dezember kommst, findest du sogar einen LGBT-Weihnachtsmarkt!
 
 ## Kreuzberg: Urbane Vielfalt erleben
 
 ### Trendige Cocktail-Lokale
 
-Kreuzberg ist bekannt für seine **vielfältige und lebendige Barszene**. Hier findet man trendige Cocktail-Lokale, die innovative Drinks und eine einladende Atmosphäre bieten. Besonders beliebt sind Bars wie das „Ficken 3000", das mit seiner einzigartigen Einrichtung und kreativen Cocktails überzeugt.
+[Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) ist bekannt für seine **vielfältige und lebendige Barszene**. Hier findet man trendige Cocktail-Lokale, die innovative Drinks und eine einladende Atmosphäre bieten. Besonders beliebt sind Bars wie das „Ficken 3000", das mit seiner einzigartigen Einrichtung und kreativen Cocktails überzeugt.
 
 ### Techno-Clubs für die queere Community
 
-Die Techno-Szene in Kreuzberg ist ein Paradies für die queere Community. Clubs wie das „Berghain" und das „About Blank" sind bekannt für ihre inklusiven Partys und die pulsierende Musik. Diese Clubs bieten eine sichere Umgebung, in der jeder frei tanzen und sich ausdrücken kann.
+Die Techno-Szene in Kreuzberg ist ein Paradies für die queere Community. Clubs wie das „[Berghain](/berlin/berghain/)" und das „About Blank" sind bekannt für ihre inklusiven Partys und die pulsierende Musik. Diese Clubs bieten eine sichere Umgebung, in der jeder frei tanzen und sich ausdrücken kann.
 
 ### Geheime Hotspots
 
@@ -48,7 +48,7 @@ Neben den bekannten Clubs und Bars gibt es in Kreuzberg auch viele geheime Hotsp
 
 ### Indie-Clubs mit queeren Partys
 
-Friedrichshain ist bekannt für seine [vielfältige Clubszene](/), die besonders in der queeren Community beliebt ist. Hier finden regelmäßig Indie-Partys statt, die eine breite Palette an Musikrichtungen abdecken und eine inklusive Atmosphäre bieten. Ein Highlight ist der Club „Himmelreich" in der Simon-Dach-Straße, der für seine gemütliche und einladende Umgebung bekannt ist.
+[Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) ist bekannt für seine vielfältige Clubszene, die besonders in der queeren Community beliebt ist. Hier finden regelmäßig Indie-Partys statt, die eine breite Palette an Musikrichtungen abdecken und eine inklusive Atmosphäre bieten. Ein Highlight ist der Club „Himmelreich" in der Simon-Dach-Straße, der für seine gemütliche und einladende Umgebung bekannt ist.
 
 ### Kulturelle Treffpunkte
 
@@ -62,7 +62,7 @@ Friedrichshain bietet das ganze Jahr über eine Vielzahl von besonderen Events f
 
 ### Neue queere Bars
 
-Neukölln hat sich in den letzten Jahren zu einem Hotspot für die LGBT+ Community entwickelt. **Neue queere Bars sprießen überall aus dem Boden** und bieten eine Vielzahl von Optionen für Nachtschwärmer. Von gemütlichen Kneipen bis hin zu trendigen Cocktailbars ist für jeden Geschmack etwas dabei.
+[Neukölln](/berlin/nachtclubs-in-neukoelln/) hat sich in den letzten Jahren zu einem Hotspot für die LGBT+ Community entwickelt. **Neue queere Bars sprießen überall aus dem Boden** und bieten eine Vielzahl von Optionen für Nachtschwärmer. Von gemütlichen Kneipen bis hin zu trendigen Cocktailbars ist für jeden Geschmack etwas dabei.
 
 ### Kreative Club-Szene
 
@@ -94,7 +94,7 @@ Das Viertel bietet auch eine Vielzahl an kulturellen Angeboten, die speziell auf
 
 ## Queere Techno-Partys in Berlin
 
-Berlin ist bekannt für seine [vielfältige und lebendige](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/) **Techno-Szene**, die auch viele queere Partys umfasst. In fast allen bekannten Clubs geht es auch ein bisschen queer zu, und die meisten Orte sind queer-friendly. Hier erfahrt ihr, wo ihr euch ganz entspannt völlig der Musik hingeben könnt.
+Berlin ist bekannt für seine vielfältige und lebendige **Techno-Szene**, die auch viele queere Partys umfasst. In fast allen bekannten Clubs geht es auch ein bisschen queer zu, und die meisten Orte sind queer-friendly. Hier erfahrt ihr, wo ihr euch ganz entspannt völlig der Musik hingeben könnt.
 
 ## Cruising und Sex in Berlin
 

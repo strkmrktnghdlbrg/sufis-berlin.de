@@ -24,11 +24,11 @@ Berlin Wedding – das klingt erstmal nach einer ganz anderen Art von Urlaub, od
 
 ## Entdecken Sie Hotels in Berlin Wedding
 
-Wenn Sie nach einer Unterkunft in Berlin suchen, die sowohl authentisch als auch gut gelegen ist, dann sollten Sie sich den Stadtteil Wedding genauer ansehen. Wedding ist ein Bezirk, der sich in den letzten Jahren stark entwickelt hat und eine spannende Mischung aus traditionellem Berliner Charme und kreativer Energie bietet. Hier finden Sie Hotels, die Ihnen einen echten Einblick in das Berliner Leben geben, abseits der ausgetretenen Touristenpfade.
+Wenn Sie nach einer Unterkunft in Berlin suchen, die sowohl authentisch als auch gut gelegen ist, dann sollten Sie sich den Stadtteil [Wedding](/berlin/nachtclubs-in-wedding/) genauer ansehen. Wedding ist ein Bezirk, der sich in den letzten Jahren stark entwickelt hat und eine spannende Mischung aus traditionellem Berliner Charme und kreativer Energie bietet. Hier finden Sie Hotels, die Ihnen einen echten Einblick in das Berliner Leben geben, abseits der ausgetretenen Touristenpfade.
 
 ### Zentrale Lage für Ihre Berlin-Erkundung
 
-Die Hotels in Wedding punkten vor allem mit ihrer strategisch günstigen Lage. Sie sind oft nur wenige U-Bahn-Stationen von wichtigen Verkehrsknotenpunkten entfernt und bieten somit eine hervorragende Basis, um die ganze Stadt zu erkunden. Egal, ob Sie die berühmten Sehenswürdigkeiten im Zentrum besuchen oder die alternativen Viertel wie Kreuzberg und Friedrichshain entdecken möchten, von Wedding aus sind Sie schnell überall. Die gute Anbindung macht es einfach, morgens loszuziehen und abends entspannt zurückzukehren.
+Die Hotels in Wedding punkten vor allem mit ihrer strategisch günstigen Lage. Sie sind oft nur wenige U-Bahn-Stationen von wichtigen Verkehrsknotenpunkten entfernt und bieten somit eine hervorragende Basis, um die ganze Stadt zu erkunden. Egal, ob Sie die berühmten Sehenswürdigkeiten im Zentrum besuchen oder die alternativen Viertel wie [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) und [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/) entdecken möchten, von Wedding aus sind Sie schnell überall. Die gute Anbindung macht es einfach, morgens loszuziehen und abends entspannt zurückzukehren.
 
 ### Authentische Berliner Atmosphäre erleben
 
@@ -66,7 +66,7 @@ Man muss sich das mal vorstellen: Du steigst aus dem Hotel und bist quasi sofort
 
 ### Nähe zu kulturellen Highlights und Szenevierteln
 
-Wedding ist ja nicht gerade ein Touristen-Hotspot im klassischen Sinne, und das ist gut so. Aber das heißt nicht, dass du weit weg vom Schuss bist. Im Gegenteil! Viele coole Ecken und kulturelle Orte sind von hier aus echt gut erreichbar. Du bist schnell bei den angesagten Galerien in Mitte oder im alternativen Flair von Prenzlauer Berg. Und wenn du mal Lust auf ein richtig authentisches Berliner Kneipenviertel hast, bist du auch da nicht weit.
+Wedding ist ja nicht gerade ein Touristen-Hotspot im klassischen Sinne, und das ist gut so. Aber das heißt nicht, dass du weit weg vom Schuss bist. Im Gegenteil! Viele coole Ecken und kulturelle Orte sind von hier aus echt gut erreichbar. Du bist schnell bei den angesagten Galerien in [Mitte](/berlin/nachtclubs-in-mitte/) oder im alternativen Flair von [Prenzlauer Berg](/berlin/nachtclubs-in-prenzlauer-berg/). Und wenn du mal Lust auf ein richtig authentisches Berliner Kneipenviertel hast, bist du auch da nicht weit.
 
 ### Einzigartige Einblicke in das Berliner Leben
 

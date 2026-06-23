@@ -14,7 +14,7 @@ verified: true
 verifiedNote: "Status der genannten Clubs im Juni 2026 geprüft; Watergate (Ende 2024 geschlossen) entsprechend markiert."
 ---
 
-Berlin ist mit Clubs, die elektronische Musik spielen, mehr als reich gesegnet. Schon ewig rollt der 4/4 Takt. Trotz hoher Fluktuation habe ich das Gefühl, dass gerade die Zahl der Clubs eher wächst. Dazu kommen noch Micro Clubs wie BulBul, Bertrams (heißt jetzt Christa Kupfer), und Promenaden Eck. Im Wedding sind das einzig der Humboldthain Club, am Ostkreuz das ://about blank und in Kreuzberg das Aeden (das sich aus dem ehemaligen Burg Schnabel und Chalet zusammensetzt) und das Gretchen am Start.
+Berlin ist mit Clubs, die elektronische Musik spielen, mehr als reich gesegnet. Schon ewig rollt der 4/4 Takt. Trotz hoher Fluktuation habe ich das Gefühl, dass gerade die Zahl der Clubs eher wächst. Dazu kommen noch Micro Clubs wie BulBul, Bertrams (heißt jetzt Christa Kupfer), und Promenaden Eck. Im [Wedding](/berlin/nachtclubs-in-wedding/) sind das einzig der Humboldthain Club, am Ostkreuz das ://about blank und in Kreuzberg das Aeden (das sich aus dem ehemaligen Burg Schnabel und Chalet zusammensetzt) und das Gretchen am Start.
 
 ## Wichtige Erkenntnisse
 
@@ -36,13 +36,13 @@ Im Berghain dominiert Techno, aber auch andere elektronische Musikrichtungen fin
 
 ### Erlebnisse und Atmosphäre
 
-Die Atmosphäre im Berghain ist einzigartig und intensiv. Der Club ist bekannt für seine strenge Türpolitik, die zur mystischen Aura beiträgt. Einmal drinnen, erwartet die Gäste ein dunkles, industrielles Ambiente mit einer beeindruckenden Soundanlage. **Die Partys dauern oft das ganze Wochenende**, was den Club zu einem besonderen Erlebnis macht.
+Die Atmosphäre im Berghain ist einzigartig und intensiv. Der Club ist bekannt für seine strenge [Türpolitik](/berlin/clubbesuch-in-berlin/), die zur mystischen Aura beiträgt. Einmal drinnen, erwartet die Gäste ein dunkles, industrielles Ambiente mit einer beeindruckenden Soundanlage. **Die Partys dauern oft das ganze Wochenende**, was den Club zu einem besonderen Erlebnis macht.
 
 > Das Berghain ist mehr als nur ein Club; es ist ein Erlebnis, das man mindestens einmal im Leben gemacht haben sollte.
 
 ## Watergate: Feiern mit Spreeblick (inzwischen geschlossen)
 
-Das Watergate lag direkt [am Ufer der Spree](/berlin/berlin/) in Kreuzberg und bot mit seinen raumhohen Glasfenstern einen atemberaubenden Panoramablick auf den Fluss. **Hinweis: Das Watergate hat zum Jahresende 2024 nach 22 Jahren endgültig geschlossen.** Besonders beeindruckend war die LED-Wall, die sich über die gesamte Länge des obersten Stockwerks erstreckte. Der Außenbereich des Clubs schien im Sommer auf dem Wasser zu schwimmen, was ein einzigartiges Erlebnis schuf.
+Das Watergate lag direkt am Ufer der Spree in [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) und bot mit seinen raumhohen Glasfenstern einen atemberaubenden Panoramablick auf den Fluss. **Hinweis: Das Watergate hat zum Jahresende 2024 nach 22 Jahren endgültig geschlossen.** Besonders beeindruckend war die LED-Wall, die sich über die gesamte Länge des obersten Stockwerks erstreckte. Der Außenbereich des Clubs schien im Sommer auf dem Wasser zu schwimmen, was ein einzigartiges Erlebnis schuf.
 
 Das Watergate war bekannt für seine hochwertigen Bookings und zog regelmäßig renommierte DJs und Künstler an. Mittwochs war der Club besonders beliebt, da hier oft exklusive Sets gespielt wurden. Die musikalische Vielfalt reichte von Techno über House bis hin zu experimentellen Klängen.
 
@@ -52,7 +52,7 @@ Neben der beeindruckenden LED-Wall und dem schwimmenden Außenbereich bot das Wa
 
 ### Clubgelände und Ausstattung
 
-Das Sisyphos gehört zu den [beliebtesten Clubs in Berlin](/berlin/berlin-und-seine-schaetze/) und die Schlange ist nicht selten so lang wie vorm Berghain. Zwei sich küssende Enten flankieren das Tor des Rummelsburger Techno-Wunderlands. **Einmal drin, kann dafür von Freitag bis Montag durchgefeiert werden.** Auf drei bis fünf Floors kommen feierwütige Besucher:innen voll auf ihre Kosten.
+Das Sisyphos gehört zu den beliebtesten Clubs in Berlin und die Schlange ist nicht selten so lang wie vorm Berghain. Zwei sich küssende Enten flankieren das Tor des Rummelsburger Techno-Wunderlands. **Einmal drin, kann dafür von Freitag bis Montag durchgefeiert werden.** Auf drei bis fünf Floors kommen feierwütige Besucher:innen voll auf ihre Kosten.
 
 ### Musikstile und DJs
 
@@ -104,13 +104,13 @@ House und Dubstep sind die prägenden Musikstile im ://about blank. Der Club am 
 
 ### Veranstaltungen und Partys
 
-Die Events im ://about blank sind legendär. Von Donnerstag bis Sonntag wird hier durchgehend gefeiert. Besonders beliebt sind die Afterhour-Partys, bei denen die Gäste bis in den Morgen hinein tanzen. Der große Garten des Clubs bietet eine Oase der Entspannung und ist ein Highlight für viele Besucher.
+Die Events im ://about blank sind legendär. Von Donnerstag bis Sonntag wird hier durchgehend gefeiert. Besonders beliebt sind die [Afterhour](/berlin/after-hour-nachtclubs-in-berlin/)-Partys, bei denen die Gäste bis in den Morgen hinein tanzen. Der große Garten des Clubs bietet eine Oase der Entspannung und ist ein Highlight für viele Besucher.
 
 ## Gretchen: Von Drum'n'Bass bis Dubstep
 
 ### Musikalische Ausrichtung
 
-Gretchen in Berlin-Kreuzberg ist bekannt für seine [abwechslungsreiche Musikprogrammgestaltung](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/). Donnerstags finden regelmäßig Konzerte statt, die ein breites Spektrum an Genres abdecken, darunter Electronica, Electro, Trap, House, Bass, Dubstep, Drum'n'Bass, Experimental, Avantgarde, Funk und Hip Hop. Die Musik wird meist auf zwei Etagen gespielt, was den Besuchern eine vielfältige Auswahl bietet.
+Gretchen in Berlin-Kreuzberg ist bekannt für seine abwechslungsreiche Musikprogrammgestaltung. Donnerstags finden regelmäßig Konzerte statt, die ein breites Spektrum an Genres abdecken, darunter Electronica, Electro, Trap, House, Bass, Dubstep, Drum'n'Bass, Experimental, Avantgarde, Funk und [Hip Hop](/berlin/hip-hop-nachtclubs/). Die Musik wird meist auf zwei Etagen gespielt, was den Besuchern eine vielfältige Auswahl bietet.
 
 ### Clubatmosphäre
 

@@ -28,11 +28,11 @@ Friedrichshain ist einer der aufregendsten Bezirke Berlins und bekannt für sein
 
 ### Geschichte und Bedeutung
 
-Das Berghain ist nicht nur ein Club, sondern ein **Kulturerbe** der elektronischen Musikszene. Ursprünglich ein Kraftwerk, hat es sich zu einem der bekanntesten Nachtclubs der Welt entwickelt. Die Geschichte des Berghains ist eng mit der Entwicklung der [Technokultur in Berlin](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/) verbunden, was es zu einem unverzichtbaren Teil der Stadt macht.
+Das Berghain ist nicht nur ein Club, sondern ein **Kulturerbe** der elektronischen Musikszene. Ursprünglich ein Kraftwerk, hat es sich zu einem der bekanntesten Nachtclubs der Welt entwickelt. Die Geschichte des Berghains ist eng mit der Entwicklung der [Technokultur in Berlin](/berlin/berlins-sehenswuerdigkeiten/) verbunden, was es zu einem unverzichtbaren Teil der Stadt macht.
 
 ### Musik und Atmosphäre
 
-Im Berghain können Besucher auf drei verschiedenen Tanzflächen zu elektronischer Musik tanzen. Der Schwarze Raum im Erdgeschoss ist für Techno reserviert, während im Grünen Raum im Obergeschoss House-Musik gespielt wird. Der Rote Raum bietet experimentelle Klänge. Die Atmosphäre ist ekstatisch und erinnert an eine Hausparty in einem alten Ostberliner Wohnkomplex.
+Im Berghain können Besucher auf drei verschiedenen Tanzflächen zu elektronischer Musik tanzen. Der Schwarze Raum im Erdgeschoss ist für [Techno](/berlin/techno-nachtclubs/) reserviert, während im Grünen Raum im Obergeschoss [House-Musik](/berlin/elektronische-musik-in-berlin/) gespielt wird. Der Rote Raum bietet experimentelle Klänge. Die Atmosphäre ist ekstatisch und erinnert an eine Hausparty in einem alten Ostberliner Wohnkomplex.
 
 ### Einlasspolitik
 
@@ -54,7 +54,7 @@ Die Säule öffnet in der Regel freitags und samstags ab Mitternacht und bleibt 
 
 ## Kater Blau: Der Nachfolger des legendären Kater Holzig
 
-Das Kater Blau ist der direkte Nachfolger des legendären Kater Holzig und befindet sich [direkt an der Spree](/berlin/berlin/). Ursprünglich war hier die berühmte Bar25 beheimatet, die bis 2011 das Nachtleben in Friedrichshain prägte. Heute pilgern Woche für Woche Hunderte Elektrobegeisterte zum Ostbahnhof, um sich im Kater der Musik hinzugeben.
+Das Kater Blau ist der direkte Nachfolger des legendären Kater Holzig und befindet sich direkt an der Spree. Ursprünglich war hier die berühmte Bar25 beheimatet, die bis 2011 das Nachtleben in Friedrichshain prägte. Heute pilgern Woche für Woche Hunderte Elektrobegeisterte zum Ostbahnhof, um sich im Kater der Musik hinzugeben.
 
 > Das Kater Blau atmet noch den Geist der Bar25: die Bretterbuden-Ästhetik ist geblieben, ebenso wie die langen Partywochenenden.
 
@@ -66,7 +66,7 @@ Der Club bietet eine einmalige Wohlfühl-Atmosphäre und Platz für bis zu 800 M
 
 ### Clubaufbau und Design
 
-Der Salon „Zur wilden Renate" ist ein Nachtclub, der von Samstagabend bis Montagnachmittag geöffnet bleibt. Das frühere Wohngebäude verfügt über mehrere Tanzflächen, die sich über mehrere Etagen erstrecken. Besonders bemerkenswert ist das Kellergeschoss, das ein [Labyrinth von Korridoren](/berlin/berlin-und-seine-schaetze/) und kleineren Räumen bietet. Im Sommer können die Gäste auch draußen im Hof tanzen.
+Der Salon „Zur wilden Renate" ist ein Nachtclub, der von Samstagabend bis Montagnachmittag geöffnet bleibt. Das frühere Wohngebäude verfügt über mehrere Tanzflächen, die sich über mehrere Etagen erstrecken. Besonders bemerkenswert ist das Kellergeschoss, das ein Labyrinth von Korridoren und kleineren Räumen bietet. Im Sommer können die Gäste auch draußen im Hof tanzen.
 
 ### Musikgenres
 
@@ -74,13 +74,13 @@ Die DJs im Salon zur Wilden Renate spielen ein bekanntes Gemisch elektronischer 
 
 ### Veranstaltungen
 
-Im Sommer gibt es besonders schön gestaltete Open-Air-Veranstaltungen im Hof. Diese Events sind ein Highlight und bieten eine einzigartige Atmosphäre, die den Club von anderen unterscheidet. Nach einer angekündigten Schließung blieb die Wilde Renate dank einer Vertragsverlängerung Ende 2025 erhalten und feiert weiter.
+Im Sommer gibt es besonders schön gestaltete [Open-Air](/berlin/open-air-nachtclubs/)-Veranstaltungen im Hof. Diese Events sind ein Highlight und bieten eine einzigartige Atmosphäre, die den Club von anderen unterscheidet. Nach einer angekündigten Schließung blieb die Wilde Renate dank einer Vertragsverlängerung Ende 2025 erhalten und feiert weiter.
 
 ## About Blank: Ein alternativer Club
 
 ### Philosophie und Konzept
 
-Das About Blank ist bekannt für seine **linke Haltung** und seine [alternative Atmosphäre](/). Der Club, der sich am Markgrafendamm befindet, ist ein autonomer Techno-Club, der sich durch seine heruntergekommene, besprühte Fassade und speckige Ledersofas in den Chill-Bereichen auszeichnet. Ein großes „Nie-wieder-Deutschland"-Denkmal im Garten unterstreicht die politische Ausrichtung des Clubs. Hier finden bekannte Party-Reihen wie die Staub oder die Prizm statt.
+Das About Blank ist bekannt für seine **linke Haltung** und seine alternative Atmosphäre. Der Club, der sich am Markgrafendamm befindet, ist ein autonomer Techno-Club, der sich durch seine heruntergekommene, besprühte Fassade und speckige Ledersofas in den Chill-Bereichen auszeichnet. Ein großes „Nie-wieder-Deutschland"-Denkmal im Garten unterstreicht die politische Ausrichtung des Clubs. Hier finden bekannte Party-Reihen wie die Staub oder die Prizm statt.
 
 ### Musik und Künstler
 
@@ -122,7 +122,7 @@ Ja, einige Clubs in Friedrichshain, wie das About Blank und das Kater Blau, verf
 
 ### Welche Musikrichtungen werden in den Friedrichshainer Clubs gespielt?
 
-In den Friedrichshainer Clubs wird eine Vielzahl von Musikrichtungen gespielt, wobei der Schwerpunkt auf elektronischer Musik liegt. Es gibt aber auch Clubs, die Hip-Hop, Indie-Rock und andere Genres anbieten.
+In den Friedrichshainer Clubs wird eine Vielzahl von Musikrichtungen gespielt, wobei der Schwerpunkt auf elektronischer Musik liegt. Es gibt aber auch Clubs, die [Hip-Hop](/berlin/hip-hop-nachtclubs/), Indie-Rock und andere Genres anbieten.
 
 ### Wie sind die Öffnungszeiten der Clubs in Friedrichshain?
 
@@ -130,4 +130,4 @@ Die meisten Clubs in Friedrichshain öffnen in den späten Abendstunden und schl
 
 ### Gibt es besondere Veranstaltungen in den Friedrichshainer Clubs?
 
-Ja, viele Clubs in Friedrichshain bieten regelmäßige Veranstaltungen und Events an, darunter DJ-Sets, Live-Konzerte und Themenpartys. Es lohnt sich, die Websites der Clubs für aktuelle Informationen zu besuchen.
+Ja, viele Clubs in Friedrichshain bieten regelmäßige Veranstaltungen und Events an, darunter DJ-Sets, [Live-Konzerte](/berlin/live-musik-in-berlin/) und Themenpartys. Es lohnt sich, die Websites der Clubs für aktuelle Informationen zu besuchen.

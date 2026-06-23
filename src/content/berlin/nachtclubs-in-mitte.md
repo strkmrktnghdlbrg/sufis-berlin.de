@@ -36,7 +36,7 @@ Mit der Zeit begann die Gentrifizierung, das Gesicht von Mitte zu verändern. Vi
 
 ### Heutige Trends und Entwicklungen
 
-Heute zeigt sich das Nachtleben in Mitte vielfältiger denn je. Von exklusiven Clubs bis hin zu versteckten Bars bietet der Stadtteil für jeden Geschmack etwas. **Neue Trends** wie Pop-up-Clubs und temporäre Events bereichern die Szene und sorgen dafür, dass Mitte weiterhin ein Hotspot für Nachtschwärmer bleibt.
+Heute zeigt sich das Nachtleben in Mitte vielfältiger denn je. Von [exklusiven Clubs](/berlin/exklusive-nachtclubs-in-berlin/) bis hin zu versteckten Bars bietet der Stadtteil für jeden Geschmack etwas. **Neue Trends** wie Pop-up-Clubs und temporäre Events bereichern die Szene und sorgen dafür, dass Mitte weiterhin ein Hotspot für Nachtschwärmer bleibt.
 
 > Trotz der Veränderungen bleibt Mitte ein pulsierendes Zentrum des Berliner Nachtlebens, das immer wieder neue Facetten zeigt.
 
@@ -46,7 +46,7 @@ Mitte, das Herz Berlins, ist bekannt für seine [vielfältige Clubszene](/berlin
 
 ## Geheimtipps für Nachtschwärmer
 
-Beate Uwe ist ein echter Geheimtipp im Berliner Nachtleben. Der Club bietet eine [einzigartige Atmosphäre](/) und zieht ein vielfältiges Publikum an. Hier kann man zu verschiedenen Musikrichtungen tanzen und die Nacht zum Tag machen. Besonders hervorzuheben ist die intime und gemütliche Einrichtung, die den Club zu einem besonderen Erlebnis macht.
+Beate Uwe ist ein echter Geheimtipp im Berliner Nachtleben. Der Club bietet eine einzigartige Atmosphäre und zieht ein vielfältiges Publikum an. Hier kann man zu verschiedenen Musikrichtungen tanzen und die Nacht zum Tag machen. Besonders hervorzuheben ist die intime und gemütliche Einrichtung, die den Club zu einem besonderen Erlebnis macht.
 
 Dean steht für Eleganz und Exklusivität im Herzen von Mitte. Der Club ist bekannt für seine stilvolle Einrichtung und das gehobene Ambiente. Hier trifft man auf ein anspruchsvolles Publikum, das die Nacht in vollen Zügen genießt. Die Musik reicht von House bis zu den neuesten Chart-Hits, was für eine abwechslungsreiche Partynacht sorgt.
 
@@ -56,7 +56,7 @@ Der Rote Salon ist ein Ort, an dem Kultur und Clubbing aufeinandertreffen. Die L
 
 ### Techno und Elektro
 
-Mitte ist ein **Mekka für Techno- und Elektro-Fans**. Clubs wie Tresor und Berghain sind [weltbekannt und ziehen Nachtschwärmer](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/) aus aller Welt an. Hier kann man die Nacht durchtanzen und die pulsierende Energie der Stadt spüren.
+Mitte ist ein **Mekka für [Techno](/berlin/techno-nachtclubs/)- und Elektro-Fans**. Clubs wie Tresor und Berghain sind weltbekannt und ziehen Nachtschwärmer aus aller Welt an. Hier kann man die Nacht durchtanzen und die pulsierende Energie der Stadt spüren.
 
 ### Swing und Salsa
 
@@ -80,7 +80,7 @@ Wer es etwas gehobener mag, wird in Mitte ebenfalls fündig. Zahlreiche exquisit
 
 ### Cocktailbars und Lounges
 
-Für diejenigen, die den Abend in entspannter Atmosphäre ausklingen lassen möchten, bieten die zahlreichen Cocktailbars und Lounges in Mitte die perfekte Kulisse. Hier kann man bei einem gut gemixten Drink die Nacht Revue passieren lassen und den Tag stilvoll abschließen. Einige der Bars bieten zudem Live-Musik oder DJ-Sets, die für die richtige Stimmung sorgen.
+Für diejenigen, die den Abend in entspannter Atmosphäre ausklingen lassen möchten, bieten die zahlreichen [Cocktailbars](/berlin/cocktailbars-in-berliner/) und Lounges in Mitte die perfekte Kulisse. Hier kann man bei einem gut gemixten Drink die Nacht Revue passieren lassen und den Tag stilvoll abschließen. Einige der Bars bieten zudem Live-Musik oder DJ-Sets, die für die richtige Stimmung sorgen.
 
 > Mitte bietet eine beeindruckende kulinarische Vielfalt, die das Nachtleben perfekt ergänzt. Egal ob Street Food, gehobene Küche oder ein entspannter Drink - hier kommt jeder auf seine Kosten.
 
@@ -92,7 +92,7 @@ Für diejenigen, die den Abend in entspannter Atmosphäre ausklingen lassen möc
 
 ### Wiese neben dem Haus der Kulturen der Welt
 
-Diese grüne Oase mitten in Berlin ist ein Geheimtipp für alle, die Open-Air-Events lieben. Die _Wiese neben dem Haus der Kulturen der Welt_ ist ideal für Picknicks, Konzerte und kulturelle Veranstaltungen. Besonders im Sommer finden hier zahlreiche Events statt, die eine [vielfältige](/berlin/berlin/) Mischung aus Musik und Kunst bieten.
+Diese grüne Oase mitten in Berlin ist ein Geheimtipp für alle, die [Open-Air](/berlin/open-air-nachtclubs/)-Events lieben. Die _Wiese neben dem Haus der Kulturen der Welt_ ist ideal für Picknicks, Konzerte und kulturelle Veranstaltungen. Besonders im Sommer finden hier zahlreiche Events statt, die eine vielfältige Mischung aus Musik und Kunst bieten.
 
 ### ZK/U: Kunst und Musik unter freiem Himmel
 
@@ -102,7 +102,7 @@ Das Zentrum für Kunst und Urbanistik (ZK/U) ist ein einzigartiger Ort, der Kuns
 
 ### Regelmäßige Clubnächte
 
-In Mitte gibt es eine Vielzahl von Clubs, die regelmäßig Clubnächte veranstalten. Diese Events bieten eine **breite Palette an Musikrichtungen** und ziehen sowohl Einheimische als auch Touristen an. Ob Techno, House oder Hip-Hop - für jeden Geschmack ist etwas dabei.
+In Mitte gibt es eine Vielzahl von Clubs, die regelmäßig Clubnächte veranstalten. Diese Events bieten eine **breite Palette an Musikrichtungen** und ziehen sowohl Einheimische als auch Touristen an. Ob Techno, House oder [Hip-Hop](/berlin/hip-hop-nachtclubs/) - für jeden Geschmack ist etwas dabei.
 
 ### Spezialevents und Festivals
 

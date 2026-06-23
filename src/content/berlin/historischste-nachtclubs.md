@@ -14,7 +14,7 @@ verified: true
 verifiedNote: "Aktualisiert im Juni 2026: Tresor und Berghain als weiterhin geöffnet bestätigt, bereits geschlossene Clubs unverändert als historisch belassen."
 ---
 
-Alles zu den Berliner Clubs und Nachtleben in Berlin findet ihr hier. Die Berliner Clubszene hat eine lange und interessante Geschichte. Leider mussten einige tolle Clubs und Bars bereits schließen, wir haben für euch legendäre Clubs und Bars in West-Berlin, die nicht mehr existieren, zusammengetragen. Kreuzberg gehört zu den Partybezirken schlechthin in Berlin. Wo das Nachtleben in Kreuzberg tobt, von der Spree bis zum Mehringdamm, steht hier. Noch mehr los ist wohl nur im Nachbarstadtteil: Alles.
+Alles zu den Berliner Clubs und Nachtleben in Berlin findet ihr hier. Die Berliner Clubszene hat eine lange und interessante Geschichte. Leider mussten einige tolle Clubs und Bars bereits schließen, wir haben für euch legendäre Clubs und Bars in West-Berlin, die nicht mehr existieren, zusammengetragen. [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) gehört zu den Partybezirken schlechthin in Berlin. Wo das Nachtleben in Kreuzberg tobt, von der Spree bis zum Mehringdamm, steht hier. Noch mehr los ist wohl nur im Nachbarstadtteil: Alles.
 
 ### Wichtige Erkenntnisse
 
@@ -36,7 +36,7 @@ Nach dem Fall der Mauer erlebte Berlin eine kulturelle Explosion, und der Tresor
 
 ### E-Werk
 
-Das E-Werk, ein weiterer legendärer Club, öffnete seine Türen in einem alten Umspannwerk. Es war bekannt für seine beeindruckenden Lichtinstallationen und die hochkarätigen DJs, die dort auflegten. Das E-Werk war ein zentraler Ort für die elektronische Musikszene und trug maßgeblich zur Entwicklung des Techno in Berlin bei.
+Das E-Werk, ein weiterer legendärer Club, öffnete seine Türen in einem alten Umspannwerk. Es war bekannt für seine beeindruckenden Lichtinstallationen und die hochkarätigen DJs, die dort auflegten. Das E-Werk war ein zentraler Ort für die [elektronische Musik](/berlin/elektronische-musik-in-berlin/)szene und trug maßgeblich zur Entwicklung des Techno in Berlin bei.
 
 ### WMF
 
@@ -46,7 +46,7 @@ Der WMF-Club, benannt nach der ehemaligen Württembergischen Metallwarenfabrik, 
 
 ## Berghain und seine Bedeutung
 
-Das Berghain, gelegen Am Wriezener Bahnhof in Berlin, ist ein international bekannter Techno-Tempel. Ursprünglich aus dem Ostgut hervorgegangen, hat sich der Club seit seiner Eröffnung im Jahr 2004 einen legendären Ruf erarbeitet. Mit seiner berühmten Panorama-Bar und der harten Türpolitik ist das Berghain ein Symbol für Berlins pulsierendes Nachtleben.
+Das [Berghain](/berlin/berghain/), gelegen Am Wriezener Bahnhof in Berlin, ist ein international bekannter Techno-Tempel. Ursprünglich aus dem Ostgut hervorgegangen, hat sich der Club seit seiner Eröffnung im Jahr 2004 einen legendären Ruf erarbeitet. Mit seiner berühmten Panorama-Bar und der harten [Türpolitik](/berlin/clubbesuch-in-berlin/) ist das Berghain ein Symbol für Berlins pulsierendes Nachtleben.
 
 Die Tür des Berghain gilt als die härteste der Welt. Sven Marquardt, der ikonische Türsteher, entscheidet, wer eintreten darf und wer nicht. Diese strenge Auswahl sorgt dafür, dass das Berghain seinen exklusiven Ruf bewahrt. Viele Besucher stehen stundenlang in der Schlange, nur um dann möglicherweise abgewiesen zu werden.
 
@@ -78,7 +78,7 @@ Techno nahm seinen Anfang in den dunklen, feuchten Kellern Berlins. Diese Unterg
 
 ### Techno nach der Wende
 
-Nach dem Fall der Mauer wurde Techno zum Soundtrack der Aufbruchstimmung in Berlin. Die Stadt erlebte eine kulturelle Explosion, und Techno-Clubs schossen wie Pilze aus dem Boden. Orte wie das E-Werk, ein altes Elektrizitätswerk, wurden zu Kathedralen des Techno und zogen Nachtschwärmer aus der ganzen Welt an.
+Nach dem Fall der Mauer wurde Techno zum Soundtrack der Aufbruchstimmung in Berlin. Die Stadt erlebte eine kulturelle Explosion, und [Techno-Clubs](/berlin/techno-nachtclubs/) schossen wie Pilze aus dem Boden. Orte wie das E-Werk, ein altes Elektrizitätswerk, wurden zu Kathedralen des Techno und zogen Nachtschwärmer aus der ganzen Welt an.
 
 ### Die Anerkennung durch die UNESCO
 

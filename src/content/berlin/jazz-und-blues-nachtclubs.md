@@ -14,7 +14,7 @@ verified: true
 verifiedNote: "Status 2026 geprüft: White Trash Fast Food ist inzwischen geschlossen; A-Trane, B-Flat, Quasimodo, Kunstfabrik Schlot und Roadrunner's Paradise weiterhin aktiv."
 ---
 
-Berlin ist eine Hochburg für Jazz und Blues. Diese faszinierenden Musikrichtungen, die ihren Ursprung im tiefen Süden der USA haben, sind in der deutschen Hauptstadt an vielen bekannten und weniger bekannten Orten zu erleben. Manche Clubs und Bars bieten Live-Musik und Jam-Sessions, während andere für ihre historischen Locations oder besonderen Flair bekannt sind. Hier präsentieren wir die besten Jazz- und Blues-Nachtclubs in Berlin.
+Berlin ist eine Hochburg für Jazz und Blues. Diese faszinierenden Musikrichtungen, die ihren Ursprung im tiefen Süden der USA haben, sind in der deutschen Hauptstadt an vielen bekannten und weniger bekannten Orten zu erleben. Manche Clubs und Bars bieten [Live-Musik](/berlin/live-musik-in-berlin/) und Jam-Sessions, während andere für ihre historischen Locations oder besonderen Flair bekannt sind. Hier präsentieren wir die besten Jazz- und Blues-Nachtclubs in Berlin.
 
 ### Wichtige Erkenntnisse
 
@@ -34,7 +34,7 @@ Berlin und seine Schätze bieten eine Vielzahl an Jazz-Bars, die mit ihrem beson
 
 ### The Hat Jazz-Bar
 
-Die Hat Jazz-Bar in Charlottenburg ist ein Muss für eingefleischte Jazz-Fans. Diese authentische Bar befindet sich in einem der S-Bahn-Bögen am Bahnhof Zoologischer Garten und bietet an jedem Abend der Woche **Jam Sessions** und gut gemixte Cocktails. Die Qualität der Getränke hat ihren Preis, aber der Eintritt ist dafür immer frei.
+Die Hat Jazz-Bar in [Charlottenburg](/berlin/nachtclubs-in-charlottenburg/) ist ein Muss für eingefleischte Jazz-Fans. Diese authentische Bar befindet sich in einem der S-Bahn-Bögen am Bahnhof Zoologischer Garten und bietet an jedem Abend der Woche **Jam Sessions** und gut gemixte Cocktails. Die Qualität der Getränke hat ihren Preis, aber der Eintritt ist dafür immer frei.
 
 ### Zig Zag Jazzclub
 
@@ -54,7 +54,7 @@ Die Kunstfabrik Schlot ist ein Ort, an dem Jazz und Kunst aufeinandertreffen. In
 
 ### Yorkschlösschen
 
-Das Yorkschlösschen in Kreuzberg ist eine Traditionskneipe, die seit Jahrzehnten Jazzliebhaber anzieht. Inmitten von unzähligen Jazzsouvenirs und unter protzigen Kronleuchtern kommen die Gäste den Musikern ganz nah.
+Das Yorkschlösschen in [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) ist eine Traditionskneipe, die seit Jahrzehnten Jazzliebhaber anzieht. Inmitten von unzähligen Jazzsouvenirs und unter protzigen Kronleuchtern kommen die Gäste den Musikern ganz nah.
 
 > In Berlin ist Jazz lebendig - und sich dabei doch treu geblieben: Während auf den großen Jazz-Festivals die internationale Avantgarde ihr Stelldichein gibt, trifft sich der Nachwuchs regelmäßig in den Clubs & Jazz Bars, um ganz traditionell zu jammen.
 
@@ -70,7 +70,7 @@ Das Jazzfest Berlin ist eines der bedeutendsten Jazz-Events in Europa. **Jedes J
 
 ### XJAZZ Festival
 
-Das XJAZZ Festival ist bekannt für seine innovative und genreübergreifende Programmgestaltung. Es findet jährlich im Mai statt und präsentiert eine Vielzahl von Künstlern, die Jazz mit anderen Musikrichtungen wie Elektronik, Hip-Hop und Klassik verbinden. Die Konzerte finden in verschiedenen Clubs und Locations in Kreuzberg statt.
+Das XJAZZ Festival ist bekannt für seine innovative und genreübergreifende Programmgestaltung. Es findet jährlich im Mai statt und präsentiert eine Vielzahl von Künstlern, die Jazz mit anderen Musikrichtungen wie Elektronik, [Hip-Hop](/berlin/hip-hop-nachtclubs/) und Klassik verbinden. Die Konzerte finden in verschiedenen Clubs und Locations in Kreuzberg statt.
 
 ### Berlin Jazz Days
 
@@ -86,7 +86,7 @@ Das Zosch ist ein verstecktes Juwel in der Berliner Jazzszene. **Hier trifft man
 
 ### Donau115
 
-Die Donau115 ist ein weiterer Geheimtipp für Jazzliebhaber. Dieser kleine, aber feine Club in Neukölln ist bekannt für seine experimentellen Jazzabende. Die Musiker hier sind oft lokal und bieten eine Mischung aus traditionellen und modernen Jazzklängen. Die entspannte Atmosphäre und die kreative Energie machen jeden Besuch zu einem besonderen Erlebnis.
+Die Donau115 ist ein weiterer Geheimtipp für Jazzliebhaber. Dieser kleine, aber feine Club in [Neukölln](/berlin/nachtclubs-in-neukoelln/) ist bekannt für seine experimentellen Jazzabende. Die Musiker hier sind oft lokal und bieten eine Mischung aus traditionellen und modernen Jazzklängen. Die entspannte Atmosphäre und die kreative Energie machen jeden Besuch zu einem besonderen Erlebnis.
 
 ### Badenscher Hof
 

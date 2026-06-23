@@ -20,8 +20,8 @@ Schöneberg, ein pulsierender Stadtteil Berlins, ist bekannt für sein vielfält
 
 - Schöneberg bietet eine Vielzahl von Diskotheken und Clubs für jeden Musikgeschmack.
 - Das Havanna ist ein zentraler Anlaufpunkt für Salsa-Liebhaber.
-- Der Connection Club ist sowohl bei der LGBTQ+ Community als auch bei Liebhabern elektronischer Musik beliebt.
-- Im Barkett können Sie in gemütlicher Atmosphäre Livemusik genießen.
+- Der Connection Club ist sowohl bei der LGBTQ+ Community als auch bei Liebhabern [elektronischer Musik](/berlin/elektronische-musik-in-berlin/) beliebt.
+- Im Barkett können Sie in gemütlicher Atmosphäre [Livemusik](/berlin/live-musik-in-berlin/) genießen.
 - Das Schwulenviertel rund um den Nollendorfplatz ist ein Highlight des Nachtlebens in Schöneberg.
 
 ## Die besten Diskotheken in Schöneberg
@@ -80,11 +80,11 @@ Der Blau-Silber Berlin Tanzsportclub in der Niedstraße 1 ist der perfekte Ort f
 
 ### Insomnia
 
-Insomnia ist ein exklusiver Nachtclub in Schöneberg, der für seine extravaganten Partys und sein einzigartiges Ambiente bekannt ist. Hier treffen sich Nachtschwärmer, um in einer luxuriösen Umgebung zu feiern. Der Club bietet eine Vielzahl von Themenabenden und speziellen Events, die für unvergessliche Nächte sorgen.
+Insomnia ist einer der [exklusiven Clubs](/berlin/exklusive-nachtclubs-in-berlin/) in Schöneberg, der für seine extravaganten Partys und sein einzigartiges Ambiente bekannt ist. Hier treffen sich Nachtschwärmer, um in einer luxuriösen Umgebung zu feiern. Der Club bietet eine Vielzahl von Themenabenden und speziellen Events, die für unvergessliche Nächte sorgen.
 
 ### Connection Club
 
-Der Connection Club ist ein weiterer exklusiver Hotspot in Schöneberg. Mit seiner stilvollen Einrichtung und der erstklassigen Musikauswahl zieht er ein anspruchsvolles Publikum an. Der Club ist besonders bei der LGBTQ+ Community beliebt und bietet regelmäßig spezielle Events und Partys.
+Der Connection Club ist ein weiterer exklusiver Hotspot in Schöneberg. Mit seiner stilvollen Einrichtung und der erstklassigen Musikauswahl zieht er ein anspruchsvolles Publikum an. Der Club ist besonders bei der [LGBTQ](/berlin/lgbt-freundliche-nachtclubs/)+ Community beliebt und bietet regelmäßig spezielle Events und Partys.
 
 ### Havanna
 

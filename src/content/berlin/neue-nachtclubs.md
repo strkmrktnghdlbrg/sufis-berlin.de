@@ -40,7 +40,7 @@ The Grand vereint Eleganz und Extravaganz in einem historischen Gebäude. Der Cl
 
 ### Lido: Indie-Rock und Alternative
 
-Das Lido in Kreuzberg ist ein beliebter Treffpunkt für Fans von Indie-Rock und alternativer Musik. **Die intime Atmosphäre und die hervorragende Akustik** machen jedes Konzert zu einem besonderen Erlebnis. Hier treten regelmäßig sowohl lokale Bands als auch internationale Künstler auf.
+Das Lido in [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) ist ein beliebter Treffpunkt für Fans von Indie-Rock und alternativer Musik. **Die intime Atmosphäre und die hervorragende Akustik** machen jedes Konzert zu einem besonderen Erlebnis. Hier treten regelmäßig sowohl lokale Bands als auch internationale Künstler auf.
 
 ### Astra Kulturhaus: Vielfältige Konzerte
 
@@ -54,7 +54,7 @@ Musik & Frieden, ebenfalls in Kreuzberg gelegen, ist bekannt für seine intimen 
 
 ### About Blank: Kreative Freiheit
 
-About Blank ist ein Club, der für seine **kreative Freiheit** und unkonventionellen Partys bekannt ist. Hier treffen sich Menschen aus verschiedenen Subkulturen, um gemeinsam zu feiern und die Nacht zum Tag zu machen. Der Club bietet eine Vielzahl von Musikrichtungen, von Techno bis House, und ist ein beliebter Treffpunkt für die alternative Szene Berlins.
+About Blank ist ein Club, der für seine **kreative Freiheit** und unkonventionellen Partys bekannt ist. Hier treffen sich Menschen aus verschiedenen Subkulturen, um gemeinsam zu feiern und die Nacht zum Tag zu machen. Der Club bietet eine Vielzahl von Musikrichtungen, von [Techno](/berlin/techno-nachtclubs/) bis House, und ist ein beliebter Treffpunkt für die alternative Szene Berlins.
 
 ### Griessmühle (inzwischen geschlossen): Rave-Kultur pur
 
@@ -62,13 +62,13 @@ Die Griessmühle war ein legendärer Club, der für seine intensiven Raves und l
 
 ### OHM: Elektronische Vielfalt
 
-OHM ist ein kleiner, aber feiner Club, der sich auf elektronische Musik spezialisiert hat. Der Club befindet sich in einem ehemaligen Kraftwerk und bietet eine intime Atmosphäre, in der man die Musik hautnah erleben kann. Von Techno über Electro bis hin zu experimentellen Klängen - im OHM ist für jeden Liebhaber elektronischer Musik etwas dabei.
+OHM ist ein kleiner, aber feiner Club, der sich auf elektronische Musik spezialisiert hat. Der Club befindet sich in einem ehemaligen Kraftwerk und bietet eine intime Atmosphäre, in der man die Musik hautnah erleben kann. Von Techno über Electro bis hin zu experimentellen Klängen - im OHM ist für jeden Liebhaber [elektronischer Musik](/berlin/elektronische-musik-in-berlin/) etwas dabei.
 
 > In diesen Clubs erlebt man die wahre Essenz der Berliner Underground-Szene: unkonventionell, kreativ und immer für eine Überraschung gut.
 
 ## Open-Air und Sommer-Clubs
 
-Berlin bietet eine Vielzahl an [Open-Air-Locations](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/), die besonders im Sommer für unvergessliche Partynächte sorgen. Diese Clubs sind oft temporär und bieten eine einzigartige Atmosphäre unter freiem Himmel. Hier sind einige der besten Open-Air- und Sommer-Clubs in Berlin:
+Berlin bietet eine Vielzahl an Open-Air-Locations, die besonders im Sommer für unvergessliche Partynächte sorgen. Diese Clubs sind oft temporär und bieten eine einzigartige Atmosphäre unter freiem Himmel. Hier sind einige der besten Open-Air- und Sommer-Clubs in Berlin:
 
 ### Club der Visionäre: Feiern am Wasser
 
@@ -88,11 +88,11 @@ Der KitKatClub ist berühmt für seine extravaganten und freizügigen Partys. Al
 
 Das SchwuZ war über Jahre einer der größten und legendärsten queeren Clubs Europas, bekannt für seine **vielfältigen und inklusiven Partys** von Drag-Shows bis zu queeren Tanznächten. Nach einer Insolvenz musste der feste Standort in der Rollbergstraße Ende 2025 schließen (inzwischen geschlossen). Seit 2026 lebt das SchwuZ als wechselnde Veranstaltungsreihe an verschiedenen Orten weiter, mit dem Ziel, wieder ein dauerhaftes queeres Zuhause in Berlin zu finden.
 
-Das GMF im Weekend Club bietet jeden Sonntag eine der besten LGBTQ+ Partys der Stadt. Mit einem atemberaubenden Blick über Berlin können die Gäste zu den Klängen von Hip-Hop, Pop und elektronischer Musik tanzen. Die Atmosphäre ist entspannt und offen, was den Club zu einem beliebten Treffpunkt für die LGBTQ+ Community macht.
+Das GMF im Weekend Club bietet jeden Sonntag eine der besten LGBTQ+ Partys der Stadt. Mit einem atemberaubenden Blick über Berlin können die Gäste zu den Klängen von [Hip-Hop](/berlin/hip-hop-nachtclubs/), Pop und elektronischer Musik tanzen. Die Atmosphäre ist entspannt und offen, was den Club zu einem beliebten Treffpunkt für die LGBTQ+ Community macht.
 
 ## Hip-Hop und R&B Clubs
 
-[Berlin bietet eine lebendige Szene](/berlin/berlin-und-seine-schaetze/) für Hip-Hop und R&B, die sowohl Einheimische als auch Besucher begeistert. **Die Vielfalt der Clubs** sorgt dafür, dass für jeden Geschmack etwas dabei ist. Hier sind einige der besten Adressen für Hip-Hop und R&B in der Stadt.
+Berlin bietet eine lebendige Szene für Hip-Hop und R&B, die sowohl Einheimische als auch Besucher begeistert. **Die Vielfalt der Clubs** sorgt dafür, dass für jeden Geschmack etwas dabei ist. Hier sind einige der besten Adressen für Hip-Hop und R&B in der Stadt.
 
 ## Fazit
 

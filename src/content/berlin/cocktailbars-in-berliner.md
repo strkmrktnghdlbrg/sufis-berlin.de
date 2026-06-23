@@ -26,13 +26,13 @@ Die Barszene in Berlin entwickelt sich ständig weiter. Die besten Barkeeper sch
 
 ## Velvet
 
-Mitten in Neukölln, in der Ganghoferstraße 1, befindet sich die Velvet Bar, die für ihre fantasievollen Cocktails bekannt ist. Hier werden **saisonale Zutaten** verwendet, um einzigartige Geschmackserlebnisse zu kreieren. Das schicke Ambiente der Bar lädt zum Verweilen ein und bietet eine perfekte Kulisse für einen unvergesslichen Abend.
+Mitten in [Neukölln](/berlin/nachtclubs-in-neukoelln/), in der Ganghoferstraße 1, befindet sich die Velvet Bar, die für ihre fantasievollen Cocktails bekannt ist. Hier werden **saisonale Zutaten** verwendet, um einzigartige Geschmackserlebnisse zu kreieren. Das schicke Ambiente der Bar lädt zum Verweilen ein und bietet eine perfekte Kulisse für einen unvergesslichen Abend.
 
 > Die Velvet Bar ist ein Muss für alle, die Berlin und seine Schätze erkunden möchten. Hier trifft man auf eine lebendige Atmosphäre, die das Nachtleben der Stadt widerspiegelt.
 
 ## Sharlie Cheen Bar
 
-Die Sharlie Cheen Bar in Berlin-Mitte ist der perfekte Ort, um das Leben bei einem gepflegten Cocktail zu genießen. **Hier fühlt man sich wie Charlie Sheen persönlich.** Die Bar bietet eine bunte Auswahl an komplexen Cocktails in einem charmanten Retro-Ambiente.
+Die Sharlie Cheen Bar in Berlin-[Mitte](/berlin/nachtclubs-in-mitte/) ist der perfekte Ort, um das Leben bei einem gepflegten Cocktail zu genießen. **Hier fühlt man sich wie Charlie Sheen persönlich.** Die Bar bietet eine bunte Auswahl an komplexen Cocktails in einem charmanten Retro-Ambiente.
 
 * **Lage:** Brunnenstr. 196, 10119 Berlin-Mitte
 * **Besonderheiten:** Retro-Ambiente, komplexe Cocktails
@@ -42,7 +42,7 @@ Die Sharlie Cheen Bar in Berlin-Mitte ist der perfekte Ort, um das Leben bei ein
 
 ## Thelonious Bar
 
-Die Thelonious Bar in der Weserstraße 202, 12047 Berlin-Neukölln, bietet eine einzigartige Mischung aus Cocktails, Jazz und frischen Ideen. **Die Atmosphäre ist gediegen und lädt zum Verweilen ein.**
+Die Thelonious Bar in der Weserstraße 202, 12047 Berlin-Neukölln, bietet eine einzigartige Mischung aus Cocktails, [Jazz](/berlin/jazz-und-blues-nachtclubs/) und frischen Ideen. **Die Atmosphäre ist gediegen und lädt zum Verweilen ein.**
 
 * Adresse: Weserstraße 202, 12047 Berlin-Neukölln
 * Besondere Merkmale: Cocktails, Jazz, innovative Konzepte
@@ -55,7 +55,7 @@ Dunkel, versteckt und etwas verrucht - das Ambiente der Pawn Dot Com Bar erinner
 
 ## Rum Trader
 
-Der **Rum Trader** ist eine Institution der Berliner Barkultur und befindet sich in der Fasanenstraße in Charlottenburg. Diese Bar ist spezialisiert auf verschiedenste Rum-Sorten und bietet eine elegante Atmosphäre mit wenigen Tischen. Hier werden nicht nur zahlreiche Rumcocktails serviert, sondern auch Champagnercocktails, die man keinesfalls verpassen sollte.
+Der **Rum Trader** ist eine Institution der Berliner Barkultur und befindet sich in der Fasanenstraße in [Charlottenburg](/berlin/nachtclubs-in-charlottenburg/). Diese Bar ist spezialisiert auf verschiedenste Rum-Sorten und bietet eine elegante Atmosphäre mit wenigen Tischen. Hier werden nicht nur zahlreiche Rumcocktails serviert, sondern auch Champagnercocktails, die man keinesfalls verpassen sollte.
 
 > Ein Besuch im Rum Trader ist ein Muss für jeden Rum-Liebhaber und bietet eine einzigartige Erfahrung in einem der ältesten Nachtclubs Berlins.
 

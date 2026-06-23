@@ -14,7 +14,7 @@ verified: true
 verifiedNote: "Status im Juni 2026 geprüft: Berghain ist weiterhin geöffnet und bespielt regulär sein Programm. Keine geschlossenen Venues im Text. Interne Links umgestellt."
 ---
 
-Das Berghain ist ein legendärer Techno-Club im Berliner Ortsteil Friedrichshain. Seit seiner Eröffnung im Jahr 2004 hat es sich zu einem der bekanntesten und einflussreichsten Nachtclubs der Welt entwickelt. Mit seinem außergewöhnlichen Soundsystem, seiner strengen Türpolitik und seiner einzigartigen Atmosphäre zieht das Berghain jedes Wochenende Tausende von Besuchern an.
+Das Berghain ist ein legendärer [Techno-Club](/berlin/techno-nachtclubs/) im Berliner Ortsteil [Friedrichshain](/berlin/nachtclubs-in-friedrichshain/). Seit seiner Eröffnung im Jahr 2004 hat es sich zu einem der bekanntesten und einflussreichsten Nachtclubs der Welt entwickelt. Mit seinem außergewöhnlichen Soundsystem, seiner strengen Türpolitik und seiner einzigartigen Atmosphäre zieht das Berghain jedes Wochenende Tausende von Besuchern an.
 
 ### Wichtige Erkenntnisse
 
@@ -36,7 +36,7 @@ Im Jahr 2010 wurde das Berghain umgebaut und renoviert, um den Raum im Gebäude 
 
 ### Einfluss auf die Clubszene
 
-Das Berghain hat die Clubkultur in Berlin und weltweit maßgeblich beeinflusst. Es steht für harte Techno-Beats und ausschweifende Nächte, die oft mehrere Tage andauern. Geschlecht, sexuelle Orientierung, Alter, Dresscode oder Herkunft spielen keine Rolle – alle feiern zusammen und das macht das spezielle Flair des Berghain aus.
+Das Berghain hat die Clubkultur in Berlin und weltweit maßgeblich beeinflusst. Es steht für harte Techno-Beats und ausschweifende Nächte, die oft mehrere Tage andauern. Geschlecht, sexuelle Orientierung, Alter, [Dresscode](/berlin/dresscodes/) oder Herkunft spielen keine Rolle – alle feiern zusammen und das macht das spezielle Flair des Berghain aus.
 
 ## Architektur und Design
 
@@ -50,7 +50,7 @@ Im Foyer und Garderobenbereich hängen riesige Kunstwerke, die sofort ins Auge f
 
 ### Der Berghain Garten
 
-Der Berghain Garten bietet eine willkommene Abwechslung zur intensiven Clubatmosphäre. Hier können die Gäste im Freien entspannen und die [vibrante, diverse](/berlin/berlin/) Berliner Clubszene genießen. Der Garten ist mit verschiedenen Sitzgelegenheiten und Kunstinstallationen ausgestattet, die zum Verweilen einladen.
+Der Berghain Garten bietet eine willkommene Abwechslung zur intensiven Clubatmosphäre. Hier können die Gäste im Freien entspannen und die vibrante, diverse Berliner Clubszene genießen. Der Garten ist mit verschiedenen Sitzgelegenheiten und Kunstinstallationen ausgestattet, die zum Verweilen einladen.
 
 ## Musik und Sound
 
@@ -78,7 +78,7 @@ Die Türsteherpolitik des Berghain ist ein Thema für sich. Feste Kriterien, die
 
 ### Mythen und Geschichten
 
-Es gibt viele Mythen und Geschichten rund um die Türpolitik des Berghain. Die härteste Tür Berlins, wie es immer heißt, sorgt für lange Warteschlangen und strenge Regeln. Keine Fotos und Filmaufnahmen sind im Club erlaubt. Die selektive Türpolitik und die berüchtigten Türsteher sind legendär. Seien Sie auf Wartezeiten von mehr als einer Stunde gefasst.
+Es gibt viele Mythen und Geschichten rund um die Türpolitik des Berghain. Die härteste Tür Berlins, wie es immer heißt, sorgt für lange Warteschlangen und strenge Regeln. Keine Fotos und Filmaufnahmen sind im Club erlaubt. Die selektive [Türpolitik](/berlin/clubbesuch-in-berlin/) und die berüchtigten Türsteher sind legendär. Seien Sie auf Wartezeiten von mehr als einer Stunde gefasst.
 
 ## Partykultur und Atmosphäre
 
@@ -114,7 +114,7 @@ Das Berghain hat einen erheblichen Einfluss auf die Popkultur. Es wird oft in Fi
 
 ### Tourismus und Wirtschaft
 
-Der Berghain-Club hat einen erheblichen Einfluss auf den Tourismus in Berlin. [Jedes Jahr zieht Berlin mehr als 32 Millionen Besucher\*innen aus der ganzen Welt an](/berlin/berlins-sehenswuerdigkeiten-und-geschichte/), und viele von ihnen kommen speziell wegen der einzigartigen Clubszene. Der Club trägt somit zur wirtschaftlichen Stärkung der Stadt bei, indem er nicht nur Touristen anzieht, sondern auch Arbeitsplätze schafft und die lokale Wirtschaft ankurbelt.
+Der Berghain-Club hat einen erheblichen Einfluss auf den Tourismus in Berlin. Jedes Jahr zieht Berlin mehr als 32 Millionen Besucher\*innen aus der ganzen Welt an, und viele von ihnen kommen speziell wegen der einzigartigen Clubszene. Der Club trägt somit zur wirtschaftlichen Stärkung der Stadt bei, indem er nicht nur Touristen anzieht, sondern auch Arbeitsplätze schafft und die lokale Wirtschaft ankurbelt.
 
 ### Vergleich mit anderen Clubs
 

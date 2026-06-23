@@ -20,7 +20,7 @@ Berlin ist weltweit bekannt für seine pulsierende Clubszene, die rund um die Uh
 
 - Die besten Zeiten zum Clubbing in Berlin sind Freitag- und Samstagabend.
 - Das Golden Gate ist bekannt für seine außergewöhnlich langen Betriebszeiten, die oft das ganze Wochenende dauern.
-- Die Türpolitik in Berlin variiert stark zwischen den Clubs; einige sind sehr streng, während andere eine offenere Einstellung haben.
+- Die [Türpolitik](/berlin/clubbesuch-in-berlin/) in Berlin variiert stark zwischen den Clubs; einige sind sehr streng, während andere eine offenere Einstellung haben.
 - Einzigartige Club-Erlebnisse in Berlin umfassen sexuelle Atmosphären, industrielle Raves und schwimmende Clubs.
 - Berlin bietet eine Vielzahl von versteckten Club-Perlen und Top-Adressen für elektronische Musik.
 
@@ -32,7 +32,7 @@ Berlin und seine Schätze bieten eine Vielzahl an Möglichkeiten für Nachtschw�
 
 #### Einlassregeln im Berghain
 
-Das Berghain ist bekannt für seine strenge Türpolitik. **Nur die wenigsten schaffen es, an den Türstehern vorbeizukommen.** Es wird empfohlen, sich unauffällig zu kleiden und nicht zu betrunken zu erscheinen. Ein gewisses Maß an Deutschkenntnissen kann ebenfalls hilfreich sein.
+Das [Berghain](/berlin/berghain/) ist bekannt für seine strenge Türpolitik. **Nur die wenigsten schaffen es, an den Türstehern vorbeizukommen.** Es wird empfohlen, sich unauffällig zu kleiden und nicht zu betrunken zu erscheinen. Ein gewisses Maß an Deutschkenntnissen kann ebenfalls hilfreich sein.
 
 #### Kleiderordnung im KitKatClub
 
@@ -50,7 +50,7 @@ Am Ostkreuz gelegen, ist das ://about blank ein weiterer Club, der für seine la
 
 #### Humboldthain Club
 
-Im Wedding gelegen, ist der Humboldthain Club ein weiterer Hotspot für lange Partynächte. Der Club ist bekannt für seine industrielle Atmosphäre und seine vielfältigen Musikrichtungen, die von Techno bis House reichen. Die Partys hier beginnen oft spät und enden erst, wenn die Sonne schon längst aufgegangen ist.
+Im [Wedding](/berlin/nachtclubs-in-wedding/) gelegen, ist der Humboldthain Club ein weiterer Hotspot für lange Partynächte. Der Club ist bekannt für seine industrielle Atmosphäre und seine vielfältigen Musikrichtungen, die von [Techno](/berlin/techno-nachtclubs/) bis [House](/berlin/elektronische-musik-in-berlin/) reichen. Die Partys hier beginnen oft spät und enden erst, wenn die Sonne schon längst aufgegangen ist.
 
 ### Einzigartige Club-Erlebnisse in Berlin
 
@@ -92,7 +92,7 @@ Das Watergate war ein ikonischer Club in Berlin, bekannt für seine erstklassige
 
 #### Gretchen
 
-Das Gretchen in Kreuzberg ist ein weiterer Hotspot für elektronische Musik. Der Club befindet sich in einem ehemaligen Pferdestall und bietet eine einzigartige Atmosphäre mit hohen Decken und beeindruckender Lichttechnik. Hier findet man eine breite Palette an elektronischen Musikstilen, von Drum and Bass bis Dubstep und Techno. **Die Akustik im Gretchen ist hervorragend**, was es zu einem Muss für Musikliebhaber macht.
+Das Gretchen in [Kreuzberg](/berlin/nachtclubs-in-kreuzberg/) ist ein weiterer Hotspot für elektronische Musik. Der Club befindet sich in einem ehemaligen Pferdestall und bietet eine einzigartige Atmosphäre mit hohen Decken und beeindruckender Lichttechnik. Hier findet man eine breite Palette an elektronischen Musikstilen, von Drum and Bass bis Dubstep und Techno. **Die Akustik im Gretchen ist hervorragend**, was es zu einem Muss für Musikliebhaber macht.
 
 #### Aeden
 
