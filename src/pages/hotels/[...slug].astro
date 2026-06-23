@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import ArticleLayout from '../../layouts/ArticleLayout.astro';
+import { BEZIRKE } from '../../data/site';
 
 export async function getStaticPaths() {
   const entries = await getCollection('hotels');
@@ -15,6 +16,11 @@ const breadcrumbs = [
   { href: '/hotels/', label: 'Hotels' },
   { label: d.title },
 ];
+
+// Plan[1]: Find matching bezirk page slug for this hotel's bezirk field
+const bezirkMatch = d.bezirk
+  ? BEZIRKE.find((b) => b.name.toLowerCase() === d.bezirk.toLowerCase())
+  : null;
 ---
 <ArticleLayout
   title={d.title}
@@ -26,4 +32,13 @@ const breadcrumbs = [
   breadcrumbs={breadcrumbs}
 >
   <Content />
+
+  {/* Plan[1]: cross-link to matching bezirk club page */}
+  {bezirkMatch && (
+    <div style="margin-top:48px;padding:24px 28px;border:1px solid var(--fog);border-radius:var(--r-ui);background:var(--paper)">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:10px">Nachtleben im Bezirk</p>
+      <p style="font-size:15px;color:var(--steel);margin-bottom:16px">Du uebernachtest in {bezirkMatch.name}? Entdecke die besten Clubs und Bars direkt in deinem Kiez.</p>
+      <a class="btn btn-ghost" href={`/berlin/${bezirkMatch.slug}/`}>Nachtclubs in {bezirkMatch.name} entdecken &rarr;</a>
+    </div>
+  )}
 </ArticleLayout>

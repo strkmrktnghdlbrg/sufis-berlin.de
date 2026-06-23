@@ -2,6 +2,7 @@
 import BaseLayout from './BaseLayout.astro';
 
 interface Crumb { href?: string; label: string; }
+interface RelatedEntry { id: string; data: { title: string; excerpt?: string; cover?: { src: string; alt?: string } } }
 interface Props {
   title: string;
   description?: string;
@@ -12,8 +13,10 @@ interface Props {
   breadcrumbs?: Crumb[];
   verifiedNote?: string;
   isGuestPost?: boolean;
+  relatedEntries?: RelatedEntry[];
+  relatedLabel?: string;
 }
-const { title, description, metaTitle, cover, publishDate, updated, breadcrumbs = [], verifiedNote, isGuestPost } = Astro.props;
+const { title, description, metaTitle, cover, publishDate, updated, breadcrumbs = [], verifiedNote, isGuestPost, relatedEntries = [], relatedLabel = 'Das könnte dich auch interessieren' } = Astro.props;
 const fmt = (d?: string) => {
   if (!d) return '';
   const dt = new Date(d);
@@ -59,4 +62,26 @@ const fmt = (d?: string) => {
       </div>
     </div>
   </div>
+
+  {relatedEntries.length > 0 && (
+    <section class="block cities" style="padding-top:56px;padding-bottom:72px">
+      <div class="wrap">
+        <div class="head">
+          <span class="eyebrow">Mehr entdecken</span>
+          <h2>{relatedLabel}</h2>
+        </div>
+        <div class="grid-3">
+          {relatedEntries.map((e) => (
+            <a class="acard" href={`/berlin/${e.id}/`}>
+              {e.data.cover?.src && <img src={e.data.cover.src} alt={e.data.cover.alt || e.data.title} loading="lazy" width="600" height="178" />}
+              <div class="body">
+                <h3>{e.data.title}</h3>
+                {e.data.excerpt && <p class="mt">{e.data.excerpt}</p>}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </section>
+  )}
 </BaseLayout>
