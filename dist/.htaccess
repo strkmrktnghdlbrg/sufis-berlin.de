@@ -1,0 +1,48 @@
+# sufis-berlin.de — Astro static deploy
+# Indexed URLs are preserved 1:1 from the old WordPress site.
+# Canonical host is NON-www (matches the previously indexed/canonical version).
+
+Options -Indexes
+DirectoryIndex index.html
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+
+  # Redirect www -> non-www (canonical host = https://sufis-berlin.de)
+  RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://sufis-berlin.de%{REQUEST_URI} [L,R=301]
+
+  # Force HTTPS — respect the proxy header on shared hosting to avoid a
+  # redirect loop (HostMaria terminates SSL, so %{HTTPS} is "off" internally).
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
+  RewriteRule ^ https://sufis-berlin.de%{REQUEST_URI} [L,R=301]
+
+  # Legacy /thema/ category archives (indexed but no traffic) -> closest hub
+  RewriteRule ^thema/(berlin|nachtleben|clubs|party)/?$ /berlin/die-besten-nachtclubs/ [L,R=301]
+  RewriteRule ^thema/(grossstadt|sehenswuerdigkeiten)/?$ /berlin/berlins-sehenswuerdigkeiten/ [L,R=301]
+  RewriteRule ^thema/catering/?$ /catering/genussvolle-konzepte/ [L,R=301]
+  RewriteRule ^thema/reisen/?$ /reisen/internationale-reiseinspiration-aus-japan/ [L,R=301]
+  RewriteRule ^thema/unternehmen/?$ /unternehmen/autoverkauf-in-berlin-schnell-sicher-und-effektiv/ [L,R=301]
+  RewriteRule ^thema/projekte/?$ /projekte/the-making-of-black/ [L,R=301]
+  # any other /thema/* (pagination, unknown terms) -> homepage
+  RewriteRule ^thema(/.*)?$ / [L,R=301]
+
+  # Kill legacy WordPress endpoints (feeds, xmlrpc, wp-admin, author archives)
+  RewriteRule ^(.*/)?feed/?$ https://sufis-berlin.de/$1 [L,R=301]
+  RewriteRule ^xmlrpc\.php$ - [G]
+  RewriteRule ^wp-(login|admin|json|content|includes)(/|$) - [G]
+  RewriteRule ^author/ https://sufis-berlin.de/ [L,R=301]
+</IfModule>
+
+# Trailing-slash directories are produced by Astro (build format: directory)
+
+<IfModule mod_headers.c>
+  Header set X-Content-Type-Options "nosniff"
+  Header set Referrer-Policy "strict-origin-when-cross-origin"
+  <FilesMatch "\.(?:css|js|woff2?|jpg|jpeg|png|webp|avif|svg|ico)$">
+    Header set Cache-Control "public, max-age=31536000, immutable"
+  </FilesMatch>
+</IfModule>
+
+ErrorDocument 404 /404.html
