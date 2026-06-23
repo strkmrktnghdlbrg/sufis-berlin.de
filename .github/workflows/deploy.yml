@@ -37,15 +37,15 @@ jobs:
           echo "Built files: $(find dist -type f | wc -l)"
           echo "Total size: $(du -sh dist | cut -f1)"
 
-      # Upload the built dist/ straight to the document root over SFTP.
-      # No git clone on the server — the runner pushes files directly.
-      - name: Deploy dist/ via SCP
-        uses: appleboy/scp-action@v0.1.7
+      # Upload the built dist/ straight to the document root over a single
+      # rsync-over-SSH connection. No git clone on the server, and avoids the
+      # multi-connection handshake throttling that scp-action hit on StackCP.
+      - name: Deploy dist/ via rsync
+        uses: burnett01/rsync-deployments@7.0.1
         with:
-          host: ssh.gb.stackcp.com
-          username: top10-heidelberg.de
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: "dist/*"
-          target: "/home/sites/20a/9/9a9f6d1c7a/public_html/sufis-berlin.de"
-          strip_components: 1
-          overwrite: true
+          switches: -avzr
+          path: dist/
+          remote_path: /home/sites/20a/9/9a9f6d1c7a/public_html/sufis-berlin.de/
+          remote_host: ssh.gb.stackcp.com
+          remote_user: top10-heidelberg.de
+          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
