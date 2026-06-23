@@ -8,9 +8,14 @@ DirectoryIndex index.html
 <IfModule mod_rewrite.c>
   RewriteEngine On
 
-  # Force HTTPS + non-www (canonical host = https://sufis-berlin.de)
-  RewriteCond %{HTTPS} off [OR]
+  # Redirect www -> non-www (canonical host = https://sufis-berlin.de)
   RewriteCond %{HTTP_HOST} ^www\. [NC]
+  RewriteRule ^ https://sufis-berlin.de%{REQUEST_URI} [L,R=301]
+
+  # Force HTTPS — respect the proxy header on shared hosting to avoid a
+  # redirect loop (HostMaria terminates SSL, so %{HTTPS} is "off" internally).
+  RewriteCond %{HTTPS} off
+  RewriteCond %{HTTP:X-Forwarded-Proto} !=https
   RewriteRule ^ https://sufis-berlin.de%{REQUEST_URI} [L,R=301]
 
   # Legacy /thema/ category archives (indexed but no traffic) -> closest hub
