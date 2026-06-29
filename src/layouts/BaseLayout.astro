@@ -23,7 +23,7 @@ const ogImage = image ?? `${SITE.url}/og-default.jpg`;
   <title>{title}</title>
   <meta name="description" content={description} />
   <link rel="canonical" href={canonicalUrl} />
-  {noindex && <meta name="robots" content="noindex,follow" />}
+  {noindex && <meta name="robots" content="noindex,nofollow" />}
   <meta property="og:type" content="website" />
   <meta property="og:title" content={title} />
   <meta property="og:description" content={description} />
