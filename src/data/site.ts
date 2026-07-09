@@ -6,7 +6,7 @@ export const SITE = {
   description:
     'Das unabhängige Verzeichnis für Berlins Clubs, Bars und Nachtleben. Vergleiche nach Sound, Bezirk, Türpolitik und Dresscode.',
   // --- integrations (fill before go-live) ---
-  gtmId: '',            // e.g. GTM-XXXXXXX
+  gtmId: 'GTM-NHBTLC54',            // e.g. GTM-XXXXXXX
   adsenseClient: 'ca-pub-5853390883830243',  // Google AdSense (Auto Ads + Google CMP)
   stay22LmaId: '687d45fa59536aeb6a353b71',  // per-project Stay22 lmaID (from ClickUp Projects & PBNs)
   gygPartnerId: '1UPZQQB',
