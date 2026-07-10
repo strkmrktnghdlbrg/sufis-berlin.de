@@ -23,7 +23,7 @@ const featuredBezirke = BEZIRKE.slice(0, 8);
 let mag = await getCollection('berlin');
 mag = mag.filter((e) => ['guide', 'special'].includes(e.data.kind)).slice(0, 3);
 ---
-<BaseLayout title={`${SITE.name} — ${SITE.tagline}`} description={SITE.description}>
+<BaseLayout title={`${SITE.name} - ${SITE.tagline}`} description={SITE.description}>
   <Fragment slot="head">
     <script type="application/ld+json" set:html={JSON.stringify({
       '@context': 'https://schema.org', '@type': 'WebSite', name: SITE.name, url: SITE.url,
