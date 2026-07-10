@@ -51,13 +51,8 @@ jobs:
           git pull origin main --rebase
           git push origin main
 
-      # Server pulls the freshly-committed dist/ (cPanel Git VC repo).
-      # SSH-in can be flaky on this host's inbound IP filtering; if this step
-      # times out, the same pull can be triggered from cPanel's Deploy button.
-      - name: Deploy via SSH (server-side git pull)
-        uses: appleboy/ssh-action@v1.0.3
-        with:
-          host: ssh.gb.stackcp.com
-          username: top10-heidelberg.de
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          script: "cd /home/sites/20a/9/9a9f6d1c7a/public_html/sufis-berlin.de/astro && git fetch origin main && git checkout main && git pull origin main"
+      # NOTE: No SSH-in deploy step. Inbound SSH from GitHub runners to this
+      # StackCP host is reliably blocked (dial tcp :22 i/o timeout), so the
+      # server pulls this branch itself instead — a cPanel cron job runs
+      # `git pull origin main` in the astro/ repo every few minutes. This
+      # workflow's job is done once dist/ is committed to main above.
