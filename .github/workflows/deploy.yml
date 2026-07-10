@@ -12,11 +12,15 @@ concurrency:
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 15
 
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Setup Node 22
         uses: actions/setup-node@v4
@@ -37,15 +41,23 @@ jobs:
           echo "Built files: $(find dist -type f | wc -l)"
           echo "Total size: $(du -sh dist | cut -f1)"
 
-      # Upload the built dist/ straight to the document root over a single
-      # rsync-over-SSH connection. No git clone on the server, and avoids the
-      # multi-connection handshake throttling that scp-action hit on StackCP.
-      - name: Deploy dist/ via rsync
-        uses: burnett01/rsync-deployments@7.0.1
+      - name: Commit dist/ to main
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add -f dist/
+          git diff --staged --quiet || git commit -m "build: $(date -u '+%Y-%m-%dT%H:%M:%SZ')"
+          git pull origin main --rebase
+          git push origin main
+
+      # Server pulls the freshly-committed dist/ (cPanel Git VC repo).
+      # SSH-in can be flaky on this host's inbound IP filtering; if this step
+      # times out, the same pull can be triggered from cPanel's Deploy button.
+      - name: Deploy via SSH (server-side git pull)
+        uses: appleboy/ssh-action@v1.0.3
         with:
-          switches: -avzr
-          path: dist/
-          remote_path: /home/sites/20a/9/9a9f6d1c7a/public_html/sufis-berlin.de/
-          remote_host: ssh.gb.stackcp.com
-          remote_user: top10-heidelberg.de
-          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          host: ssh.gb.stackcp.com
+          username: top10-heidelberg.de
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: "cd /home/sites/20a/9/9a9f6d1c7a/public_html/sufis-berlin.de/astro-site && git fetch origin main && git checkout main && git pull origin main"
