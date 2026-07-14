@@ -34,6 +34,25 @@ const hotels = defineCollection({
   }),
 });
 
+/* English (US) nightlife hubs — genre + district only. Mirrors /berlin/<slug>/
+   under /en/berlin/<slug>/. DE content is never edited; EN lives here. */
+const berlinEn = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/berlin-en' }),
+  schema: z.object({
+    ...seo,
+    kind: z.enum(['genre', 'bezirk']).default('genre'),
+  }),
+});
+
+/* English (US) hotel booking pages — mirrors /hotels/<slug>/ under /en/hotels/<slug>/. */
+const hotelsEn = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/hotels-en' }),
+  schema: z.object({
+    ...seo,
+    bezirk: z.string().default(''),
+  }),
+});
+
 /* Off-topic / guest posts kept at their exact original path
    (e.g. /catering/..., /clubs/..., /reisen/..., /unternehmen/...) */
 const extra = defineCollection({
@@ -45,4 +64,4 @@ const extra = defineCollection({
   }),
 });
 
-export const collections = { berlin, hotels, extra };
+export const collections = { berlin, hotels, extra, berlinEn, hotelsEn };

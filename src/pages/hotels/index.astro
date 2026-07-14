@@ -5,7 +5,7 @@ import { SITE } from '../../data/site';
 
 const hotels = (await getCollection('hotels')).sort((a, b) => a.data.title.localeCompare(b.data.title));
 ---
-<BaseLayout title="Hotels in Berlin – nach Bezirk & Stil – SUFIS Berlin" description="Boutique-, Design- und Charme-Hotels in allen Berliner Bezirken – ideal kombiniert mit deiner Clubnacht.">
+<BaseLayout title="Hotels in Berlin – nach Bezirk & Stil – SUFIS Berlin" description="Boutique-, Design- und Charme-Hotels in allen Berliner Bezirken – ideal kombiniert mit deiner Clubnacht." alternateUrls={{ de: '/hotels/', en: '/en/hotels/' }}>
   <section class="block">
     <div class="wrap">
       <div class="head">

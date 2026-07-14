@@ -1,0 +1,65 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
+import { SITE, BEZIRKE } from '../../../data/site';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('hotelsEn');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+const breadcrumbs = [
+  { href: '/en/', label: 'Home' },
+  { href: '/en/hotels/', label: 'Hotels' },
+  { label: d.title },
+];
+
+// Only districts that have a nightlife hub get a cross-link.
+const bezirkMatch = d.bezirk
+  ? BEZIRKE.find((b) => b.name.toLowerCase() === d.bezirk.toLowerCase())
+  : null;
+
+// Approx. district centers for a better-centered Stay22 booking map.
+const coords: Record<string, [number, number]> = {
+  'Mitte': [52.525, 13.405], 'Kreuzberg': [52.499, 13.403], 'Schöneberg': [52.483, 13.355],
+  'Charlottenburg': [52.505, 13.304], 'Neukölln': [52.481, 13.435], 'Pankow': [52.569, 13.402],
+  'Wedding': [52.550, 13.343], 'Köpenick': [52.445, 13.575], 'Tempelhof': [52.470, 13.385],
+  'Zehlendorf': [52.434, 13.259], 'Friedrichshain': [52.515, 13.454], 'Prenzlauer Berg': [52.540, 13.424],
+};
+const [lat, lng] = coords[d.bezirk] ?? [52.52, 13.405];
+const marker = d.bezirk ? `Berlin ${d.bezirk}` : 'Berlin';
+---
+<ArticleLayout
+  title={d.title}
+  metaTitle={d.metaTitle || `${d.title} - SUFIS Berlin`}
+  description={d.metaDescription}
+  cover={d.cover}
+  publishDate={d.publishDate}
+  updated={d.updated}
+  breadcrumbs={breadcrumbs}
+  locale="en"
+  alternateUrls={{ de: `/hotels/${entry.id}/`, en: `/en/hotels/${entry.id}/` }}
+>
+  <Content />
+
+  {SITE.stay22LmaId && (
+    <div style="margin-top:40px">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:14px">Book a hotel in {d.bezirk || 'Berlin'}</p>
+      <div style="border:1px solid var(--fog);border-radius:var(--r-img);overflow:hidden">
+        <iframe title={`Hotels in ${d.bezirk || 'Berlin'}`} style="width:100%;height:460px;border:0" loading="lazy"
+          src={`https://www.stay22.com/embed/gm?aid=${SITE.stay22LmaId}&lat=${lat}&lng=${lng}&maincolor=ff2d7e&markername=${encodeURIComponent(marker)}`}></iframe>
+      </div>
+    </div>
+  )}
+
+  {bezirkMatch && (
+    <div style="margin-top:48px;padding:24px 28px;border:1px solid var(--fog);border-radius:var(--r-ui);background:var(--paper)">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:10px">Nightlife in this neighborhood</p>
+      <p style="font-size:15px;color:var(--steel);margin-bottom:16px">Staying in {bezirkMatch.name}? Discover the best clubs and bars right on your doorstep.</p>
+      <a class="btn btn-ghost" href={`/en/berlin/${bezirkMatch.slug}/`}>Explore nightlife in {bezirkMatch.name} &rarr;</a>
+    </div>
+  )}
+</ArticleLayout>

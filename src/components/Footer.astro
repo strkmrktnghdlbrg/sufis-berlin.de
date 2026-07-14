@@ -1,44 +1,83 @@
 ---
 import Logo from './Logo.astro';
+import { type Locale } from '../i18n/config';
+import { t } from '../i18n/ui';
+
+interface Props { locale?: Locale; }
+const { locale = 'de' } = Astro.props;
+const en = locale === 'en';
 ---
-<footer>
-  <div class="wrap foot-top">
-    <div class="foot-brand">
-      <a class="logo" href="/"><Logo id="lg-f" /><span style="color:#fff">SUFIS<span class="thin"> Berlin</span></span></a>
-      <p>Das unabhängige Verzeichnis für Berlins Clubs, Bars und Nachtleben. Wir verkaufen keine Rankings – wir helfen dir, die richtige Nacht zu finden.</p>
+{en ? (
+  <footer>
+    <div class="wrap foot-top">
+      <div class="foot-brand">
+        <a class="logo" href="/en/"><Logo id="lg-f" /><span style="color:#fff">SUFIS<span class="thin"> Berlin</span></span></a>
+        <p>{t('en', 'footer.tagline')}</p>
+      </div>
+      <div class="foot-col"><h4>{t('en', 'footer.discover')}</h4>
+        <a href="/en/genres/">{t('en', 'footer.byGenre')}</a>
+        <a href="/en/districts/">{t('en', 'footer.byDistrict')}</a>
+        <a href="/en/hotels/">{t('en', 'footer.hotels')}</a>
+      </div>
+      <div class="foot-col"><h4>Genres</h4>
+        <a href="/en/berlin/techno-nachtclubs/">Techno</a>
+        <a href="/en/berlin/jazz-und-blues-nachtclubs/">Jazz & Blues</a>
+        <a href="/en/berlin/hip-hop-nachtclubs/">Hip-Hop</a>
+        <a href="/en/berlin/live-musik-in-berlin/">Live Music</a>
+        <a href="/en/berlin/exklusive-nachtclubs-in-berlin/">Exclusive Clubs</a>
+      </div>
+      <div class="foot-col"><h4>{t('en', 'footer.legal')}</h4>
+        <a href="/en/imprint/">{t('en', 'footer.imprint')}</a>
+        <a href="/en/privacy/">{t('en', 'footer.privacy')}</a>
+        <a href="/en/terms/">{t('en', 'footer.terms')}</a>
+      </div>
     </div>
-    <div class="foot-col"><h4>Entdecken</h4>
-      <a href="/berlin/die-besten-nachtclubs/">Alle Clubs</a>
-      <a href="/genres/">Nach Genre</a>
-      <a href="/bezirke/">Nach Bezirk</a>
-      <a href="/berlin/24-7-nachtclubs/">Heute geöffnet</a>
-      <a href="/hotels/">Hotels in Berlin</a>
+    <div class="wrap foot-bottom">
+      <span>{t('en', 'footer.rights')}</span>
+      <span class="lg"><a href="/en/privacy/">{t('en', 'footer.privacy')}</a><a href="/en/imprint/">{t('en', 'footer.imprint')}</a><a href="/en/terms/">{t('en', 'footer.terms')}</a></span>
     </div>
-    <div class="foot-col"><h4>Genres</h4>
-      <a href="/berlin/techno-nachtclubs/">Techno-Clubs</a>
-      <a href="/berlin/jazz-und-blues-nachtclubs/">Jazz & Blues</a>
-      <a href="/berlin/hip-hop-nachtclubs/">Hip-Hop-Clubs</a>
-      <a href="/berlin/live-musik-in-berlin/">Live-Musik</a>
-      <a href="/berlin/exklusive-nachtclubs-in-berlin/">Exklusive Clubs</a>
+    <div class="disclaimer">{t('en', 'footer.disclaimer')}</div>
+  </footer>
+) : (
+  <footer>
+    <div class="wrap foot-top">
+      <div class="foot-brand">
+        <a class="logo" href="/"><Logo id="lg-f" /><span style="color:#fff">SUFIS<span class="thin"> Berlin</span></span></a>
+        <p>Das unabhängige Verzeichnis für Berlins Clubs, Bars und Nachtleben. Wir verkaufen keine Rankings – wir helfen dir, die richtige Nacht zu finden.</p>
+      </div>
+      <div class="foot-col"><h4>Entdecken</h4>
+        <a href="/berlin/die-besten-nachtclubs/">Alle Clubs</a>
+        <a href="/genres/">Nach Genre</a>
+        <a href="/bezirke/">Nach Bezirk</a>
+        <a href="/berlin/24-7-nachtclubs/">Heute geöffnet</a>
+        <a href="/hotels/">Hotels in Berlin</a>
+      </div>
+      <div class="foot-col"><h4>Genres</h4>
+        <a href="/berlin/techno-nachtclubs/">Techno-Clubs</a>
+        <a href="/berlin/jazz-und-blues-nachtclubs/">Jazz & Blues</a>
+        <a href="/berlin/hip-hop-nachtclubs/">Hip-Hop-Clubs</a>
+        <a href="/berlin/live-musik-in-berlin/">Live-Musik</a>
+        <a href="/berlin/exklusive-nachtclubs-in-berlin/">Exklusive Clubs</a>
+      </div>
+      <div class="foot-col"><h4>Für Clubs</h4>
+        <a href="/club-eintragen/">Club eintragen</a>
+        <a href="/club-eintragen/">Premium-Profil</a>
+        <a href="/club-eintragen/">Profil beanspruchen</a>
+        <a href="/club-eintragen/">Preise</a>
+        <a href="/club-eintragen/">Anmelden</a>
+      </div>
+      <div class="foot-col"><h4>Über uns</h4>
+        <a href="/uber-uns/">Über uns</a>
+        <a href="/magazin/">Magazin</a>
+        <a href="/kontakt/">Kontakt</a>
+        <a href="/datenschutz/">Datenschutz</a>
+        <a href="/impressum/">Impressum</a>
+      </div>
     </div>
-    <div class="foot-col"><h4>Für Clubs</h4>
-      <a href="/club-eintragen/">Club eintragen</a>
-      <a href="/club-eintragen/">Premium-Profil</a>
-      <a href="/club-eintragen/">Profil beanspruchen</a>
-      <a href="/club-eintragen/">Preise</a>
-      <a href="/club-eintragen/">Anmelden</a>
+    <div class="wrap foot-bottom">
+      <span>© 2026 sufis-berlin.de · Alle Angaben ohne Gewähr</span>
+      <span class="lg"><a href="/datenschutz/">Datenschutz</a><a href="/impressum/">Impressum</a><a href="/agb/">AGB</a></span>
     </div>
-    <div class="foot-col"><h4>Über uns</h4>
-      <a href="/uber-uns/">Über uns</a>
-      <a href="/magazin/">Magazin</a>
-      <a href="/kontakt/">Kontakt</a>
-      <a href="/datenschutz/">Datenschutz</a>
-      <a href="/impressum/">Impressum</a>
-    </div>
-  </div>
-  <div class="wrap foot-bottom">
-    <span>© 2026 sufis-berlin.de · Alle Angaben ohne Gewähr</span>
-    <span class="lg"><a href="/datenschutz/">Datenschutz</a><a href="/impressum/">Impressum</a><a href="/agb/">AGB</a></span>
-  </div>
-  <div class="disclaimer">Hinweis: Öffnungszeiten, Türpolitik und Programm können sich kurzfristig ändern. Bitte prüfe vor dem Besuch die offiziellen Kanäle des jeweiligen Clubs. Feiere verantwortungsvoll.</div>
-</footer>
+    <div class="disclaimer">Hinweis: Öffnungszeiten, Türpolitik und Programm können sich kurzfristig ändern. Bitte prüfe vor dem Besuch die offiziellen Kanäle des jeweiligen Clubs. Feiere verantwortungsvoll.</div>
+  </footer>
+)}

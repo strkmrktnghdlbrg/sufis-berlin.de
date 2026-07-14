@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { BEZIRKE } from '../../../data/site';
+---
+<BaseLayout
+  title="Berlin Nightlife by Neighborhood - SUFIS Berlin"
+  description="Clubs and bars in Friedrichshain, Kreuzberg, Mitte, Neukölln and every other Berlin neighborhood."
+  locale="en"
+  alternateUrls={{ de: '/bezirke/', en: '/en/districts/' }}
+>
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">By neighborhood</span>
+        <h2>Nightlife in every Kiez</h2>
+        <p>Every neighborhood has its own rhythm. Pick your Kiez and discover its clubs and bars.</p>
+      </div>
+      <div class="city-grid">
+        {BEZIRKE.map((b) => (
+          <a class="city" href={`/en/berlin/${b.slug}/`}>
+            <span><span class="nm">{b.name}</span><br><span class="ct">{b.descEn}</span></span><span class="ar">→</span>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

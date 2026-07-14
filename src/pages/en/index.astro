@@ -1,0 +1,133 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE, GENRES, BEZIRKE } from '../../data/site';
+
+const genreIcons: Record<string, string> = {
+  wave: 'M3 12h3l2 7 4-14 2 7h3M19 12h2',
+  sax: '', mic: '', guitar: '', glass: 'M12 2v6m0 0 3-2m-3 2L9 6M5 22h14l-2-9H7l-2 9Z',
+  clock: '', sun: '', spark: '', heart: '',
+};
+const districtCounts: Record<string, number> = {
+  'nachtclubs-in-friedrichshain': 38, 'nachtclubs-in-kreuzberg': 34, 'nachtclubs-in-mitte': 29,
+  'nachtclubs-in-neukoelln': 27, 'nachtclubs-in-charlottenburg': 16, 'nachtclubs-in-wedding': 14,
+  'nachtclubs-in-schoeneberg': 13, 'nachtclubs-in-prenzlauer-berg': 11, 'nachtclubs-in-tempelhof': 9,
+};
+const featuredGenres = GENRES.slice(0, 6);
+const featuredBezirke = BEZIRKE.slice(0, 8);
+---
+<BaseLayout
+  title="Berlin Nightlife Guide - Clubs, Bars & Hotels"
+  description="The independent guide to Berlin's clubs, bars and nightlife. Compare venues by sound, neighborhood and door policy - and book a hotel close to the action."
+  locale="en"
+  alternateUrls={{ de: '/', en: '/en/' }}
+>
+  <div class="announce">Over <b>180 Berlin clubs & bars</b> - curated, with door policy, dress code & sound. Planning a night out?</div>
+
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div>
+        <span class="eyebrow">The nightlife guide to Berlin</span>
+        <h1>Find the club<br><em>that fits your night.</em></h1>
+        <p class="lead">Compare Berlin's clubs and bars by sound, neighborhood, door policy and dress code - from techno cathedrals to jazz basements. Curated, honest and up to date. Traveling in? Book a hotel steps from the dance floor.</p>
+        <div class="searchcard">
+          <div class="chips">
+            {featuredGenres.map((g) => <a class="chip" href={`/en/berlin/${g.slug}/`}><span class="x">＋</span>{g.nameEn}</a>)}
+          </div>
+        </div>
+        <div class="hero-trust">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2 4 5v6c0 5 3.4 8.5 8 11 4.6-2.5 8-6 8-11V5l-8-3Z"/><path d="m9 12 2 2 4-4"/></svg>
+          Editorially reviewed · no paid rankings · made in Berlin
+        </div>
+      </div>
+      <div class="hero-visual">
+        <img src="/images/die-besten-nachtclubs.jpg" alt="A Berlin club at night with a light show" width="900" height="490" />
+        <div class="float-card float-1"><div class="av">TR</div><div><div class="nm">Tresor</div><div class="sub">Techno · Mitte</div></div></div>
+        <div class="float-card float-2"><div class="big">4.7</div><div class="stars">★★★★★</div><div class="sub">from 1,240 reviews</div></div>
+      </div>
+    </div>
+  </section>
+
+  <div class="trust-strip">
+    <div class="wrap trust-in">
+      <div><div class="num">180+</div><div class="lab">Clubs & bars in the guide</div></div>
+      <div><div class="num">9</div><div class="lab">Neighborhoods</div></div>
+      <div><div class="num">13</div><div class="lab">Sounds & scenes</div></div>
+      <div><div class="num">100 %</div><div class="lab">Free & independent</div></div>
+    </div>
+  </div>
+
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">By sound</span>
+        <h2>Clubs by genre & scene</h2>
+        <p>From Berghain techno and house floors to hip-hop nights and jazz basements - find the sound that fits you.</p>
+      </div>
+      <div class="grid-3">
+        {featuredGenres.map((g) => (
+          <a class="vcard" href={`/en/berlin/${g.slug}/`}>
+            <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d={genreIcons[g.icon] || 'M3 12h3l2 7 4-14 2 7h3'} /></svg></div>
+            <h3>{g.nameEn}</h3><p>{g.descEn}</p>
+          </a>
+        ))}
+      </div>
+      <a class="morelink" href="/en/genres/">See all genres →</a>
+    </div>
+  </section>
+
+  <section class="block cities">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">By neighborhood</span>
+        <h2>Nightlife in every Kiez</h2>
+        <p>Friedrichshain for techno, Neukölln for bars, Charlottenburg for jazz - every neighborhood has its own rhythm.</p>
+      </div>
+      <div class="city-grid">
+        {featuredBezirke.map((b) => (
+          <a class="city" href={`/en/berlin/${b.slug}/`}>
+            <span><span class="nm">{b.name}</span><br><span class="ct">{districtCounts[b.slug] ?? 10} clubs & bars</span></span><span class="ar">→</span>
+          </a>
+        ))}
+      </div>
+      <a class="morelink" href="/en/districts/">All neighborhoods A–Z →</a>
+    </div>
+  </section>
+
+  <section class="block steps">
+    <div class="wrap">
+      <div class="head center">
+        <span class="eyebrow">In three steps</span>
+        <h2>How to plan your night</h2>
+        <p>No more door-policy roulette - know before you go where you'll get in and what's on.</p>
+      </div>
+      <div class="grid-3">
+        <div class="step"><div class="n">1</div><h3>Search & filter</h3><p>Pick a sound and a neighborhood. Filter by door policy, dress code, cover charge, opening hours and age.</p></div>
+        <div class="step"><div class="n">2</div><h3>Compare clubs</h3><p>Read honest profiles, door-policy tips and real reviews, so you find the floor that fits you.</p></div>
+        <div class="step"><div class="n">3</div><h3>Head out</h3><p>Check the line-up, book a hotel nearby, grab your crew - and get past the door with no surprises.</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="block" style="padding-top:24px">
+    <div class="wrap">
+      <div class="cta-band">
+        <div>
+          <span class="eyebrow" style="color:rgba(255,255,255,.85)">Visiting Berlin?</span>
+          <h2>Stay close to the night.</h2>
+          <p>Book a boutique, design or charming hotel in the right neighborhood - then walk home after the last set. We list hotels across all nine nightlife districts, with a live booking map.</p>
+          <div class="cta-actions">
+            <a class="btn btn-primary btn-lg" href="/en/hotels/">Browse hotels in Berlin</a>
+            <a class="btn btn-ghost btn-lg" style="color:#fff;border-color:rgba(255,255,255,.5)" href="/en/districts/">Explore neighborhoods</a>
+          </div>
+          <div class="price">Real-time availability & prices · compare hundreds of stays on one map</div>
+        </div>
+        <ul>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Hotels in every nightlife neighborhood</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Boutique & design stays, hand-picked</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Live booking map with real prices</li>
+          <li><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2"><path d="m20 6-11 11-5-5"/></svg>Walkable to the clubs you came for</li>
+        </ul>
+      </div>
+    </div>
+  </section>
+</BaseLayout>

@@ -1,0 +1,35 @@
+---
+import { type Locale, locales, localeNames, homeUrl } from '../i18n/config';
+import { t } from '../i18n/ui';
+
+interface Props {
+  locale?: Locale;
+  alternateUrls?: { de?: string; en?: string };
+}
+const { locale = 'de', alternateUrls } = Astro.props;
+
+/* Prefer the page-specific alternate URL; fall back to the locale home. */
+function targetFor(target: Locale): string {
+  return alternateUrls?.[target] ?? homeUrl(target);
+}
+---
+<div class="langswitch" role="group" aria-label={t(locale, 'aria.langSwitch')}>
+  {locales.map((loc, i) => (
+    <>
+      {i > 0 && <span class="sep" aria-hidden="true">·</span>}
+      {loc === locale ? (
+        <span class="cur" aria-current="true">{loc.toUpperCase()}</span>
+      ) : (
+        <a href={targetFor(loc)} hreflang={loc} aria-label={localeNames[loc]}>{loc.toUpperCase()}</a>
+      )}
+    </>
+  ))}
+</div>
+
+<style>
+  .langswitch { display: inline-flex; align-items: center; gap: 6px; font-family: var(--font-ui); font-size: 12px; font-weight: 600; letter-spacing: .06em; }
+  .langswitch a { color: var(--steel); text-decoration: none; padding: 2px 4px; border-radius: 4px; transition: color .15s; }
+  .langswitch a:hover { color: var(--neon); }
+  .langswitch .cur { color: var(--ink); }
+  .langswitch .sep { color: var(--fog); }
+</style>

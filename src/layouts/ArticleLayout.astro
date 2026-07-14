@@ -1,5 +1,7 @@
 ---
 import BaseLayout from './BaseLayout.astro';
+import { type Locale } from '../i18n/config';
+import { t } from '../i18n/ui';
 
 interface Crumb { href?: string; label: string; }
 interface RelatedEntry { id: string; data: { title: string; excerpt?: string; cover?: { src: string; alt?: string } } }
@@ -15,20 +17,24 @@ interface Props {
   isGuestPost?: boolean;
   relatedEntries?: RelatedEntry[];
   relatedLabel?: string;
+  locale?: Locale;
+  alternateUrls?: { de?: string; en?: string };
 }
-const { title, description, metaTitle, cover, publishDate, updated, breadcrumbs = [], verifiedNote, isGuestPost, relatedEntries = [], relatedLabel = 'Das könnte dich auch interessieren' } = Astro.props;
+const { title, description, metaTitle, cover, publishDate, updated, breadcrumbs = [], verifiedNote, isGuestPost, relatedEntries = [], relatedLabel, locale = 'de', alternateUrls } = Astro.props;
+const relatedHeading = relatedLabel ?? t(locale, 'article.related');
+const relatedBase = locale === 'en' ? '/en/berlin/' : '/berlin/';
 const fmt = (d?: string) => {
   if (!d) return '';
   const dt = new Date(d);
-  return isNaN(+dt) ? '' : dt.toLocaleDateString('de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
+  return isNaN(+dt) ? '' : dt.toLocaleDateString(locale === 'en' ? 'en-US' : 'de-DE', { year: 'numeric', month: 'long', day: 'numeric' });
 };
 ---
-<BaseLayout title={metaTitle || title} description={description} image={cover?.src}>
+<BaseLayout title={metaTitle || title} description={description} image={cover?.src} locale={locale} alternateUrls={alternateUrls}>
   <article class="article-hero">
     <div class="wrap">
       <div class="article-head">
         {breadcrumbs.length > 0 && (
-          <nav class="breadcrumb" aria-label="Brotkrumen">
+          <nav class="breadcrumb" aria-label={t(locale, 'aria.breadcrumb')}>
             {breadcrumbs.map((c, i) => (
               <>
                 {c.href ? <a href={c.href}>{c.label}</a> : <span>{c.label}</span>}
@@ -39,8 +45,8 @@ const fmt = (d?: string) => {
         )}
         <h1>{title}</h1>
         <div class="article-meta">
-          {updated ? <span>Aktualisiert: {fmt(updated)}</span> : publishDate && <span>{fmt(publishDate)}</span>}
-          <span>· SUFIS Berlin Redaktion</span>
+          {updated ? <span>{t(locale, 'article.updated')}: {fmt(updated)}</span> : publishDate && <span>{fmt(publishDate)}</span>}
+          <span>· {t(locale, 'article.byline')}</span>
         </div>
       </div>
       {cover?.src && (
@@ -55,7 +61,7 @@ const fmt = (d?: string) => {
   <div class="article">
     <div class="wrap">
       {isGuestPost && (
-        <p class="guest-note">Dieser Beitrag wurde von einem externen Partner bereitgestellt.</p>
+        <p class="guest-note">{t(locale, 'article.guestNote')}</p>
       )}
       <div class="prose">
         <slot />
@@ -67,12 +73,12 @@ const fmt = (d?: string) => {
     <section class="block cities" style="padding-top:56px;padding-bottom:72px">
       <div class="wrap">
         <div class="head">
-          <span class="eyebrow">Mehr entdecken</span>
-          <h2>{relatedLabel}</h2>
+          <span class="eyebrow">{t(locale, 'article.moreDiscover')}</span>
+          <h2>{relatedHeading}</h2>
         </div>
         <div class="grid-3">
           {relatedEntries.map((e) => (
-            <a class="acard" href={`/berlin/${e.id}/`}>
+            <a class="acard" href={`${relatedBase}${e.id}/`}>
               {e.data.cover?.src && <img src={e.data.cover.src} alt={e.data.cover.alt || e.data.title} loading="lazy" width="600" height="178" />}
               <div class="body">
                 <h3>{e.data.title}</h3>

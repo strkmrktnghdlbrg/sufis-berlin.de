@@ -7,7 +7,7 @@ entries = entries
   .filter((e) => ['guide', 'special'].includes(e.data.kind))
   .sort((a, b) => (b.data.publishDate || '').localeCompare(a.data.publishDate || ''));
 ---
-<BaseLayout title="Magazin & Guides – SUFIS Berlin" description="Türpolitik, Dresscodes, Insider-Tipps und Geschichten aus dem Berliner Nachtleben.">
+<BaseLayout title="Magazin & Guides – SUFIS Berlin" description="Türpolitik, Dresscodes, Insider-Tipps und Geschichten aus dem Berliner Nachtleben." alternateUrls={{ de: '/magazin/' }}>
   <section class="block">
     <div class="wrap">
       <div class="head">

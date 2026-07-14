@@ -1,0 +1,28 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { GENRES } from '../../../data/site';
+---
+<BaseLayout
+  title="Berlin Clubs by Genre & Sound - SUFIS Berlin"
+  description="Techno, house, jazz, hip-hop, live music and more: find Berlin clubs by the sound you're after."
+  locale="en"
+  alternateUrls={{ de: '/genres/', en: '/en/genres/' }}
+>
+  <section class="block">
+    <div class="wrap">
+      <div class="head">
+        <span class="eyebrow">By sound</span>
+        <h2>Clubs by genre & scene</h2>
+        <p>Every floor sounds different. Pick your sound and find the right clubs and bars in Berlin.</p>
+      </div>
+      <div class="grid-3">
+        {GENRES.map((g) => (
+          <a class="vcard" href={`/en/berlin/${g.slug}/`}>
+            <div class="ic"><svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12h3l2 7 4-14 2 7h3" /></svg></div>
+            <h3>{g.nameEn}</h3><p>{g.descEn}</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

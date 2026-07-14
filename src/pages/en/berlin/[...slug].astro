@@ -1,0 +1,100 @@
+---
+import { getCollection, render } from 'astro:content';
+import ArticleLayout from '../../../layouts/ArticleLayout.astro';
+import { GENRES, BEZIRKE } from '../../../data/site';
+
+export async function getStaticPaths() {
+  const entries = await getCollection('berlinEn');
+  return entries.map((entry) => ({ params: { slug: entry.id }, props: { entry } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const d = entry.data;
+
+const kindLabel: Record<string, string> = { genre: 'Genres', bezirk: 'Districts' };
+const kindHref: Record<string, string> = { genre: '/en/genres/', bezirk: '/en/districts/' };
+const breadcrumbs = [
+  { href: '/en/', label: 'Home' },
+  { href: kindHref[d.kind] ?? '/en/genres/', label: kindLabel[d.kind] ?? 'Genres' },
+  { label: d.title },
+];
+
+const allBerlin = await getCollection('berlinEn');
+const siblings = allBerlin
+  .filter((e) => e.id !== entry.id && e.data.kind === d.kind)
+  .slice(0, 4);
+
+const relatedLabelMap: Record<string, string> = {
+  genre: 'Explore more genres',
+  bezirk: 'More Berlin neighborhoods',
+};
+
+// For district pages, pull matching hotel pages (EN) as a booking teaser.
+let bezirkHotels: { id: string; data: { title: string; excerpt: string; cover?: { src: string; alt?: string } } }[] = [];
+if (d.kind === 'bezirk') {
+  const bezirkEntry = BEZIRKE.find((b) => b.slug === entry.id);
+  if (bezirkEntry) {
+    const allHotels = await getCollection('hotelsEn');
+    bezirkHotels = allHotels
+      .filter((h) => h.data.bezirk?.toLowerCase() === bezirkEntry.name.toLowerCase())
+      .slice(0, 2)
+      .map((h) => ({ id: h.id, data: { title: h.data.title, excerpt: h.data.excerpt, cover: h.data.cover } }));
+  }
+}
+---
+<ArticleLayout
+  title={d.title}
+  metaTitle={d.metaTitle || `${d.title} - SUFIS Berlin`}
+  description={d.metaDescription}
+  cover={d.cover}
+  publishDate={d.publishDate}
+  updated={d.updated}
+  breadcrumbs={breadcrumbs}
+  relatedEntries={siblings}
+  relatedLabel={relatedLabelMap[d.kind] ?? 'You might also like'}
+  locale="en"
+  alternateUrls={{ de: `/berlin/${entry.id}/`, en: `/en/berlin/${entry.id}/` }}
+>
+  <Content />
+
+  {d.kind === 'genre' && (
+    <div style="margin-top:48px;padding-top:40px;border-top:1px solid var(--mist)">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:14px">Clubs by neighborhood</p>
+      <div class="pillwrap">
+        {BEZIRKE.map((b) => (
+          <a class="pill" href={`/en/berlin/${b.slug}/`}>{b.name}</a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  {d.kind === 'bezirk' && (
+    <div style="margin-top:48px;padding-top:40px;border-top:1px solid var(--mist)">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:14px">Clubs by sound</p>
+      <div class="pillwrap">
+        {GENRES.map((g) => (
+          <a class="pill" href={`/en/berlin/${g.slug}/`}>{g.nameEn}</a>
+        ))}
+      </div>
+    </div>
+  )}
+
+  {d.kind === 'bezirk' && bezirkHotels.length > 0 && (
+    <div style="margin-top:48px;padding-top:40px;border-top:1px solid var(--mist)">
+      <p style="font-family:var(--font-ui);font-size:13px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--neon);margin-bottom:14px">Hotels nearby</p>
+      <div class="grid-2" style="max-width:46rem">
+        {bezirkHotels.map((h) => (
+          <a class="acard" href={`/en/hotels/${h.id}/`}>
+            {h.data.cover?.src && <img src={h.data.cover.src} alt={h.data.cover.alt || h.data.title} loading="lazy" width="600" height="178" />}
+            <div class="body">
+              <h3>{h.data.title}</h3>
+              {h.data.excerpt && <p class="mt" style="font-size:13px;color:var(--steel)">{h.data.excerpt}</p>}
+            </div>
+          </a>
+        ))}
+      </div>
+      <a class="morelink" href="/en/hotels/" style="margin-top:20px">View all hotels &rarr;</a>
+    </div>
+  )}
+</ArticleLayout>

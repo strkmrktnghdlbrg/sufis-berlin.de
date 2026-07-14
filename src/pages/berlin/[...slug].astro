@@ -12,6 +12,13 @@ const { entry } = Astro.props;
 const { Content } = await render(entry);
 const d = entry.data;
 
+// Only genre + district hubs have an English counterpart (booking-core scope).
+// Deep guides/specials stay DE-only: self de + x-default, no en alternate leaks.
+const hasEn = d.kind === 'genre' || d.kind === 'bezirk';
+const alternateUrls = hasEn
+  ? { de: `/berlin/${entry.id}/`, en: `/en/berlin/${entry.id}/` }
+  : { de: `/berlin/${entry.id}/` };
+
 const kindLabel: Record<string, string> = { genre: 'Genres', bezirk: 'Bezirke', special: 'Nachtleben', guide: 'Magazin' };
 const kindHref: Record<string, string> = { genre: '/genres/', bezirk: '/bezirke/', special: '/berlin/die-besten-nachtclubs/', guide: '/magazin/' };
 const breadcrumbs = [
@@ -59,6 +66,7 @@ if (d.kind === 'bezirk') {
   verifiedNote={d.verifiedNote}
   relatedEntries={siblings}
   relatedLabel={relatedLabelMap[d.kind] ?? 'Das könnte dich auch interessieren'}
+  alternateUrls={alternateUrls}
 >
   <Content />
 
